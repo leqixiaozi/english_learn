@@ -1,0 +1,410 @@
+{
+  "checked_on": "2026-10-17",
+  "purpose": "Reference originals for future original adult English project-story materials; no app implementation",
+  "scope_note": "Complete static text does not imply offline media, external readers, interactive tasks or full reading. F02 includes all 15 unit bodies; no separate preface. Samples are excluded from full-text counts.",
+  "entries": [
+    {
+      "id": "F01",
+      "title": "Listening and Speaking for Beginning English Language Learners",
+      "edition_or_year_evidence": "Title page 2023; PDF compiled 2025-06-07",
+      "access": "full-text",
+      "license_note": "CC BY 4.0; see page-level notices",
+      "official_entry": "https://commons.libretexts.org/book/human-172143",
+      "files": [
+        {
+          "path": "originals/F01-evc-listening-speaking-2023.pdf",
+          "source": "https://downloads.libretexts.org/api/v1/download/human-172143/pdf",
+          "pages": 129,
+          "bytes": 5436848,
+          "sha256": "002310c58f83ad812c1fb8cdc2af7fb61bf22bbcbdbb238a591fac6c24b0e145"
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "title": "Advanced-Level Writing in the University Classroom and Beyond, 2026 Edition",
+      "edition_or_year_evidence": "Institutional catalogue copyright 2026; all 15 unit bodies, printed pages 1-1377; separate preface not acquired",
+      "access": "full-text",
+      "license_note": "CC BY-NC-SA; embedded sources have individual notices",
+      "official_entry": "https://open.umn.edu/opentextbooks/textbooks/advanced-level-writing-in-the-university-classroom-and-beyond-mindful-practices-for-technical-business-and-scientific-communication",
+      "files": [
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-01.pdf",
+          "source": "https://drive.google.com/file/d/1rcmN67OUpTpjKBLDqJSrzEjLKrMrqw5e/view",
+          "pages": 150,
+          "bytes": 8574043,
+          "sha256": "c74899d0b1613818e993d965e8050feb4a4d936999e34b39380380f3ae821359"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-02.pdf",
+          "source": "https://drive.google.com/file/d/11Pi1fenVKuc990eU3KSegSmS-jrzp_Sq/view",
+          "pages": 143,
+          "bytes": 14419635,
+          "sha256": "3b028cb49a8d245d034fc2341b82e5902a5e413fe5e76197d64bf50fbeaeab7e"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-03.pdf",
+          "source": "https://drive.google.com/file/d/13okDVaFkfN6AM1c0_e-nvq8o3pkZVKba/view",
+          "pages": 60,
+          "bytes": 5815592,
+          "sha256": "61e8ecdcc429b7b9eab7b4dfcbb39c09794a4f56ac43d4c5a0879b3a07567240"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-04.pdf",
+          "source": "https://drive.google.com/file/d/1c2LT489h-NkEw0y6ZCOAB_cx1zkHXKM0/view",
+          "pages": 153,
+          "bytes": 9523546,
+          "sha256": "14809632a026910f490de37bc3baba08371d55b85da2171b0bb29b049e4e808a"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-05.pdf",
+          "source": "https://drive.google.com/file/d/1QJfjp-78PdhT-Hpw9Am0PC-cuPgK1Oq3/view",
+          "pages": 71,
+          "bytes": 1871366,
+          "sha256": "884ddc2b86f1e32553d4d108e6ed03338d11ca016509cf019a306c60b88be759"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-06.pdf",
+          "source": "https://drive.google.com/file/d/1mvDhcfL2U22R7b9wFgV7067zm2czWC82/view",
+          "pages": 42,
+          "bytes": 1913398,
+          "sha256": "a45cf0e650d287eaba69bc423df46b39e452a91c91dca4c5cbb4a2adcfb04141"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-07.pdf",
+          "source": "https://drive.google.com/file/d/1zv_wz5KHfUf5T47IliMphAggnl3o5jJ8/view",
+          "pages": 90,
+          "bytes": 3628286,
+          "sha256": "582000859f0c47e12f27332dee720a59d538cb3a8286cfa18785a1a5747168ee"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-08.pdf",
+          "source": "https://drive.google.com/file/d/1DT0sVKdcquKh_T0qdqWTWiS_h8jsJ8E1/view",
+          "pages": 44,
+          "bytes": 3908934,
+          "sha256": "aa6ef3d031276445bd979c88f927a11c0713df9abd1363ddba70caf071664862"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-09.pdf",
+          "source": "https://drive.google.com/file/d/1d72g8e6Y0IUXP3VND9aLfnM4bOowYUIG/view",
+          "pages": 126,
+          "bytes": 4764156,
+          "sha256": "248feeffc74413a0d4af22901ebd197fbc349f8feab7ba112dc9896203252918"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-10.pdf",
+          "source": "https://drive.google.com/file/d/1fxjn-pyAkZSYSDePiRcBDtqBbg7aYGre/view",
+          "pages": 87,
+          "bytes": 3504508,
+          "sha256": "55701e4323c7d927b6a0f631a70749495f62f3f6133a8b7b0aeb3fa46b6cab22"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-11.pdf",
+          "source": "https://drive.google.com/file/d/1SgVHPXSl-sRNcaaHxYmatES34MkEV-RT/view",
+          "pages": 78,
+          "bytes": 6604816,
+          "sha256": "196155bc2656c6d9c9587fab6f173d7a2d42892fd1b0289ac3b93ddd8b2e94d2"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-12.pdf",
+          "source": "https://drive.google.com/file/d/1GcadupQHIwsaraYfWNlBUp91LUasv7Rz/view",
+          "pages": 161,
+          "bytes": 3633360,
+          "sha256": "565510d2876ab87b291f0c4bab371f522b80b46fa57daffe55b97aa850769eef"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-13.pdf",
+          "source": "https://drive.google.com/file/d/1j2vSCq3OE2EH6QXhnqiiElTFFUyOgdlV/view",
+          "pages": 54,
+          "bytes": 1323319,
+          "sha256": "af7b067d99926e09376a18012263c574906468dc5067be3a2768747d6a7ad11a"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-14.pdf",
+          "source": "https://drive.google.com/file/d/1OOKOYFpllD7SsQwXBdGJK_0YhIKOlix4/view",
+          "pages": 36,
+          "bytes": 1624494,
+          "sha256": "6bb0200196ebe819ac9d9f3363883e14ec8fd7891912d0e1d8ff33f45e9cbd7e"
+        },
+        {
+          "path": "originals/F02-advanced-writing-2026/unit-15.pdf",
+          "source": "https://drive.google.com/file/d/1TWlkWLRSn7Je97gteD-ha8YnECucAmd0/view",
+          "pages": 82,
+          "bytes": 1412256,
+          "sha256": "3f867041bfcbd39f329a9116f22f0de9a57eb6a01fbeb7c608ad67389c9071eb"
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "title": "Amalgamation",
+      "edition_or_year_evidence": "Copyright 2023; institutional record updated 2024",
+      "access": "full-text",
+      "license_note": "CC BY-NC-SA, see embedded notices",
+      "official_entry": "https://sites.google.com/pcc.edu/oer-for-esol/home/amalgamation",
+      "files": [
+        {
+          "path": "originals/F03-amalgamation-2024.pdf",
+          "source": "https://drive.google.com/file/d/1D9GOs7a2yHWLqNiyRAHmsNLHAvcIc-GB/view",
+          "pages": 161,
+          "bytes": 7055566,
+          "sha256": "e0a4f3dfaea7364cc58fd88bc4a236b5afa4b0f8bec296fe5aa2c29af9d07e11"
+        }
+      ]
+    },
+    {
+      "id": "F04",
+      "title": "VOA Let's Learn English Level 1 lesson plans",
+      "edition_or_year_evidence": "2021 compilation; course began 2016",
+      "access": "full-text",
+      "license_note": "Public official download; do not infer blanket adaptation rights",
+      "official_entry": "https://learningenglish.voanews.com/a/6220041.html",
+      "files": [
+        {
+          "path": "originals/F04-voa-level1-complete.pdf",
+          "source": "https://docs.voanews.eu/en-us-learn/2021/09/09/fccd8340-337b-4d24-a750-f90c6d2d5843.pdf",
+          "pages": 601,
+          "bytes": 21264031,
+          "sha256": "8daba536470d0fac24548e4edb128d906782b8c5395fe7ce146c58d804d7a95c"
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "title": "Communication Beginnings",
+      "edition_or_year_evidence": "PDF copyright 2018; source filename updated-2019",
+      "access": "full-text",
+      "license_note": "CC BY-NC 4.0",
+      "official_entry": "https://pdx.pressbooks.pub/communicationbeginningsanintroductory/",
+      "files": [
+        {
+          "path": "originals/F05-communication-beginnings-2019.pdf",
+          "source": "https://content.library.pdx.edu/files/PDXScholar/communication/files/assets/common/downloads/final-manuscript_updated-2019.pdf?uni=955ad66a0b64423e07e7e31b9adcc836",
+          "pages": 99,
+          "bytes": 7484835,
+          "sha256": "a005bc6384c02794de2ebe2b1a5f6a94929ba2103ba6f590bce8e2516b674a6f"
+        }
+      ]
+    },
+    {
+      "id": "F06",
+      "title": "Business Writing For Everyone",
+      "edition_or_year_evidence": "Edition year not independently verified",
+      "access": "full-text",
+      "license_note": "CC BY-NC 4.0 except where noted",
+      "official_entry": "https://kpu.pressbooks.pub/businesswriting/",
+      "files": [
+        {
+          "path": "originals/F06-business-writing-everyone.pdf",
+          "source": "https://kpu.pressbooks.pub/businesswriting/open/download?type=pdf",
+          "pages": 383,
+          "bytes": 12188331,
+          "sha256": "39ae9f595a94ef6e6272fe570425ac8509cb78cf32731f5145d40cf6fd2e2e5d"
+        }
+      ]
+    },
+    {
+      "id": "F07",
+      "title": "A Digital Workbook for Beginning ESOL",
+      "edition_or_year_evidence": "Institutional issue date 2020",
+      "access": "full-text",
+      "license_note": "See original and third-party link notices; static PDF excludes interactive media",
+      "official_entry": "https://openlibrary-repo.ecampusontario.ca/jspui/handle/123456789/759",
+      "files": [
+        {
+          "path": "originals/F07-digital-esol-2020.pdf",
+          "source": "https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/759/3/A-Digital-Workbook-for-Beginning-ESOL-1592955106.pdf",
+          "pages": 188,
+          "bytes": 2034011,
+          "sha256": "e670ae34708e186bf4dd04509129d87fc9ab6fb3a6bd4fd93cb3ebdcf722a4e7"
+        }
+      ]
+    },
+    {
+      "id": "F08",
+      "title": "Dialogs for Everyday Use",
+      "edition_or_year_evidence": "First published 1980; downloaded printing 2003",
+      "access": "full-text",
+      "license_note": "Official public download; some photographs separately credited",
+      "official_entry": "https://americanenglish.state.gov/resources/dialogs-everyday-use",
+      "files": [
+        {
+          "path": "originals/F08-dialogs-everyday-full.pdf",
+          "source": "https://americanenglish.state.gov/files/ae/resource_files/dialogs_for_everyday_use_508.pdf",
+          "pages": 61,
+          "bytes": 2364975,
+          "sha256": "0b200efdddf7190e232e62b2bb1e55559c3a1ab2ecac8012794bc8604299b899"
+        }
+      ]
+    },
+    {
+      "id": "F09",
+      "title": "More Dialogs for Everyday Use",
+      "edition_or_year_evidence": "First published 1983; downloaded printing 2004",
+      "access": "full-text",
+      "license_note": "Official public download; check individual source notices",
+      "official_entry": "https://americanenglish.state.gov/resources/more-dialogs-everyday-use",
+      "files": [
+        {
+          "path": "originals/F09-more-dialogs-everyday-full.pdf",
+          "source": "https://americanenglish.state.gov/files/ae/resource_files/more_dialogs_for_everyday_use_508.pdf",
+          "pages": 44,
+          "bytes": 1626272,
+          "sha256": "1ebbfe72de166b3a5747da4ba8d2ecba13c1165f89dd042b51a9d9fc6fd6beca"
+        }
+      ]
+    },
+    {
+      "id": "S01",
+      "title": "Empower Second Edition Starter/A1, British English",
+      "edition_or_year_evidence": "Published 2022-01-06",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; directory only, not full book",
+      "official_entry": "https://assets.cambridge.org/97811089/59681/toc/9781108959681_toc.pdf",
+      "files": [
+        {
+          "path": "samples/S01-empower-2ed-starter-contents.pdf",
+          "source": "https://assets.cambridge.org/97811089/59681/toc/9781108959681_toc.pdf",
+          "pages": 4,
+          "bytes": 116676,
+          "sha256": "359a0d8e3e0a33f0b2ec9e5b12274d0db490fbef07e039bb88c3c9e607005c50"
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Speakout Third Edition A1 teaching schedule",
+      "edition_or_year_evidence": "Student book 2022; 2026 campaign page is not an edition",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; directory only, not full book",
+      "official_entry": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/pearson-languages/en-pl/documentation/adults/SpeakOUT-3RD-E-A1.zip",
+      "files": [
+        {
+          "path": "samples/S02-speakout-3ed-a1-syllabus.pdf",
+          "source": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/pearson-languages/en-pl/documentation/adults/SpeakOUT-3RD-E-A1.zip",
+          "pages": 42,
+          "bytes": 741889,
+          "sha256": "67dcb7ea2b53ef503576824cb8828c0b352d57d76da63ad537e39e2a00a54dd9"
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Business Partner A1 contents",
+      "edition_or_year_evidence": "Published 2020",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; directory only, not full book",
+      "official_entry": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/english/SampleMaterials/business-english/BusinesPartner/Business_Partner_coursebook_A1_Contents.pdf",
+      "files": [
+        {
+          "path": "samples/S03-business-partner-a1-contents.pdf",
+          "source": "https://www.pearson.com/content/dam/one-dot-com/one-dot-com/english/SampleMaterials/business-english/BusinesPartner/Business_Partner_coursebook_A1_Contents.pdf",
+          "pages": 2,
+          "bytes": 600654,
+          "sha256": "c401a5720d18ff385b3736e5d542f862c5d4b70b264d88690c9554d2b90eb83f"
+        }
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Language Hub Beginner scope and sequence",
+      "edition_or_year_evidence": "Contents production stamp 2019-05-22",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; directory only, not full book",
+      "official_entry": "https://www.macmillanenglish.com/api/fileadmin/user_upload/Catalogue/Samples/Language_Hub/Language_Hub_Scope_and_Sequence_Beginner1.pdf",
+      "files": [
+        {
+          "path": "samples/S04-language-hub-beginner-contents.pdf",
+          "source": "https://www.macmillanenglish.com/api/fileadmin/user_upload/Catalogue/Samples/Language_Hub/Language_Hub_Scope_and_Sequence_Beginner1.pdf",
+          "pages": 4,
+          "bytes": 631492,
+          "sha256": "b76990d1ffa01943d33e18c08810f118361d9f7179dd6a257cec4fe8bc30f411"
+        }
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Business Result Second Edition Starter contents",
+      "edition_or_year_evidence": "Contents production stamp 2017-07-11; upload path 2024 is not an edition",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; directory only, not full book",
+      "official_entry": "https://www.oup.es/wp-content/uploads/2024/07/BusinessResult2e-Starter-tabcont.pdf",
+      "files": [
+        {
+          "path": "samples/S05-business-result-starter-contents.pdf",
+          "source": "https://www.oup.es/wp-content/uploads/2024/07/BusinessResult2e-Starter-tabcont.pdf",
+          "pages": 1,
+          "bytes": 499861,
+          "sha256": "74667d6eda2a07b13f17baf3efdeb9d2c9ba757da9e81e10fe286cbcf8cefca7"
+        }
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "American Empower Starter/A1 ISBN 9781108818131",
+      "edition_or_year_evidence": "Publication date not independently verified",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; excerpts only",
+      "official_entry": "https://assets.cambridge.org/97811088/18131/toc/9781108818131_toc.pdf",
+      "files": [
+        {
+          "path": "samples/S06-american-empower-contents.pdf",
+          "source": "https://assets.cambridge.org/97811088/18131/toc/9781108818131_toc.pdf",
+          "pages": 4,
+          "bytes": 94288,
+          "sha256": "c25960d38a7773761095ba42c7905d40a099dead5b598c409ac3459b193f5070"
+        },
+        {
+          "path": "samples/S06-american-empower-excerpt.pdf",
+          "source": "https://assets.cambridge.org/97811088/18131/excerpt/9781108818131_excerpt.pdf",
+          "pages": 10,
+          "bytes": 2089697,
+          "sha256": "a3a45e5d3c9604f890c5f6c42cfb350ae9e8a6269973f53c8894851bcc4a4239"
+        }
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "EVOLVE Second Edition Level 1 contents and Unit 9 within official executive preview",
+      "edition_or_year_evidence": "Publisher Level 1 Digital Pack ISBN 9781009551168, publication 2026-01-20; preview states Levels 1-4 January 2026, Levels 5-6 January 2027",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; multi-level preview, not a full student book",
+      "official_entry": "https://shop.cambridge.org/english/product/2700247299",
+      "files": [
+        {
+          "path": "samples/S07-evolve2e-executive-preview.pdf",
+          "source": "https://www.cambridge.org/sites/default/files/media/documents/evolve2e-executive-preview.pdf",
+          "pages": 112,
+          "bytes": 21488766,
+          "sha256": "5c2731507f495ada6600eb3419eba44759eca82d1180f282b83403a532957652"
+        }
+      ],
+      "evidence_note": "Read Level 1 contents PDF pages 12-15 and Unit 9 activities pages 18-26. Full books and media not acquired."
+    },
+    {
+      "id": "S08",
+      "title": "Keynote Second Edition official scope and sequence plus website-labelled Level 1 Unit 3 sample",
+      "edition_or_year_evidence": "Publisher Level 1 bundle ISBN 9780357960301, copyright 2026, embedded publication date 2025-12-23",
+      "access": "toc-or-excerpt",
+      "license_note": "Publisher copyright; official directory and complete sample unit, not full student book",
+      "official_entry": "https://www.eltngl.com/series/PRO0000009213",
+      "files": [
+        {
+          "path": "samples/S08-keynote2e-scope-sequences.pdf",
+          "source": "https://cengage.widen.net/s/m6smqdtjcg/pro0000009213_keynote_scopeandsequences",
+          "pages": 12,
+          "bytes": 7178952,
+          "sha256": "9071093d8e1c31685acfc35ad6b21f066c94993127ceb5aef9fcf94369b75459"
+        },
+        {
+          "path": "samples/S08-keynote2e-level1-unit3.pdf",
+          "source": "https://cengage.widen.net/s/dxtq6jgqsh/keynote2e_pro0000009213_level1_sampleunit",
+          "pages": 8,
+          "bytes": 5597214,
+          "sha256": "dc11116d5e93d50b5afdc92a1a9ca3bd5e38d4d3c8f80a09de023d3ce9a3fa4e"
+        }
+      ],
+      "evidence_note": "Level labelling conflict: official Level 1 Unit 3 link contains The Right Skills, while downloaded directory labels this content Level 2. Reference sample by actual title and printed pages 32-47, not definitive ISBN-level mapping. All sample activities read; media not heard."
+    }
+  ]
+}

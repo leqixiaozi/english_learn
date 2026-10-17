@@ -1,2 +1,6 @@
 # Machine-specific skill and toolbox mappings.
 AGENTS.local.md
+
+# Third-party reference originals are retained locally; provenance is tracked.
+reference-library/originals/
+reference-library/samples/
