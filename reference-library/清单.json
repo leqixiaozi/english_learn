@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-10-17",
+  "checked_on": "2026-10-18",
   "purpose": "Reference originals for future original adult English project-story materials; no app implementation",
   "scope_note": "Complete static text does not imply offline media, external readers, interactive tasks or full reading. F02 includes all 15 unit bodies; no separate preface. Samples are excluded from full-text counts.",
   "entries": [
@@ -167,7 +167,8 @@
           "bytes": 21264031,
           "sha256": "8daba536470d0fac24548e4edb128d906782b8c5395fe7ce146c58d804d7a95c"
         }
-      ]
+      ],
+      "evidence_note": "Existing complete 601-page book reused byte-identical. All 52 lesson script markers located; official pages/media catalogued. All 52 selected event passages read; full lesson teaching materials, exercises, audio and whole book not audited."
     },
     {
       "id": "F05",
@@ -405,6 +406,511 @@
         }
       ],
       "evidence_note": "Level labelling conflict: official Level 1 Unit 3 link contains The Right Skills, while downloaded directory labels this content Level 2. Reference sample by actual title and printed pages 32-47, not definitive ISBN-level mapping. All sample activities read; media not heard."
+    },
+    {
+      "id": "F11",
+      "title": "BBC English at Work complete numbered course plus introduction and Christmas special",
+      "edition_or_year_evidence": "Official archive original episodes 2012-2013; current YouTube identities checked 2026-10-18, not a new edition",
+      "access": "full-text",
+      "license_note": "Publisher material for personal reference; originals ignored, do not redistribute whole scripts in shared Git documents",
+      "official_entry": "https://www.bbc.co.uk/worldservice/learningenglish/general/englishatwork/index.shtml",
+      "files": [
+        {
+          "path": "originals/series-support/BBC-XMAS-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/12/131223160211_english_at_work_christmas_special.pdf",
+          "pages": 4,
+          "bytes": 111639,
+          "sha256": "858628075c80e8292e684adeb2114722c639398ca6be9416d7076f664adf2e05"
+        },
+        {
+          "path": "originals/series-support/BBC-66-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/09/130913094239_english_at_work_episode_66.pdf",
+          "pages": 2,
+          "bytes": 94827,
+          "sha256": "05b190bffe8562512a5d60d07968da6a92ca4d567e54f7bffadce16c5c8f1d95"
+        },
+        {
+          "path": "originals/series-support/BBC-65-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/09/130906073613_english_at_work_episode_65x.pdf",
+          "pages": 2,
+          "bytes": 87542,
+          "sha256": "f7295529f879a1214ea97fa9c0cbc654ea28a20e0220b2e17a3826106431f299"
+        },
+        {
+          "path": "originals/series-support/BBC-64-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/09/130905152404_english_at_work_episode_64x.pdf",
+          "pages": 2,
+          "bytes": 92118,
+          "sha256": "8cef5c37d395e813a1819beae7d6174874d8d397bded0974573c4cc52453a6e6"
+        },
+        {
+          "path": "originals/series-support/BBC-63-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/09/130905141744_english_at_work_episode_63x.pdf",
+          "pages": 2,
+          "bytes": 94135,
+          "sha256": "7855bfec78f54ed78efca8f63db23439ba78646cc8163b37c511ed07caf9eed0"
+        },
+        {
+          "path": "originals/series-support/BBC-62-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/09/130905140211_english_at_work_episode_62x.pdf",
+          "pages": 2,
+          "bytes": 91476,
+          "sha256": "d5226419b07258e8ca532c89384bfc51641927eab5099db97c743c1767599fff"
+        },
+        {
+          "path": "originals/series-support/BBC-61-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/03/130321140134_bbc_english_at_work_ep61_final.pdf",
+          "pages": 4,
+          "bytes": 45799,
+          "sha256": "82828dd7bdee3ce4c39237bc1e6f4169a5c2ee6b95778c3eff93ee07e028ec7e"
+        },
+        {
+          "path": "originals/series-support/BBC-60-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/03/130326112535_bbc_english_at_work_ep60_final.pdf",
+          "pages": 3,
+          "bytes": 101528,
+          "sha256": "c51399c8fe23e529f8d3fcb69188140b0144e351ad708a6203238793d22a10c0"
+        },
+        {
+          "path": "originals/series-support/BBC-59-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/03/130319173409_bbc_english_at_work_ep59_final.pdf",
+          "pages": 3,
+          "bytes": 43762,
+          "sha256": "6d3fb3826b2e0c0207b58d7cd7cd69b2074ba9700af4564b3849edf12b457fbe"
+        },
+        {
+          "path": "originals/series-support/BBC-58-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/03/130312174208_bbc_english_at_work_ep58_final.pdf",
+          "pages": 3,
+          "bytes": 113834,
+          "sha256": "3a4a4312c5dcfbc052a316114bad5e2871350b9563e0b566d0026640710afec4"
+        },
+        {
+          "path": "originals/series-support/BBC-57-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/03/130306113330_bbc_english_at_work_ep57.pdf",
+          "pages": 3,
+          "bytes": 95976,
+          "sha256": "21303d13b0752714100b136677bd6412c12c4d55e53da8a49e96647701ce0bdc"
+        },
+        {
+          "path": "originals/series-support/BBC-56-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/03/130306115700_bbc_english_at_work_ep56_final.pdf",
+          "pages": 3,
+          "bytes": 116071,
+          "sha256": "dc3c609f6472ddc2e60ae4b8a05438b9b671249d97185a086b455da3ce33bef9"
+        },
+        {
+          "path": "originals/series-support/BBC-55-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/02/130227123427_bbc_english_at_work_episode_55.pdf",
+          "pages": 3,
+          "bytes": 100214,
+          "sha256": "c11da577ba087f358f80bd825d5e3f75ca39d5dbdc628d963a2c2e5935d3e819"
+        },
+        {
+          "path": "originals/series-support/BBC-54-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/02/130220130600_bbc_english_at_work_ep54_final.pdf",
+          "pages": 3,
+          "bytes": 44069,
+          "sha256": "4957ba4ca59ff4fba030292e74789d42a7eedb7ee63f376f6dc95bf9e28e6b70"
+        },
+        {
+          "path": "originals/series-support/BBC-53-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/02/130213111245_bbc_english_at_work_episode_53.pdf",
+          "pages": 3,
+          "bytes": 90592,
+          "sha256": "bad8ee08114f04a329f7a2f25491277cc0b0d3ca51857fa51f487e00e89adfcc"
+        },
+        {
+          "path": "originals/series-support/BBC-52-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/02/130206120024_bbc_english_at_work_ep52_final.pdf",
+          "pages": 3,
+          "bytes": 44199,
+          "sha256": "808afcae9378ce8b8891eb3808e38a24b5effbea987cbca6ee16e5df3cc32106"
+        },
+        {
+          "path": "originals/series-support/BBC-51-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/01/130123105336_english_at_work_episode_51.pdf",
+          "pages": 3,
+          "bytes": 103570,
+          "sha256": "b360da39bc17ca2c66ef436527c3128c63539116702aa0f52fab3b0c8823f8e5"
+        },
+        {
+          "path": "originals/series-support/BBC-50-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/01/130123110525_bbc_english_at_work_episode_50.pdf",
+          "pages": 3,
+          "bytes": 42927,
+          "sha256": "3a6bf11255eb43c651e6585053ed85c254b17d29d576448a87258b1db85e4d5d"
+        },
+        {
+          "path": "originals/series-support/BBC-49-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/01/130116115804_bbc_english_at_work_ep49_final.pdf",
+          "pages": 3,
+          "bytes": 45477,
+          "sha256": "643972cb6e96fe706be9c394f1cd46fee2b3428cdaec7257903705ab731d43b4"
+        },
+        {
+          "path": "originals/series-support/BBC-48-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/01/130107151016_bbc_english_at_work_episode_48_final.pdf",
+          "pages": 3,
+          "bytes": 45641,
+          "sha256": "45af0628192272d85e9d6ea1f3f4c05eea44c1888ed7214ad190dd7a0079a192"
+        },
+        {
+          "path": "originals/series-support/BBC-47-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/01/130102144124_bbc_english_at_work_episode_47_final.pdf",
+          "pages": 3,
+          "bytes": 45066,
+          "sha256": "496e8ecdc16e2b0a1f0cbfd96f2030d2dec5498806156dd054ff090971e17e14"
+        },
+        {
+          "path": "originals/series-support/BBC-46-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/12/121220142825_bbc_english_at_work_episode_46_final.pdf",
+          "pages": 3,
+          "bytes": 101763,
+          "sha256": "9e77e6af1ad39f937e9d04a188e2b269528229d393482872a0089129fcedad66"
+        },
+        {
+          "path": "originals/series-support/BBC-45-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/12/121212152118_bbc_english_at_work_episode_45.pdf",
+          "pages": 3,
+          "bytes": 44072,
+          "sha256": "f261995229efd63097989097e11fda1182abbdc3488c859a494c3fd93ea4cfa5"
+        },
+        {
+          "path": "originals/series-support/BBC-44-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/12/121211130058_bbc_english_at_work_episode_44.pdf",
+          "pages": 3,
+          "bytes": 44061,
+          "sha256": "9d8ba65cbc8e235b361537848c2293db54a829dd82562ea4e803095b951238a1"
+        },
+        {
+          "path": "originals/series-support/BBC-43-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/09/130913141959_english_at_work_episode_43.pdf",
+          "pages": 4,
+          "bytes": 112536,
+          "sha256": "cf49084ced7b95d94db032aab3c27c8663d89d355afc3576d58f914e2c898e92"
+        },
+        {
+          "path": "originals/series-support/BBC-42-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/11/121128102854_bbc_english_at_work_episode_42.pdf",
+          "pages": 3,
+          "bytes": 43199,
+          "sha256": "ae540421f73e5217583f21d53af67eb001cb03e8b78034325c66661c7f1cedd9"
+        },
+        {
+          "path": "originals/series-support/BBC-41-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/11/121127110229_english_at_work_episode_41_updated.pdf",
+          "pages": 3,
+          "bytes": 24130,
+          "sha256": "cc98f7caea93d88797c1729508873f20f5c28c45beb0a274a2a77ae5a0b57965"
+        },
+        {
+          "path": "originals/series-support/BBC-40-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/11/121109111209_bbc_english_at_work_episode_40.pdf",
+          "pages": 3,
+          "bytes": 104791,
+          "sha256": "8de82dca8a45217d1a3ea2c26bdefd77725452abf72e4873ccd5d468b4b49113"
+        },
+        {
+          "path": "originals/series-support/BBC-39-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/11/121107104540_english_at_work_episode_39.pdf",
+          "pages": 3,
+          "bytes": 116838,
+          "sha256": "21717e67a6eef5bfad2dc2d4b89f306224784becd13753da68fea9056f5275ad"
+        },
+        {
+          "path": "originals/series-support/BBC-38-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/10/121031115101_bbc_english_at_work_ep38.pdf",
+          "pages": 3,
+          "bytes": 42513,
+          "sha256": "f405b3b8af5962c71b0ee525666d8ce360d02cacc9416d2a21444f194b090496"
+        },
+        {
+          "path": "originals/series-support/BBC-37-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/10/121024104303_bbc_english_at_work_episode_37.pdf",
+          "pages": 3,
+          "bytes": 44267,
+          "sha256": "5ab5036c24c398126e131f21f82d2b68bb9bbbc8aedf12857aadf27649c97269"
+        },
+        {
+          "path": "originals/series-support/BBC-36-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/10/121010141958_bbc_english_at_work_episode_36.pdf",
+          "pages": 3,
+          "bytes": 45809,
+          "sha256": "ef47334854dce343026d33de67a33d4c026a2d375c99282d84a36ecd4e57d740"
+        },
+        {
+          "path": "originals/series-support/BBC-35-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/10/121011155756_english_at_work_episode35.pdf",
+          "pages": 3,
+          "bytes": 115498,
+          "sha256": "61c38e5bff9660df2b38e038e07ed9f60f95eabc0f84ea91e078053de17cfb27"
+        },
+        {
+          "path": "originals/series-support/BBC-34-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/09/120926125251_english_at_work_episode_34.pdf",
+          "pages": 3,
+          "bytes": 114617,
+          "sha256": "6f60fdb731802dc263a39f3c96678b19a05f85dec0f4a313cde0feb24c47fc67"
+        },
+        {
+          "path": "originals/series-support/BBC-33-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/09/120926100534_bbc_english_at_work_episode_33_final.pdf",
+          "pages": 3,
+          "bytes": 116866,
+          "sha256": "1fc17b37d06298200d9f8ed50fb08dbbc1e87617181b12c8ca7ade9686bbb958"
+        },
+        {
+          "path": "originals/series-support/BBC-32-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/09/120919130413_bbc_english_at_work_ep32_en.pdf",
+          "pages": 3,
+          "bytes": 101397,
+          "sha256": "0956fd1fbdb484959b4058218648a0d90735cdb897b651f390b276fac015a851"
+        },
+        {
+          "path": "originals/series-support/BBC-31-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/09/120912114728_bbc_english_at_work_episode_31_en.pdf",
+          "pages": 3,
+          "bytes": 100286,
+          "sha256": "92e95ebbac77eb22236760e5732e0082cf6276a51261146d7aa6022092f85793"
+        },
+        {
+          "path": "originals/series-support/BBC-30-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/09/120905105750_bbc_english_at_work_episode_30_final.pdf",
+          "pages": 3,
+          "bytes": 99389,
+          "sha256": "f919754b2e6f2e3640313956620f31a5e222d53117171f10cb3c399cc5691d1c"
+        },
+        {
+          "path": "originals/series-support/BBC-29-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/08/120829102127_bbc_english_at_work_episode_29_en.pdf",
+          "pages": 3,
+          "bytes": 107496,
+          "sha256": "c0ae882a2a41b6c27faa054ec9be84457561a6a6fd3454cca23cc14b986ade0a"
+        },
+        {
+          "path": "originals/series-support/BBC-28-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/08/120824144618_english_at_work_episode_28.pdf",
+          "pages": 3,
+          "bytes": 108002,
+          "sha256": "3f4c02992bc49817c08b244615d0db5dd68b951cb26fccb0d5693d2a2e06b557"
+        },
+        {
+          "path": "originals/series-support/BBC-27-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/08/120824075234_english_at_work_episode_27_final.pdf",
+          "pages": 3,
+          "bytes": 105578,
+          "sha256": "c115a4ae374c972e82b7648f75d3dd9bc793a6730c28e5d1ba2a90ff4e219eba"
+        },
+        {
+          "path": "originals/series-support/BBC-26-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/08/120808080205_bbc_english_at_work_episode_26.pdf",
+          "pages": 3,
+          "bytes": 48943,
+          "sha256": "2236c2314bf8daf744b349ba38e1cc0ddeaefdcfe75cec17fc6770f7130d6765"
+        },
+        {
+          "path": "originals/series-support/BBC-25-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/07/120726155607_english_at_work_episode_25.pdf",
+          "pages": 3,
+          "bytes": 132936,
+          "sha256": "f27b757508c21a8fa829877d100a15222f8c7861ea2b67014c1ae513f24dad55"
+        },
+        {
+          "path": "originals/series-support/BBC-24-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/07/120718161400_bbc_english_at_work_episode_24_english.pdf",
+          "pages": 3,
+          "bytes": 47823,
+          "sha256": "312c0a73d93c86cfa2ab81aba82932ecf7547ff0e85cea6d2615d8b66a2fb211"
+        },
+        {
+          "path": "originals/series-support/BBC-23-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/07/120717155622_bbc_english_at_work_episode_23_english.pdf",
+          "pages": 3,
+          "bytes": 48361,
+          "sha256": "3771541972685a4f6ea267d14d8222e59eb0cb14364e61054711b94bd38a6956"
+        },
+        {
+          "path": "originals/series-support/BBC-22-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/07/120710130836_english_at_work_episode_22_final_v2.pdf",
+          "pages": 3,
+          "bytes": 113586,
+          "sha256": "f24eb50669473fe42dab15f46149f142a094ad09dc3c342e310bfc8c74f26dac"
+        },
+        {
+          "path": "originals/series-support/BBC-21-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/07/120702094621_english_at_work_episode_21_final.pdf",
+          "pages": 3,
+          "bytes": 103020,
+          "sha256": "eba9595dd0e3849c19f75432b3ea1d7c4d653edc94d3a945ee3c5caea7717da2"
+        },
+        {
+          "path": "originals/series-support/BBC-20-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2014/07/140728114815_bbc_english_at_work_ep20_final.pdf",
+          "pages": 2,
+          "bytes": 107188,
+          "sha256": "9d94d2c626182affa6641325b53da22ccff51afb042e878c7d89f8dfd233ac7e"
+        },
+        {
+          "path": "originals/series-support/BBC-19-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/06/120618165642_english_at_work_episode_19_final.pdf",
+          "pages": 3,
+          "bytes": 112823,
+          "sha256": "e0dfb8574903778ac92dea37fac69f41ec34e0f959b716e95dd22b56fe39a47f"
+        },
+        {
+          "path": "originals/series-support/BBC-18-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/06/120611165944_english_at_work_episode_18_eng.pdf",
+          "pages": 3,
+          "bytes": 115273,
+          "sha256": "0ecd01a3f1fbbdb52dcb3b522d46b8ed5ce3847a403c77cf248f8e24f1660ab8"
+        },
+        {
+          "path": "originals/series-support/BBC-17-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/06/120606162010_english_at_work_episode_17_eng_pdf.pdf",
+          "pages": 3,
+          "bytes": 123422,
+          "sha256": "071eb166315f08519b9101bc075ba6f975215eed49580cecbe73d3d32128d57a"
+        },
+        {
+          "path": "originals/series-support/BBC-16-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/05/120529105728_english_at_work_episode_16_en.pdf",
+          "pages": 3,
+          "bytes": 50692,
+          "sha256": "199ff2d1ef55cd74dc28883412b94caf05609c618b99c4128bce006ba0b29e86"
+        },
+        {
+          "path": "originals/series-support/BBC-15-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/05/120521155732_english_at_work_episode_15_final.pdf",
+          "pages": 3,
+          "bytes": 126669,
+          "sha256": "cc0b88acc20ea8c7fe8532a673e7857e229c2d42e2c334724e49ead6fdeba51a"
+        },
+        {
+          "path": "originals/series-support/BBC-14-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/05/120516162314_bbc_english_at_work_episode_14.pdf",
+          "pages": 3,
+          "bytes": 46302,
+          "sha256": "c30c8c7030a5a01495f949ee1627bc937cb46c07bd4bacb96ba5e0a1ac23d9cd"
+        },
+        {
+          "path": "originals/series-support/BBC-13-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/05/120509172729_english_at_work_episode_13.pdf",
+          "pages": 2,
+          "bytes": 46231,
+          "sha256": "d02c50fe41ce9617853b9b9a0ffb054c67f2ca4296c423506858bdd786d2bb24"
+        },
+        {
+          "path": "originals/series-support/BBC-12-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/05/120502135606_english_at_work_episode_12_en.pdf",
+          "pages": 2,
+          "bytes": 48367,
+          "sha256": "c90fa028968109753b365ee31ca9541734b3678585630f661905721c40ee0945"
+        },
+        {
+          "path": "originals/series-support/BBC-11-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2013/03/130308103030_english_at_work_episode_11_eng.pdf",
+          "pages": 3,
+          "bytes": 86079,
+          "sha256": "097bf1d5772e7070c866568740f94584d821d786e0621ad7b9931e3fa2f90889"
+        },
+        {
+          "path": "originals/series-support/BBC-10-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/04/120418110937_english_at_work_episode_10_en.pdf",
+          "pages": 3,
+          "bytes": 42920,
+          "sha256": "f434d984255043058e67489702c6a18d8a0c1c520525a9983a57ef4c0d931281"
+        },
+        {
+          "path": "originals/series-support/BBC-09-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/04/120411104406_120411_english_at_work_episode_9_english.pdf",
+          "pages": 3,
+          "bytes": 26245,
+          "sha256": "ae3862a8ca914f2d38c247a6e42804e2b3d315fd3386be866f7729a46d7e5b13"
+        },
+        {
+          "path": "originals/series-support/BBC-08-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/04/120404143807_120404_english_at_work_episode_8_english_script.pdf",
+          "pages": 3,
+          "bytes": 25308,
+          "sha256": "b69cf21693db40569dc7f37b3d7df2b4fac84a34b4a806a07e02ac3d356b903b"
+        },
+        {
+          "path": "originals/series-support/BBC-07-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/03/120328164450_english_at_work_episode_7_allenglish.pdf",
+          "pages": 3,
+          "bytes": 27439,
+          "sha256": "8faf474af873cc1fc16d356aedac4ef893dbf40100f0a3f87c21df567544131c"
+        },
+        {
+          "path": "originals/series-support/BBC-06-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/03/120321192101_bbc_english_at_work_episode_6.pdf",
+          "pages": 3,
+          "bytes": 48364,
+          "sha256": "93ea1293dc47f8ceadc7db19af0efabab6a18bb1ab2b8253cb25582494462593"
+        },
+        {
+          "path": "originals/series-support/BBC-05-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/11/121105122142_bbc_english_at_work_episode_5.pdf",
+          "pages": 3,
+          "bytes": 102914,
+          "sha256": "1235ce3dbc58226dbc786117d7e99dc4fae48e9c0e2dcaad6e9c3246fef98a70"
+        },
+        {
+          "path": "originals/series-support/BBC-04-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/03/120307164726_bbc_english_at_work_episode_4_english.pdf",
+          "pages": 3,
+          "bytes": 25094,
+          "sha256": "e856e609747fef3b9f42f03613b3c8237de87c115e62be4310f66450951ed0d4"
+        },
+        {
+          "path": "originals/series-support/BBC-03-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2014/03/140331102814_bbc_english_at_work_episode_3_english.pdf",
+          "pages": 3,
+          "bytes": 108991,
+          "sha256": "fa9ca87b2f299b0931e5c056a0c929ec07e6d56d7814ef884ca965d65c05849b"
+        },
+        {
+          "path": "originals/series-support/BBC-02-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2014/03/140324115104_bbc_english_at_work_ep2_english.pdf",
+          "pages": 2,
+          "bytes": 101158,
+          "sha256": "c9120131910a38152949682cfee03230328c5364a7ef5ec39fc20b414c4322fa"
+        },
+        {
+          "path": "originals/series-support/BBC-01-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/02/120215095136_english_at_work_episode_1_english.pdf",
+          "pages": 3,
+          "bytes": 50391,
+          "sha256": "2b471a73ddab60c5bb10574a6ca84fd080c1802abbc8b8ef91b8dbd031d3c4ae"
+        },
+        {
+          "path": "originals/series-support/BBC-INTRO-script.pdf",
+          "source": "http://wsdownload.bbc.co.uk/learningenglish/pdf/2012/02/120213160617_english_at_work_introduction.pdf",
+          "pages": 3,
+          "bytes": 23682,
+          "sha256": "1f492bfb56ec08b5a7cfa16218010b4a606cd39e6f75b2ee0556c65bfd2859bc"
+        }
+      ],
+      "evidence_note": "68 full publisher scripts acquired and editorially read. 66 numbered official YouTube IDs plus introduction identity verified; video-script synchronization and playback unverified."
+    },
+    {
+      "id": "F12",
+      "title": "VOA Let's Learn English Level 2 complete lesson-plan book",
+      "edition_or_year_evidence": "Official complete-book URL published 2021; 30-lesson contents visually verified 2026-10-18",
+      "access": "full-text",
+      "license_note": "Publisher material for personal reference; originals ignored, do not redistribute whole scripts in shared Git documents",
+      "official_entry": "https://learningenglish.voanews.com/p/6765.html",
+      "files": [
+        {
+          "path": "originals/series-support/voa-level2-all-plans.pdf",
+          "source": "https://docs.voanews.eu/en-us-learn/2021/05/21/9ac62777-32fb-4f7d-baff-71a07b37dc7d.pdf",
+          "pages": 391,
+          "bytes": 27043397,
+          "sha256": "f27aeac0128d89935971b5c2647f5cc47f371012c98abbb9ac0dee64ad907e69"
+        }
+      ],
+      "evidence_note": "391 pages; contents visually checked for Lessons 1-30. PDF text extraction garbled; all 30 official HTML lesson selected event passages read. Remaining teaching materials, exercises and full book not audited."
     }
   ]
 }
