@@ -993,7 +993,9 @@
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
       },
-      "candidate_role": "reference_only_currently"
+      "candidate_role": "reference_only_currently",
+      "foundation_catalog_id": "BBC-REE-250404",
+      "editorial_suitability_note": "官方2025完整讲稿已全文核读，谈工作地点与比较理由；不是远程制度协商。2026-03-08为视频上传日期，不等于2026新编稿；音画逐句对应和站内播放仍待核。"
     },
     {
       "id": "B01",
@@ -6008,11 +6010,13 @@
         "FCC-A2-655c9a549835a8601764bd0b",
         "FCC-A2-655ca0a6639d6b67683ebbcd",
         "FCC-A2-656a494313c73747b15a02c0",
-        "EE-JNp1v-_aCkI"
+        "EE-JNp1v-_aCkI",
+        "ELLLO-A1-04",
+        "ELLLO-A1-20"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": "系列任务参考 SR28、SR52；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV03、EV55；仅作原创迁移依据，不表示主片已选或音画已核。",
+      "chapter_evidence_note": "系列任务参考 SR28、SR52、SR92；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV03、EV55；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -6060,7 +6064,8 @@
         "checked_on": "2026-10-18",
         "event_ids": [
           "SR28",
-          "SR52"
+          "SR52",
+          "SR92"
         ],
         "source_catalog": "reference-library/系列课程目录.json",
         "evidence": "publisher_script_or_official_dialogue_text_read; task adaptation only, not full source coverage of this scene",
@@ -6969,7 +6974,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": "系列任务参考 SR35、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV30；仅作原创迁移依据，不表示主片已选或音画已核。",
+      "chapter_evidence_note": "系列任务参考 SR35、SR78、SR81；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV30；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -7002,7 +7007,8 @@
         "checked_on": "2026-10-18",
         "event_ids": [
           "SR35",
-          "SR78"
+          "SR78",
+          "SR81"
         ],
         "source_catalog": "reference-library/系列课程目录.json",
         "evidence": "publisher_script_or_official_dialogue_text_read; task adaptation only, not full source coverage of this scene",
@@ -9538,11 +9544,12 @@
         "FCC-A2-657e47d5fa5dea7cbdaf484b",
         "FCC-A2-656cd4b014d03a1baf452429",
         "FCC-A2-656d23d22a488510bca0e418",
-        "FCC-A2-65d6e2c17bb85b727ddf51d6"
+        "FCC-A2-65d6e2c17bb85b727ddf51d6",
+        "JESS-dsA_Cq40f1Y"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": "系列任务参考 SR02、SR16、SR28、SR51、SR54；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV02；仅作原创迁移依据，不表示主片已选或音画已核。",
+      "chapter_evidence_note": "系列任务参考 SR02、SR16、SR28、SR51、SR54、SR95；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV02；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -9584,7 +9591,8 @@
           "SR16",
           "SR28",
           "SR51",
-          "SR54"
+          "SR54",
+          "SR95"
         ],
         "source_catalog": "reference-library/系列课程目录.json",
         "evidence": "publisher_script_or_official_dialogue_text_read; task adaptation only, not full source coverage of this scene",
@@ -10136,11 +10144,14 @@
         "VOA1-50",
         "BBC-62",
         "BBC-63",
-        "E20"
+        "E20",
+        "ELLLO-A1-15",
+        "ELLLO-A1-17",
+        "JESS-dsA_Cq40f1Y"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": "系列任务参考 SR17、SR55、SR71、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV13、EV14、EV41；仅作原创迁移依据，不表示主片已选或音画已核。",
+      "chapter_evidence_note": "系列任务参考 SR17、SR55、SR71、SR78、SR90、SR91、SR96；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV13、EV14、EV41；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -10177,7 +10188,10 @@
           "SR17",
           "SR55",
           "SR71",
-          "SR78"
+          "SR78",
+          "SR90",
+          "SR91",
+          "SR96"
         ],
         "source_catalog": "reference-library/系列课程目录.json",
         "evidence": "publisher_script_or_official_dialogue_text_read; task adaptation only, not full source coverage of this scene",
@@ -10434,11 +10448,12 @@
       "reference_ids": [
         "E39",
         "E21",
-        "E05"
+        "E05",
+        "ELLLO-A1-07"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": "字幕事件参考 EV24；仅作原创迁移依据，不表示主片已选或音画已核。",
+      "chapter_evidence_note": "系列任务参考 SR94；为原创迁移依据，不表示来源覆盖本站全部步骤或已选主片。 字幕事件参考 EV24；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV24；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。",
       "embed_playback_verified": false,
@@ -10479,6 +10494,17 @@
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
         "primary_decision_changed": false
+      },
+      "series_source_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "SR94"
+        ],
+        "source_catalog": "reference-library/系列课程目录.json",
+        "evidence": "publisher text or exported captions editorially read; adaptation only",
+        "editorial_flow_revised": false,
+        "primary_decision_changed": false,
+        "audio_alignment_verified": false
       }
     },
     {
@@ -10746,11 +10772,12 @@
       "reference_ids": [
         "E07",
         "C08",
-        "E01"
+        "E01",
+        "JESS-dsA_Cq40f1Y"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": "字幕事件参考 EV06；仅作原创迁移依据，不表示主片已选或音画已核。",
+      "chapter_evidence_note": "系列任务参考 SR98；为原创迁移依据，不表示来源覆盖本站全部步骤或已选主片。 字幕事件参考 EV06；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV06；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。 场景已按连续任务修订，原片人物及业务结论不直接移植。",
       "embed_playback_verified": false,
@@ -10791,6 +10818,17 @@
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
         "primary_decision_changed": false
+      },
+      "series_source_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "SR98"
+        ],
+        "source_catalog": "reference-library/系列课程目录.json",
+        "evidence": "publisher text or exported captions editorially read; adaptation only",
+        "editorial_flow_revised": false,
+        "primary_decision_changed": false,
+        "audio_alignment_verified": false
       }
     },
     {
@@ -21833,11 +21871,12 @@
         "BBC-15",
         "FCC-B1-6810d008957707fd9cf42612",
         "VOA1-40",
-        "EE-cCh0EDHKTcc"
+        "EE-cCh0EDHKTcc",
+        "JESS-Tyf96c__cL0"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "具体问题、改法和完成时间均有来回 系列任务参考 SR38、SR75；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV11、EV53；仅作原创迁移依据，不表示主片已选或音画已核。",
+      "chapter_evidence_note": "具体问题、改法和完成时间均有来回 系列任务参考 SR38、SR75、SR99；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV11、EV53；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 195,
         "end_seconds": 389,
@@ -21881,7 +21920,8 @@
         "checked_on": "2026-10-18",
         "event_ids": [
           "SR38",
-          "SR75"
+          "SR75",
+          "SR99"
         ],
         "source_catalog": "reference-library/系列课程目录.json",
         "evidence": "publisher_script_or_official_dialogue_text_read; task adaptation only, not full source coverage of this scene",
@@ -23916,11 +23956,14 @@
         "Y19",
         "Y07",
         "FCC-B1-6810d008957707fd9cf42612",
-        "VOA1-40"
+        "VOA1-40",
+        "BBC-PRON-07",
+        "BBC-PRON-08",
+        "BBC-PRON-09"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR75；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": " 系列任务参考 SR75、SR88；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -23941,7 +23984,8 @@
       "series_source_review": {
         "checked_on": "2026-10-18",
         "event_ids": [
-          "SR75"
+          "SR75",
+          "SR88"
         ],
         "source_catalog": "reference-library/系列课程目录.json",
         "evidence": "publisher_script_or_official_dialogue_text_read; task adaptation only, not full source coverage of this scene",
@@ -24004,11 +24048,14 @@
       "reference_ids": [
         "C02",
         "Y07",
-        "Y23"
+        "Y23",
+        "SA-tense_i",
+        "SA-lax_i",
+        "SA-schwa"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "系列任务参考 SR100；为原创迁移依据，不表示来源覆盖本站全部步骤或已选主片。",
       "suggested_segment": null,
       "unmatched_reason": "本轮未核到可完成“重讲并请对方确认”并得到本场结果的主片；现有C02、Y07、Y23只作表达或背景参考",
       "embed_playback_verified": false,
@@ -24026,6 +24073,17 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“重讲并请对方确认”并得到本场结果的主片；现有C02、Y07、Y23只作表达或背景参考"
+      },
+      "series_source_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "SR100"
+        ],
+        "source_catalog": "reference-library/系列课程目录.json",
+        "evidence": "publisher text or exported captions editorially read; adaptation only",
+        "editorial_flow_revised": false,
+        "primary_decision_changed": false,
+        "audio_alignment_verified": false
       }
     },
     {
@@ -24237,16 +24295,23 @@
       "content_read_via": "official web page and/or official full PDF reader",
       "is_sample": false,
       "is_whole_textbook": false,
-      "local_path": null,
-      "local_copy_verified": false,
-      "local_download_note": "direct HTTP download returned 403; official PDF text and page count were readable via research tool; no bypass attempted",
+      "local_path": "reference-library/originals/series-support/british-council-a1/LearnEnglish-Speaking-A1-Meeting-new-people.pdf",
+      "local_copy_verified": true,
+      "local_download_note": "2026-10-18经官方课页Worksheet按钮保存完整PDF；CLI直接请求403的旧记录不再代表本地缺文件。",
       "embed_candidate_url": null,
       "embed_playback_verified": false,
       "role": "reference_only_until_official_embedding_path_verified",
       "purpose": "初次见面、核对姓名、介绍办公室与欢迎新同事",
       "content_boundary": "正文对话；PDF第3页为完整文字稿、第4页答案",
-      "checked_on": "2026-10-17",
-      "existing_course_reference_note": "Already listed as M01/M03 in 教材选编; this batch completes full-PDF verification, not a brand-new course."
+      "checked_on": "2026-10-18",
+      "existing_course_reference_note": "Already listed as M01/M03 in 教材选编; this batch completes full-PDF verification, not a brand-new course.",
+      "local_sha256": "5b2f0f68a405c88ec3ea9e5fff60d8dccad8d10e731d56f0fdba8e7ed74eab62",
+      "local_bytes": 121454,
+      "source_page_preview": {
+        "verified": false,
+        "progress_seconds": null,
+        "scope": "source page short preview only; not full viewing, audio alignment or site embedding"
+      }
     },
     {
       "id": "C02",
@@ -24263,16 +24328,23 @@
       "content_read_via": "official web page and/or official full PDF reader",
       "is_sample": false,
       "is_whole_textbook": false,
-      "local_path": null,
-      "local_copy_verified": false,
-      "local_download_note": "direct HTTP download returned 403; official PDF text and page count were readable via research tool; no bypass attempted",
+      "local_path": "reference-library/originals/series-support/british-council-a1/LearnEnglish-Speaking-A1-Checking-understanding.pdf",
+      "local_copy_verified": true,
+      "local_download_note": "2026-10-18经官方课页Worksheet按钮保存完整PDF；CLI直接请求403的旧记录不再代表本地缺文件。",
       "embed_candidate_url": null,
       "embed_playback_verified": false,
       "role": "reference_only_until_official_embedding_path_verified",
       "purpose": "请求重说、放慢、复述并确认听懂",
       "content_boundary": "正文是借工具；PDF第2页另有电话核对代码练习，不把该练习算入原视频",
-      "checked_on": "2026-10-17",
-      "existing_course_reference_note": "Already listed as M01/M03 in 教材选编; this batch completes full-PDF verification, not a brand-new course."
+      "checked_on": "2026-10-18",
+      "existing_course_reference_note": "Already listed as M01/M03 in 教材选编; this batch completes full-PDF verification, not a brand-new course.",
+      "local_sha256": "ad7130752879846053c5d6ad8e821414ceca2332135ebafcc37810cbb7b1acb9",
+      "local_bytes": 136375,
+      "source_page_preview": {
+        "verified": true,
+        "progress_seconds": 19.357524,
+        "scope": "source page short preview only; not full viewing, audio alignment or site embedding"
+      }
     },
     {
       "id": "C03",
@@ -24439,15 +24511,22 @@
       "content_read_via": "official complete PDF research reader, all 5 pages",
       "is_sample": false,
       "is_whole_textbook": false,
-      "local_path": null,
-      "local_copy_verified": false,
-      "local_download_note": "PDF全文已通过阅读工具核读；本轮未向本机下载。",
+      "local_path": "reference-library/originals/series-support/british-council-a1/LearnEnglish-Speaking-A1-Making-suggestions.pdf",
+      "local_copy_verified": true,
+      "local_download_note": "2026-10-18经官方课页Worksheet按钮保存完整PDF；CLI直接请求403的旧记录不再代表本地缺文件。",
       "embed_candidate_url": null,
       "embed_playback_verified": false,
       "role": "reference_only_until_official_embedding_path_verified",
       "purpose": "短会中提出下一步、协商目标、请求协助并确认先审后汇报",
       "content_boundary": "原片为社交媒体计划；PDF第3至4页全文，第5页答案；不是技术评审或成本讨论原片。",
-      "checked_on": "2026-10-17"
+      "checked_on": "2026-10-18",
+      "local_sha256": "a328ad68636538fe1ca64b9c88978fb12b0a54188a9aead8d0c0dc2ea4aa57ff",
+      "local_bytes": 113463,
+      "source_page_preview": {
+        "verified": false,
+        "progress_seconds": null,
+        "scope": "source page short preview only; not full viewing, audio alignment or site embedding"
+      }
     },
     {
       "id": "T03",
@@ -26203,6 +26282,371 @@
       "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
       "source_catalog": "reference-library/EasyEnglish课程目录.json",
       "playback_verified": false
+    },
+    {
+      "id": "BBC-PRON-01",
+      "title": "/ə/: The most common sound in English",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/the_pronunciation_lounge/episode_1",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-PRON-03",
+      "title": "seat vs sit – /i:/ vs /ɪ/",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/the_pronunciation_lounge/episode_3",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-PRON-07",
+      "title": "Where to pause naturally in English",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/the_pronunciation_lounge/episode_7",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-PRON-08",
+      "title": "How to use sentence stress",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/the_pronunciation_lounge/episode_8",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-PRON-09",
+      "title": "How to pronounce -ed endings",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/the_pronunciation_lounge/episode_9",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-PRON-12",
+      "title": "How to use word stress",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/the_pronunciation_lounge/episode_12",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-240531",
+      "title": "Talking about jobs",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/240531",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-241018",
+      "title": "Talking about restaurants",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/241018",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-241115",
+      "title": "Talking about technology",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/241115",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-250404",
+      "title": "Talking about the office",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250404",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-250801",
+      "title": "Talking about lunch",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250801",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-250829",
+      "title": "Talking about meetings",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250829",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-260417",
+      "title": "Talking about work",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/260417",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-260703",
+      "title": "Talking about phone habits",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/260703",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-260821",
+      "title": "Talking about coffee",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/260821",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-260904",
+      "title": "Talking about complaining",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/260904",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "BBC-REE-261002",
+      "title": "Talking about airports",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/261002",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18"
+    },
+    {
+      "id": "C10",
+      "title": "Talking about other people",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/a1/talking-about-other-people",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18",
+      "local_path": "reference-library/originals/series-support/british-council-a1/LearnEnglish-Speaking-A1-Talking-about-other-people.pdf",
+      "local_copy_verified": true,
+      "local_sha256": "955daf49a768c94ad4cbe73ad5d2966b7ffeb0d874ac00fbc2222386913569f3",
+      "local_bytes": 110069,
+      "pages": 4,
+      "has_complete_transcript": true,
+      "has_tasks": true,
+      "has_answers": true,
+      "local_download_note": "2026-10-18经官方课页Worksheet按钮保存完整PDF；CLI直接请求403的旧记录不再代表本地缺文件。",
+      "official_download_url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Speaking-A1-Talking-about-other-people.pdf",
+      "official_cefr_level": "A1",
+      "source_page_preview": {
+        "verified": false,
+        "progress_seconds": null,
+        "scope": "source page short preview only; not full viewing, audio alignment or site embedding"
+      },
+      "embed_playback_verified": false
+    },
+    {
+      "id": "C11",
+      "title": "Talking about where you're from",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/a1/talking-about-where-youre",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "checked_on": "2026-10-18",
+      "local_path": "reference-library/originals/series-support/british-council-a1/LearnEnglish-Speaking-A1-Talking-about-where-youre-from.pdf",
+      "local_copy_verified": true,
+      "local_sha256": "872c915eba002bcc827fd1e48709cde4c18ef553a1e9387c3294a1125c7c0fb6",
+      "local_bytes": 122556,
+      "pages": 5,
+      "has_complete_transcript": true,
+      "has_tasks": true,
+      "has_answers": true,
+      "local_download_note": "2026-10-18经官方课页Worksheet按钮保存完整PDF；CLI直接请求403的旧记录不再代表本地缺文件。",
+      "official_download_url": "https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Speaking-A1-Talking-about-where-youre-from.pdf",
+      "official_cefr_level": "A1",
+      "source_page_preview": {
+        "verified": false,
+        "progress_seconds": null,
+        "scope": "source page short preview only; not full viewing, audio alignment or site embedding"
+      },
+      "embed_playback_verified": false
+    },
+    {
+      "id": "ELLLO-A1-24",
+      "title": "Articles",
+      "url": "https://elllo.org/book/A1/A1-24-Articles.html",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "ELLLO-A1-25",
+      "title": "Any / Some",
+      "url": "https://elllo.org/book/A1/A1-25-Any-Some.html",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "ELLLO-A1-15",
+      "title": "Telling Time",
+      "url": "https://elllo.org/book/A1/A1-15-Telling-Time.html",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "ELLLO-A1-17",
+      "title": "Possessives",
+      "url": "https://elllo.org/book/A1/A1-17-Possessives.html",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "ELLLO-A1-04",
+      "title": "Verbs - Present Simple",
+      "url": "https://elllo.org/book/A1/A1-04-Verbs.html",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "ELLLO-A1-20",
+      "title": "Adverbs of Frequency",
+      "url": "https://elllo.org/book/A1/A1-20-Adverbs-Frequency.html",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "ELLLO-A1-07",
+      "title": "Adjectives",
+      "url": "https://elllo.org/book/A1/A1-07-Adjectives.html",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "JESS-dsA_Cq40f1Y",
+      "title": "Speak English Confidently at Workplace | Business English Conversation for Beginners",
+      "url": "https://www.youtube.com/watch?v=dsA_Cq40f1Y",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_caption_text_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "JESS-Tyf96c__cL0",
+      "title": "Improve Your English Speaking Skills at Work | Learn English Conversation for Beginners",
+      "url": "https://www.youtube.com/watch?v=Tyf96c__cL0",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_caption_text_read_not_audio_aligned",
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "SA-tense_i",
+      "title": "Vowel Sound / i / as in \"be\" - American English Pronunciation",
+      "url": "https://www.youtube.com/watch?v=PIu5WDIco0I",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": {
+        "whole_publisher_article_read": true,
+        "whole_caption_text_read": true
+      },
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "SA-lax_i",
+      "title": "Vowel Sound / ɪ / as in \"it\" - American English Pronunciation",
+      "url": "https://www.youtube.com/watch?v=Ok_HG-0lNCA",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": {
+        "whole_publisher_article_read": true,
+        "whole_caption_text_read": true
+      },
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
+    },
+    {
+      "id": "SA-schwa",
+      "title": "Vowel Sound / ə / (Schwa) as in \"ago\" - American English Pronunciation",
+      "url": "https://www.youtube.com/watch?v=m1mDSUSwNls",
+      "type": "official_animation_or_pronunciation_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": {
+        "whole_publisher_article_read": true,
+        "whole_caption_text_read": true
+      },
+      "checked_on": "2026-10-18",
+      "playback_verified": false,
+      "embed_playback_verified": false
     }
   ],
   "coverage_summary": {
@@ -26255,15 +26699,49 @@
       "reference_only_source_events": 12
     },
     "series_source_supplement": {
-      "catalog_entries": 328,
-      "curated_event_groups": 79,
-      "scene_reference_updates": 161,
+      "catalog_entries": 613,
+      "curated_event_groups": 100,
+      "scene_reference_updates": 164,
       "scene_flow_revisions": 94,
       "primary_candidates_added": 0,
       "playback_verified_added": 0
+    },
+    "foundation_source_supplement": {
+      "catalog_entries": 145,
+      "regular_lessons": 144,
+      "introduction_entries": 1,
+      "whole_scripts_read": 45,
+      "real_easy_regular_pending": 99,
+      "local_pdf_files": 261,
+      "curated_event_groups_added": 9,
+      "main_candidates_added": 0,
+      "source_page_short_previews": 1,
+      "source_audio_alignment_verified": 0,
+      "site_embed_verified": 0
+    },
+    "animation_source_supplement": {
+      "catalog_entries": 140,
+      "jessica_captions_obtained": 65,
+      "jessica_whole_captions_read": 65,
+      "elllo_lesson_sets": 25,
+      "elllo_dialogues_read": 100,
+      "elllo_local_pdf_files": 116,
+      "soundsamerican_core_videos": 49,
+      "soundsamerican_main_captions_obtained": 49,
+      "soundsamerican_articles_read": 48,
+      "soundsamerican_whole_captions_read": 49,
+      "curated_event_groups_added": 12,
+      "scene_reference_cards_touched": 7,
+      "scene_flow_changes": 0,
+      "primary_candidates_added": 0,
+      "source_muted_short_previews": 1,
+      "source_audio_alignment_verified": 0,
+      "site_embed_verified": 0,
+      "jessica_missing_captions": 1,
+      "soundsamerican_articles_pending_read": 0
     }
   },
-  "research_evidence_boundary": "The selected source pool now contains 93 entries, including E44 as a reference only. All 251 Easy English official public caption entries checked by 2026-10-18: 248 automatic English exports acquired; 3 not acquired after recheck. All 248 acquired exported texts editorially read; 66 source events paraphrased, including 12 kept as independent reference topics. No acquired exports remain unread; 3 source videos remain without acquired captions. Four observed bodies contain mostly non-English noise, 2 need substantial manual repair and 2 exports visibly end mid-sentence. Full-export reading does not establish full-video caption completeness or accuracy. Automatic captions are distinct from publisher scripts. Existing 58 primary candidates and 307 unfilled main slots are unchanged; no formal adoption, audio-cut alignment or site playback acceptance. Nine British Council complete PDFs previously read, three PayFlow scripts and the BBC worksheet retained as before. No audio/video media downloaded.",
+  "research_evidence_boundary": "The selected source pool now contains 93 entries, including E44 as a reference only. All 251 Easy English official public caption entries checked by 2026-10-18: 248 automatic English exports acquired; 3 not acquired after recheck. All 248 acquired exported texts editorially read; 66 source events paraphrased, including 12 kept as independent reference topics. No acquired exports remain unread; 3 source videos remain without acquired captions. Four observed bodies contain mostly non-English noise, 2 need substantial manual repair and 2 exports visibly end mid-sentence. Full-export reading does not establish full-video caption completeness or accuracy. Automatic captions are distinct from publisher scripts. Existing 58 primary candidates and 307 unfilled main slots are unchanged; no formal adoption, audio-cut alignment or site playback acceptance. Nine British Council complete PDFs previously read, three PayFlow scripts and the BBC worksheet retained as before. No audio/video media downloaded. Foundation supplement checked on 2026-10-18: all 124 Real Easy English index entries, 16 Pronunciation Lounge lessons and 5 British Council A1 lessons inventoried; 45 scripts editorially read. 261 official PDFs locally acquired; full-video listening and site-player acceptance are not established. One British Council source-page preview advanced for about 19 seconds. Jessica / ELLLO / Sounds American: named-series inventories are distinct from entire channels, automatic or unspecified caption authorship is not a corrected script, pronunciation drill words can be absent from captions, and a muted source-page preview is not listening or site acceptance.",
   "source_inventory_reference": "reference-library/EasyEnglish课程目录.json",
   "source_inventory_reference_series": "reference-library/系列课程目录.json"
 }

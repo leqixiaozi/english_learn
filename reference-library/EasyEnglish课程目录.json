@@ -17027,7 +17027,12 @@
           "E05",
           "EE-IVhXP9ZG1N8",
           "EE-Xdw8AFxyC0k",
-          "EE-Qz3nYAlLORw"
+          "EE-Qz3nYAlLORw",
+          "C11",
+          "BBC-REE-260821",
+          "BBC-REE-250801",
+          "ELLLO-A1-02",
+          "ELLLO-A1-03"
         ],
         "selected_event_path": [
           {
@@ -17054,7 +17059,20 @@
           "E20",
           "EE-x4HQj28ADhE",
           "EE-2LbFlys_s0s",
-          "EE-0BwAsjX4poo"
+          "EE-0BwAsjX4poo",
+          "C01",
+          "C02",
+          "C09",
+          "C10",
+          "BBC-REE-250404",
+          "BBC-REE-260417",
+          "BBC-REE-250829",
+          "ELLLO-A1-24",
+          "ELLLO-A1-25",
+          "ELLLO-A1-04",
+          "ELLLO-A1-15",
+          "ELLLO-A1-17",
+          "JESS-dsA_Cq40f1Y"
         ],
         "selected_event_path": [
           {
@@ -17089,7 +17107,11 @@
           "E36",
           "E39",
           "EE-iDR2kFncuYU",
-          "EE-er9KJuKmfas"
+          "EE-er9KJuKmfas",
+          "BBC-REE-241018",
+          "BBC-REE-261002",
+          "ELLLO-A1-16",
+          "ELLLO-A1-21"
         ],
         "selected_event_path": [
           {
@@ -17130,7 +17152,10 @@
           "EE-cCh0EDHKTcc",
           "EE-NFhfE_HfOwY",
           "EE-MgDchfC29vc",
-          "EE-SoZcvhz0rPQ"
+          "EE-SoZcvhz0rPQ",
+          "BBC-REE-240531",
+          "JESS-Tyf96c__cL0",
+          "JESS-10H8wVz4jWg"
         ],
         "selected_event_path": [
           {
@@ -17163,7 +17188,8 @@
           "FCC-B1-67c9a5177161a4f73273f7e4",
           "D01",
           "D02",
-          "D03"
+          "D03",
+          "BBC-REE-260703"
         ]
       }
     ],
@@ -17178,7 +17204,22 @@
         "id": "REF08",
         "title": "语法、表达和词汇参考工具箱",
         "recommended_order": null,
-        "rule": "随当前卡点查；短问句和位置先用，经历比较后用，复杂完成与转述再后用；无独立背词要求"
+        "rule": "随当前卡点查；短问句和位置先用，经历比较后用，复杂完成与转述再后用；无独立背词要求",
+        "representative_source_ids": [
+          "BBC-PRON-07",
+          "BBC-PRON-08",
+          "BBC-PRON-03",
+          "BBC-PRON-01",
+          "BBC-PRON-09",
+          "BBC-PRON-12",
+          "SA-tense_i",
+          "SA-lax_i",
+          "SA-schwa",
+          "SA-v",
+          "SA-w",
+          "SA-r",
+          "SA-l"
+        ]
       }
     ],
     "difficulty_bands": {
@@ -17445,7 +17486,9 @@
       "EE-EHxVzjjrvMY",
       "EE-kSa-F4eXkwc",
       "EE-yTEB4hdrJQU"
-    ]
+    ],
+    "foundation_series_catalog_reference": "reference-library/系列课程目录.json",
+    "animation_series_catalog_reference": "reference-library/系列课程目录.json"
   },
   "classification_summary_basis": "Historical title-only triage at catalogue capture, preserved for provenance; current text review status, suitability and series order are in transcript_review_status, editorial_note and editorial_learning_order."
 }
