@@ -1474,7 +1474,19 @@
         "url": "https://www.youtube.com/watch?v=RLG8Nyve2vg",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-RLG8Nyve2vg",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/RLG8Nyve2vg.txt",
+        "bytes": 4938,
+        "sha256": "6206785779d699a41daac63e3fdac0223c20e8fd612b4e36e91ba9c72194f7d7",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "儿童和家庭健康短对话、部分成人请病假表达，先取描述不舒服与回应，不采纳治疗建议。原片胸痛后喝茶、恶心后打疫苗等处理缺乏可用医疗依据，症状不等于诊断；不能据此编自我治疗或完成问诊的任务。"
     },
     {
       "id": "E11",
@@ -1510,6 +1522,15 @@
         "url": "https://www.youtube.com/watch?v=V7Dvcy0gq-U",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "邻居见面与聚餐邀请可用；中段是12岁新生入学，不冒充成人入职或面试，不采用字幕Saiyans等错词。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -1751,6 +1772,15 @@
         "url": "https://www.youtube.com/watch?v=Rfw73jD07eo",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "以stop doing/to do、used to/be used to、介词疑问、for/since、间接问句和比较组织对话；同城房租与机会只是角色看法，未来订餐仍计划，不设语法先学完门槛。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -1855,6 +1885,15 @@
         "url": "https://www.youtube.com/watch?v=X9O8dmvBhqA",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "拾钱包归还、看发车牌纠正错车、公交换乘问站、让座问路及面试前电梯闲聊；儿童游乐和遛狗可选，末句缺词等自动字幕问题须核音，不把公交原因猜测当事实。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -1929,6 +1968,15 @@
         "url": "https://www.youtube.com/watch?v=3wQf8VkHpkI",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "旧衣拍卖故事、互助、清杂物、寻车寻遥控和分享多点的食物；真实故事及拍卖金额未独立核验，搜寻依证据而非互责可借，不作投资或设备操作指南。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -2027,6 +2075,15 @@
         "url": "https://www.youtube.com/watch?v=WNIhKv_nyl0",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "夫妻奢华海岛假期从计划购物打包到值机入住及预订活动；值机入住来回可用，改为同次商务行程，不新增度假购物、潜水及医疗清单必修。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -2228,6 +2285,15 @@
         "url": "https://www.youtube.com/watch?v=_PLGun5OwPA",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "自然表达与纠错合集含短介绍、点餐、会议分工和求助；不接受母语者不用very good、短语一定更流利的概括，going to/gonna及kind of处自动字幕丢失区别需核音。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -2326,6 +2392,15 @@
         "url": "https://www.youtube.com/watch?v=YwB0n883s84",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "短来回谈近况、征求打断、折中5点半出发、争取思考时间、未知会议信息转问当事人、婉拒聚会及迟反馈道歉；多数只定下一步，未见会议确认或实际交付。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -2612,7 +2687,19 @@
         "url": "https://www.youtube.com/watch?v=PdGkyMxRxGE",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-PdGkyMxRxGE",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/PdGkyMxRxGE.txt",
+        "bytes": 10491,
+        "sha256": "e9e3e2a9008b3d76a87988ba40387725b64605c5c60a68e66e84cc2840d53388",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "公园观察、近况、住房、表达不出症状、朋友纠正介词、家庭外貌与新经理风格；可选承认不理解/改述和用具体行为解释评价。病例中的hand/head等错识待核，交通介词不可从on the plane泛化所有交通，旁观推测与旧同事评价仍非已证实事实。"
     },
     {
       "id": "E24",
@@ -4433,7 +4520,19 @@
         "url": "https://www.youtube.com/watch?v=uNVmMOEqlAQ",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-uNVmMOEqlAQ",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/uNVmMOEqlAQ.txt",
+        "bytes": 13273,
+        "sha256": "7b6110e78b6cbae8c27f325ceed9bde11d9aba19c5b1c6bbe2b9b39eae8c398d",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "同一家人从度假计划到订房、值机、入住、设施问路和洗衣步骤，人物与房号较连贯，可借整段流程再缩为成人出差。初议预算3000—3500却接受3850，原片未显式核差额；游览询价后只说先商量并未订成，客房加衣架只是承诺。不要照抄家庭套房、报价或补上不存在的付款。"
     },
     {
       "id": "E35",
@@ -4537,7 +4636,19 @@
         "url": "https://www.youtube.com/watch?v=ioBPALYxDKM",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-ioBPALYxDKM",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/ioBPALYxDKM.txt",
+        "bytes": 16962,
+        "sha256": "ad7d799da6fa6bf92a5e11f962e9aae15a11537e68e481eadb472450122ec51f",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "值机核当前准点与落地本地时间、机餐、邻座、入住/客房服务、徒步、酒店不符未解决、机场信息问路、海滩租具和租车；先选出差所需的核时间/地址/需求并复述。多名旅客不是同次行程，技术行业仅身份；维修/20分钟送餐只是承诺，证件安检保险政策与价格未核。"
     },
     {
       "id": "E36",
@@ -4574,6 +4685,15 @@
         "url": "https://www.youtube.com/watch?v=MyMS3y2QuXw",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
+      },
+      "editorial_suitability_note": "错餐更正、无收据耳机换货、价签争议找经理、邻居约安静时段、酒店报热水问题；各事件结果不同，承诺修热水尚未验证，退货条款仅剧情。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -4684,7 +4804,19 @@
         "url": "https://www.youtube.com/watch?v=xKDgPV7MXwU",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-xKDgPV7MXwU",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/xKDgPV7MXwU.txt",
+        "bytes": 15259,
+        "sha256": "f1ec8d98d4c5c3ff01b3a6f887ac0c52bc96d7f7385ac6ba5c284f95be26d079",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "旧物议价、同一Thompson订桌—到店—点餐—结算、叫机场出租车、电视选购、理发、Dave三晚订房—入住、试衣与学生兼职面试；有连续小链可参考成人办事。不同旅客不拼成一个人，兼职履历不是本人职业，接送/培训多为后续约定，价格政策与产品保证未核。"
     },
     {
       "id": "E38",
@@ -4794,7 +4926,19 @@
         "url": "https://www.youtube.com/watch?v=0_mpEXFFKA0",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-0_mpEXFFKA0",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/0_mpEXFFKA0.txt",
+        "bytes": 12791,
+        "sha256": "803626bb5146762ae0e12af8e9915b53567247f163e5330558eca3fab665ae33",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "遗失手袋来电描述特征、店员查验复述、约定领取但未实际取回；预约医生连续排除冲突后双方确认姓名和时间，适合可选时段任务；询问咖啡店岗位工作/班次/时薪与下一步可迁移反问结构。忙碌日程若干时间ASR不清，需核音；桌面收纳位置与售货机操作可选，学校人物不作职场，售货机实际出饮料。"
     },
     {
       "id": "E39",
@@ -4910,7 +5054,19 @@
         "url": "https://www.youtube.com/watch?v=h7pIYycJRqE",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-h7pIYycJRqE",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/h7pIYycJRqE.txt",
+        "bytes": 16375,
+        "sha256": "6fc0e1941081865d88dba3b945497eb9ff2d21e4a1bbab84459a0c358dca03f4",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "餐饮人数预算忌口、咖啡选择、家电比较议价、健身指导、裁衣、单车报修和汽车待诊断；优先汽车段按症状/发生时间/频率收集事实，确认先诊断再报方案和估价，结束仍待回电。单车段已约次日下午取车但未实际修好；健康、保养和故障因果不据原片当专业标准。"
     },
     {
       "id": "E40",
@@ -4996,7 +5152,19 @@
         "url": "https://www.youtube.com/watch?v=oLvs81vcQPU",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-oLvs81vcQPU",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/oLvs81vcQPU.txt",
+        "bytes": 13434,
+        "sha256": "90bd5faa9cb6a14190a22b09caba83bd76e9f08a23948bea42993bdae4aeac9c",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "租房逐项问租金、押金、包含费用、维修和提前终止，止于愿意递申请；入职规章问答区分必须/建议/允许，是特定虚构公司的规则，不能当普遍职场标准。失窃说明时间地点与物品，止于建案；美国失业补助、按揭金额利率及减重建议不作为真实政策/医学知识，按需参考而非主线必学。"
     },
     {
       "id": "E41",
@@ -5033,7 +5201,19 @@
         "url": "https://www.youtube.com/watch?v=DMxTPcFCvIQ",
         "checked_on": "2026-10-17",
         "note": "no complete script or aligned transcript acquired for this entry"
-      }
+      },
+      "caption_research": {
+        "source_catalog_id": "EE-DMxTPcFCvIQ",
+        "local_original_path": "reference-library/originals/video-support/easyenglish-captions/DMxTPcFCvIQ.txt",
+        "bytes": 18858,
+        "sha256": "0502f9b5661ed9f7dcb756e5843f8b7e3aefbf24d6a4b2b6d81b4d4ee4de5084",
+        "full_export_read": true,
+        "review_status": "whole_auto_caption_export_read_not_audio_verified",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false,
+        "checked_on": "2026-10-18"
+      },
+      "editorial_suitability_note": "长合集含医护急救/住院、医生替代改约、购物、咖啡餐桌/酒店预订、问路、公交换零钱、火车、满座改次日航班、延误换登机口与贷款申请；优先出行和缺项替代。急救医护不属本人任务；票务/候补/金融条款未核，申请表不等于贷款批准，预计时刻不当保证。"
     },
     {
       "id": "E42",
@@ -5233,6 +5413,15 @@
         "url": "https://www.youtube.com/watch?v=0TBsMgwQaE8",
         "checked_on": "2026-10-17",
         "note": "Official description read; no complete script or aligned transcript acquired."
+      },
+      "editorial_suitability_note": "学生看房逐项问设施费用维修和租约，最后决定签约；150英尺等于五分钟及押金说明存在疑点，先签不然被抢的施压不当决策范例，不是现实租赁指南。",
+      "caption_research": {
+        "checked_on": "2026-10-18",
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "review_level": "whole_auto_caption_export_read_not_audio_verified",
+        "caption_kind": "automatic_declared_en",
+        "human_caption_accuracy_verified": false,
+        "audio_segment_verified": false
       }
     },
     {
@@ -5818,11 +6007,12 @@
         "FCC-A2-655bd1b0faed39415ed2760f",
         "FCC-A2-655c9a549835a8601764bd0b",
         "FCC-A2-655ca0a6639d6b67683ebbcd",
-        "FCC-A2-656a494313c73747b15a02c0"
+        "FCC-A2-656a494313c73747b15a02c0",
+        "EE-JNp1v-_aCkI"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR28、SR52；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR28、SR52；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV03、EV55；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -5858,12 +6048,13 @@
       "source_event_review": {
         "checked_on": "2026-10-18",
         "event_ids": [
-          "EV03"
+          "EV03",
+          "EV55"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
         "primary_decision_changed": false,
-        "editorial_change": "Removed school-child routine E03 as the default adult-work reference; prefer E24/E31. This does not assert exact scene match."
+        "editorial_change": "Removed school-child routine E03 as the default adult-work reference; prefer E24/E31. This does not assert exact scene match. Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts."
       },
       "series_source_review": {
         "checked_on": "2026-10-18",
@@ -6203,11 +6394,12 @@
       "suggested_primary_video_id": null,
       "reference_ids": [
         "Y14",
-        "Y20"
+        "Y20",
+        "E24"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV35；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "本轮未核到可完成“说明可接受条件”并得到本场结果的主片；现有Y14、Y20只作表达或背景参考",
       "embed_playback_verified": false,
@@ -6224,6 +6416,16 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“说明可接受条件”并得到本场结果的主片；现有Y14、Y20只作表达或背景参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV35"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -6231,9 +6433,9 @@
       "scene_title": "和用人经理确认岗位工作重心",
       "setting": "岗位称全栈开发，但客户支持可能占较多时间",
       "interaction_path": [
-        "追问最近一周典型任务",
-        "确认开发与支持比例",
-        "复述自己的理解"
+        "用一项典型任务追问实际责任",
+        "核开发与支持比例及第一阶段期待，听不清数字就确认",
+        "用自己的话回述并请经理确认或纠正"
       ],
       "outcome": "明确岗位实际职责和期待",
       "frequency": "节点",
@@ -6243,7 +6445,8 @@
         "E38",
         "C04",
         "Y01",
-        "Y16"
+        "Y16",
+        "EE-MgDchfC29vc"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
@@ -6266,6 +6469,17 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“复述自己的理解”并得到本场结果的主片；现有E38、C04、Y01、Y16只作表达或背景参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV61"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole_auto_caption_export_read_not_audio_verified",
+        "primary_decision_changed": false,
+        "editorial_flow_revised": true,
+        "editorial_change": "由抽象岗位名落实到典型任务、责任比例和阶段期待；回述待经理确认，不把来源管理人数移作本人事实。"
       }
     },
     {
@@ -6610,11 +6824,12 @@
       "suggested_primary_video_id": null,
       "reference_ids": [
         "Y14",
-        "Y20"
+        "Y20",
+        "E21"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV13；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "本轮未核到可完成“核对联系人和入会方式”并得到本场结果的主片；现有Y14、Y20只作表达或背景参考",
       "embed_playback_verified": false,
@@ -6631,6 +6846,16 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“核对联系人和入会方式”并得到本场结果的主片；现有Y14、Y20只作表达或背景参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV13"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -6744,7 +6969,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR35、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR35、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV30；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -6808,11 +7033,12 @@
         "FCC-A2-657b46c9be150f577f5a1086",
         "FCC-A2-657b1d4ec0e2587e8bcc95f7",
         "FCC-A2-657b227f7ad32ea17e2cdf28",
-        "FCC-A2-657b2dd7745fdcd03e5160f4"
+        "FCC-A2-657b2dd7745fdcd03e5160f4",
+        "E33"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "实际提供两段面试介绍及回应线索 系列任务参考 SR35；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "实际提供两段面试介绍及回应线索 系列任务参考 SR35；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV01；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 175,
         "end_seconds": 287,
@@ -6852,6 +7078,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV01"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -6999,11 +7235,12 @@
         "FCC-A2-657b46c9be150f577f5a1086",
         "FCC-A2-657b1d4ec0e2587e8bcc95f7",
         "FCC-A2-657b227f7ad32ea17e2cdf28",
-        "FCC-A2-657b2dd7745fdcd03e5160f4"
+        "FCC-A2-657b2dd7745fdcd03e5160f4",
+        "E33"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "优势与过去合作实例有明确示范 系列任务参考 SR35；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "优势与过去合作实例有明确示范 系列任务参考 SR35；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV01；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 487,
         "end_seconds": 710,
@@ -7043,6 +7280,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV01"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -7169,11 +7416,12 @@
       "reference_ids": [
         "E07",
         "Y02",
-        "Y13"
+        "Y13",
+        "E33"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV01；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "E07未取得换工作原因的可靠正文及片段，目录中的Job Interview不能证明这一追问已出现",
       "embed_playback_verified": false,
@@ -7191,6 +7439,16 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "E07未取得换工作原因的可靠正文及片段，目录中的Job Interview不能证明这一追问已出现"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV01"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -7484,11 +7742,12 @@
         "FCC-A2-657b1d4ec0e2587e8bcc95f7",
         "FCC-A2-657b227f7ad32ea17e2cdf28",
         "FCC-A2-657b2dd7745fdcd03e5160f4",
-        "BBC-19"
+        "BBC-19",
+        "EE-cCh0EDHKTcc"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR35、SR40；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR35、SR40；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV53；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -7517,6 +7776,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV53"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts."
       }
     },
     {
@@ -8205,11 +8474,12 @@
       "reference_ids": [
         "C02",
         "Y15",
-        "D07"
+        "D07",
+        "E22"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "陌生术语出现后请求定义、复述再继续技术讨论",
+      "chapter_evidence_note": "陌生术语出现后请求定义、复述再继续技术讨论 字幕事件参考 EV30；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": null,
         "end_seconds": null,
@@ -8239,6 +8509,16 @@
         "fit_note": "陌生术语出现后请求定义、复述再继续技术讨论",
         "remaining_limit": "场合是需求梳理，面试追问由原创任务承接；秒数待核",
         "audio_segment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV30"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -8918,11 +9198,12 @@
         "E31",
         "E40",
         "Y14",
-        "Y20"
+        "Y20",
+        "E01"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV04；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "本轮未核到可完成“确认哪些仍待批准”并得到本场结果的主片；现有E31、E40、Y14、Y20只作表达或背景参考",
       "embed_playback_verified": false,
@@ -8941,6 +9222,16 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“确认哪些仍待批准”并得到本场结果的主片；现有E31、E40、Y14、Y20只作表达或背景参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV04"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -9042,7 +9333,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR16；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR16；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV02；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -9087,6 +9378,16 @@
         "editorial_flow_revised": false,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV02"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -9241,7 +9542,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR02、SR16、SR28、SR51、SR54；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR02、SR16、SR28、SR51、SR54；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV02；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -9290,6 +9591,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV02"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -9740,7 +10051,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR17、SR28、SR55；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR17、SR28、SR55；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV03、EV04；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -9801,13 +10112,13 @@
     {
       "scene_id": "S094",
       "scene_title": "确认例会准备事项并加入日历",
-      "setting": "Maya发来第一次例会安排，时间和准备事项没听清",
+      "setting": "Maya的首次例会邀请找不到，你与同事的记忆也不一致",
       "interaction_path": [
-        "复述会议名称日期和时段，含糊频次换明确日期",
-        "核参加人、所需任务卡和要讨论的问题",
-        "确认日历和准备动作，为S163保留同一议程"
+        "复述已知会议名称，分清确定信息与猜测",
+        "联系Maya核具体日期时段、参加人和需要的任务卡",
+        "收到回应后记录日历与准备；未回复则保留待确认"
       ],
-      "outcome": "准确记录首次参会信息，能按本次目的准备",
+      "outcome": "拿到有来源的参会信息或明确待核项，不把同事猜测记成已确认议程",
       "frequency": "节点",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -9824,11 +10135,12 @@
         "FCC-A2-6579df5f24a43034dbe456f1",
         "VOA1-50",
         "BBC-62",
-        "BBC-63"
+        "BBC-63",
+        "E20"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR17、SR55、SR71、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR17、SR55、SR71、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV13、EV14、EV41；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -9850,11 +10162,14 @@
         "checked_on": "2026-10-18",
         "event_ids": [
           "EV13",
-          "EV14"
+          "EV14",
+          "EV41"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       },
       "series_source_review": {
         "checked_on": "2026-10-18",
@@ -10123,7 +10438,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV24；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV24；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。",
       "embed_playback_verified": false,
@@ -10302,7 +10617,7 @@
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "有两人比较通勤方式与说明路线的完整对话 系列任务参考 SR46；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "有两人比较通勤方式与说明路线的完整对话 系列任务参考 SR46；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV35；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 62,
         "end_seconds": 520,
@@ -10370,11 +10685,12 @@
       "reference_ids": [
         "E10",
         "E18",
-        "VOA1-27"
+        "VOA1-27",
+        "E31"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR21；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR21；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV08；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -10402,6 +10718,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV08"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -10424,7 +10750,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV06；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV06；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。 场景已按连续任务修订，原片人物及业务结论不直接移植。",
       "embed_playback_verified": false,
@@ -10883,7 +11209,7 @@
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "首版必需与可推迟功能的取舍有实际对话",
+      "chapter_evidence_note": "首版必需与可推迟功能的取舍有实际对话 字幕事件参考 EV10；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": null,
         "end_seconds": null,
@@ -10938,11 +11264,12 @@
       "suggested_primary_video_id": "D02",
       "reference_ids": [
         "Y15",
-        "D07"
+        "D07",
+        "E13"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "明确说出暂不实现内容、替代办法与试点规模条件",
+      "chapter_evidence_note": "明确说出暂不实现内容、替代办法与试点规模条件 字幕事件参考 EV10；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": null,
         "end_seconds": null,
@@ -10971,6 +11298,16 @@
         "fit_note": "明确说出暂不实现内容、替代办法与试点规模条件",
         "remaining_limit": "不是建议Relay照搬功能取舍；秒数待核",
         "audio_segment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV10"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -11038,11 +11375,12 @@
       "primary_video_id": null,
       "suggested_primary_video_id": "Y15",
       "reference_ids": [
-        "D02"
+        "D02",
+        "E13"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "同一词含义不明后举例追问并确认",
+      "chapter_evidence_note": "同一词含义不明后举例追问并确认 字幕事件参考 EV09；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 486,
         "end_seconds": 687,
@@ -11070,6 +11408,16 @@
         "fit_note": "同一词含义不明后举例追问并确认",
         "remaining_limit": "原对象是设计文件，业务术语需换成当前真实概念",
         "audio_segment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV09"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -11156,7 +11504,7 @@
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "任务澄清、逐项确认与重新说明均有对话 系列任务参考 SR04、SR24、SR27、SR29、SR66、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "任务澄清、逐项确认与重新说明均有对话 系列任务参考 SR04、SR24、SR27、SR29、SR66、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV09；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 486,
         "end_seconds": 687,
@@ -11232,11 +11580,12 @@
         "BBC-10",
         "FCC-A2-6613cf7cb0b2704934764852",
         "FCC-A2-66177150856cd6d0ca504c9f",
-        "FCC-A2-6617b04b6e9139fb30d059d9"
+        "FCC-A2-6617b04b6e9139fb30d059d9",
+        "E13"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "在有限资源下保住必要目标并暂缓扩展 系列任务参考 SR24、SR37；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "在有限资源下保住必要目标并暂缓扩展 系列任务参考 SR24、SR37；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV10；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": null,
         "end_seconds": null,
@@ -11277,6 +11626,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV10"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -12023,7 +12382,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR34；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR34；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV05；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -12116,13 +12475,13 @@
     {
       "scene_id": "S139",
       "scene_title": "确认每项工作由谁负责",
-      "setting": "多人都在处理创建工单任务，但开发、验证与决定角色不清",
+      "setting": "多人处理创建工单任务，开发验证和决定角色不清且有次日交接",
       "interaction_path": [
-        "说明自己的开发工作",
-        "与 Leo 核对复测、与 Maya 核对决定和协调职责",
-        "确认交接顺序并写入任务卡"
+        "说明本人当前工作，提出哪一部分需要协助及所需时点",
+        "与Leo核验证、与Maya核决定职责，听可承担的实际范围",
+        "确认接手人、交接顺序与反馈时间并写同一任务卡"
       ],
-      "outcome": "每项工作有明确接手人，后续汇报沿用相同分工",
+      "outcome": "分担有明确对象和时限，承诺协助不等于相关工作已经完成",
       "frequency": "日常",
       "primary_video_id": null,
       "suggested_primary_video_id": "Y15",
@@ -12137,11 +12496,12 @@
         "FCC-B1-67c9a5177161a4f73273f7e4",
         "FCC-B1-681478e4b54ac6044a51e385",
         "FCC-B1-6811efd946370517556f4a02",
-        "BBC-11"
+        "BBC-11",
+        "EE-zo5QpvcY63g"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "产出、责任、协作者和完成时限有实际对话 系列任务参考 SR03、SR28、SR40、SR70；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "产出、责任、协作者和完成时限有实际对话 系列任务参考 SR03、SR28、SR40、SR70；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV05、EV36；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 301,
         "end_seconds": 486,
@@ -12173,11 +12533,14 @@
       "source_event_review": {
         "checked_on": "2026-10-18",
         "event_ids": [
-          "EV05"
+          "EV05",
+          "EV36"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       },
       "series_source_review": {
         "checked_on": "2026-10-18",
@@ -12329,11 +12692,12 @@
       "suggested_primary_video_id": null,
       "reference_ids": [
         "Y15",
-        "D07"
+        "D07",
+        "E07"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV07；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "本轮未核到可完成“确认观察与升级时点”并得到本场结果的主片；现有Y15、D07只作表达或背景参考",
       "embed_playback_verified": false,
@@ -12350,6 +12714,16 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“确认观察与升级时点”并得到本场结果的主片；现有Y15、D07只作表达或背景参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV07"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -12713,24 +13087,25 @@
     {
       "scene_id": "S150",
       "scene_title": "协调前后端联调时间",
-      "setting": "两个团队各自准备好了部分功能，却难约共同联调",
+      "setting": "前后端只各自准备好部分功能，共同联调时段有冲突",
       "interaction_path": [
-        "说明当前可用版本",
-        "商量准备工作与在线时段",
-        "确认联调计划和参与人"
+        "说明可用版本、准备工作与双方空档",
+        "听对方尚未完成的事，提出不冲突的替代时段",
+        "核时区、参加人和需要提前准备的内容，留下双方确认"
       ],
-      "outcome": "确认可用版本、准备工作和共同在线时段",
+      "outcome": "联调版本、准备与共同在线时段一致，不凭一方希望就记成约好",
       "frequency": "日常",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
       "reference_ids": [
         "Y10",
         "Y20",
-        "VOA1-17"
+        "VOA1-17",
+        "E20"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR18；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR18；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV42；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -12758,18 +13133,29 @@
         "editorial_flow_revised": false,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV42"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       }
     },
     {
       "scene_id": "S151",
       "scene_title": "向协作者交代环境启动与连接步骤",
-      "setting": "协作者按启动文档操作，仍不清楚怎样连接Relay环境",
+      "setting": "协作者按启动说明操作，仍卡在环境连接的一步",
       "interaction_path": [
-        "确认目标环境、访问前提与当前卡点",
-        "对照启动及连接说明讲清顺序，给出当前环境可用的最小例子",
-        "请协作者实际试走并回述结果，补充缺口及后续求助安排"
+        "核目标环境、访问前提和当前所在步骤",
+        "只示范当前卡点的必要步骤，说明该看见的结果",
+        "让协作者自己试走并回述，未成功则记观察和下一协助"
       ],
-      "outcome": "协作者拿到明确的启动连接步骤和实际试走结果，未成功时保留卡点与接续安排",
+      "outcome": "根据本人实际试走留下结果，不以看过示范或口头说懂确认连通",
       "frequency": "节点",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -12789,11 +13175,12 @@
         "FCC-A2-660694cf7803c598ce999171",
         "FCC-A2-6630b37556424464ba0f984e",
         "FCC-A2-65f422e03c1be26ee37dbcf1",
-        "FCC-A2-66263d28fe1eae5a2601d0d6"
+        "FCC-A2-66263d28fe1eae5a2601d0d6",
+        "EE-x4HQj28ADhE"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR14、SR32、SR59、SR60；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR14、SR32、SR59、SR60；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV45；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -12833,6 +13220,17 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV45"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       }
     },
     {
@@ -12913,11 +13311,11 @@
       "scene_title": "发现原估计时间不够",
       "setting": "创建工单任务的剩余工作超过原估计，可能影响试点",
       "interaction_path": [
-        "沿用 S137 估计说明新增困难和剩余工作",
-        "比较范围、依赖或支持调整，区分建议与已获同意",
-        "确认新的估计或评估期限并同步受影响的人"
+        "沿用S137任务卡列清剩余工作、新困难与估计依据",
+        "与Maya比较减项、调整顺序或支持，核人力和决定权限",
+        "分别记已批准的变化与待回应项，约重估时间并同步受影响的人"
       ],
-      "outcome": "留下有依据的新安排；提出新计划不等同交付日期已获批准",
+      "outcome": "新安排有工作量依据及明确批准状态，不用增加工时或经理愿意商量代替可交付承诺",
       "frequency": "条件",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -12937,11 +13335,12 @@
         "FCC-B1-67c61977259aea71cbd6c010",
         "FCC-B1-681478e4b54ac6044a51e385",
         "FCC-B1-6811efd946370517556f4a02",
-        "BBC-11"
+        "BBC-11",
+        "EE-NFhfE_HfOwY"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR15、SR34、SR68、SR70；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR15、SR34、SR68、SR70；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV07、EV51；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -12964,11 +13363,14 @@
       "source_event_review": {
         "checked_on": "2026-10-18",
         "event_ids": [
-          "EV07"
+          "EV07",
+          "EV51"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts.",
+        "editorial_flow_revised": true
       },
       "series_source_review": {
         "checked_on": "2026-10-18",
@@ -13053,11 +13455,12 @@
         "FCC-A2-65f422e03c1be26ee37dbcf1",
         "FCC-A2-66263d28fe1eae5a2601d0d6",
         "FCC-B1-6660a0f4dbf5a3622399100f",
-        "FCC-B1-67e479963d8dd4ac75c664d6"
+        "FCC-B1-67e479963d8dd4ac75c664d6",
+        "EE-zo5QpvcY63g"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "说明不会的点、接受同事帮助并确认后续协作 系列任务参考 SR02、SR17、SR25、SR31、SR53、SR60、SR73；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "说明不会的点、接受同事帮助并确认后续协作 系列任务参考 SR02、SR17、SR25、SR31、SR53、SR60、SR73；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV36；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": null,
         "end_seconds": null,
@@ -13103,6 +13506,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV36"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -13483,11 +13896,12 @@
       "reference_ids": [
         "D06",
         "Y15",
-        "BBC-06"
+        "BBC-06",
+        "E18"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "依赖延期、影响、请求支持和升级时点都有对话 系列任务参考 SR03；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "依赖延期、影响、请求支持和升级时点都有对话 系列任务参考 SR03；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV34；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": null,
         "end_seconds": null,
@@ -13527,6 +13941,16 @@
         "editorial_flow_revised": false,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV34"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -13551,7 +13975,7 @@
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "会议目标与议程组织有可用示范 系列任务参考 SR06、SR55；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "会议目标与议程组织有可用示范 系列任务参考 SR06、SR55；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV14；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 322,
         "end_seconds": 506,
@@ -13663,7 +14087,7 @@
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "有将讨论拉回议程和延后旁支的明确示范 系列任务参考 SR73；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "有将讨论拉回议程和延后旁支的明确示范 系列任务参考 SR73；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV12；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 852,
         "end_seconds": null,
@@ -13808,7 +14232,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR67、SR71、SR73；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR67、SR71、SR73；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV12；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -13892,11 +14316,11 @@
       "scene_title": "开发中收到额外需求",
       "setting": "开发中客户又增加需求，而当前承诺不变",
       "interaction_path": [
-        "确认新需求用途",
-        "说明对原计划影响",
-        "协商替换、延期或追加评估"
+        "请客户举一个新增使用例子，对照已确认范围指出变化",
+        "说明对现有任务和期限的影响，比较替换、延后或追加评估",
+        "请Maya及相关决定人确认取舍并更新同一任务卡，未回复就保留待定"
       ],
-      "outcome": "说明对当前计划的影响，协商延后或替换范围",
+      "outcome": "新增需求有用途、影响与明确取舍，收到请求或内部答应争取不等于客户批准新安排",
       "frequency": "条件",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -13904,11 +14328,12 @@
         "C08",
         "D02",
         "Y18",
-        "D04"
+        "D04",
+        "EE-NFhfE_HfOwY"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV51；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "D02重建外部核验需求，没有展示开发中额外请求的变更批准流程；C08是追加修改与容量冲突的参考",
       "embed_playback_verified": false,
@@ -13927,6 +14352,17 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "D02重建外部核验需求，没有展示开发中额外请求的变更批准流程；C08是追加修改与容量冲突的参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV51"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts.",
+        "editorial_flow_revised": true
       }
     },
     {
@@ -14362,7 +14798,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR30、SR61、SR69；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR30、SR61、SR69；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV29；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -14478,11 +14914,12 @@
         "FCC-A2-65f587dd775b4e74643cf3db",
         "FCC-B1-66609e8c75137f49fd9c25fd",
         "FCC-B1-671b98e9b7c4854e93044e64",
-        "FCC-B1-6727896e74a7ba08f6db7c68"
+        "FCC-B1-6727896e74a7ba08f6db7c68",
+        "E18"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR31、SR69；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR31、SR69；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV29；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -14511,6 +14948,16 @@
         "editorial_flow_revised": false,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV29"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -14518,11 +14965,11 @@
       "scene_title": "指导用户提供可用于排障的证据",
       "setting": "用户说系统不对，重启后仍无效",
       "interaction_path": [
-        "问最后正常操作、异常条件与影响范围",
-        "请求相关截图报错，并记录已试动作及结果",
-        "分观察与原因猜测，核下一检查和记录位置"
+        "问第一次出现与最后正常时点、频率及影响范围",
+        "请求同一操作的截图报错，记录已试动作及是否仍异常",
+        "区分观察与原因猜测，确认由谁检查、怎样回报和下一检查时间"
       ],
-      "outcome": "得到有上下文的排障材料，不盲目让用户装插件或更新驱动",
+      "outcome": "得到可继续调查的排障材料与诊断安排，原因或修复时限尚未确认时明确说待检查",
       "frequency": "日常",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -14543,11 +14990,13 @@
         "FCC-B1-6727896e74a7ba08f6db7c68",
         "FCC-B1-682f53b846cb3b122ad85e34",
         "FCC-B1-68378148e793724538853f02",
-        "FCC-B1-6821ee36e2f3b566c32cb11a"
+        "FCC-B1-6821ee36e2f3b566c32cb11a",
+        "E44",
+        "E39"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR11、SR30、SR61、SR69、SR77；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR11、SR30、SR61、SR69、SR77；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV28、EV29、EV52；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -14569,11 +15018,14 @@
         "checked_on": "2026-10-18",
         "event_ids": [
           "EV28",
-          "EV29"
+          "EV29",
+          "EV52"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts.",
+        "editorial_flow_revised": true
       },
       "series_source_review": {
         "checked_on": "2026-10-18",
@@ -16071,7 +16523,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV16；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -16146,7 +16598,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV16；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -16579,7 +17031,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV17；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV17；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。 场景已按连续任务修订，原片人物及业务结论不直接移植。",
       "embed_playback_verified": false,
@@ -16641,7 +17093,7 @@
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "核到设备处置指示、询问与配合检查",
+      "chapter_evidence_note": "核到设备处置指示、询问与配合检查 字幕事件参考 EV18；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 287,
         "end_seconds": 431,
@@ -16701,7 +17153,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV17；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV17；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。",
       "embed_playback_verified": false,
@@ -16865,7 +17317,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV19；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV19；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。",
       "embed_playback_verified": false,
@@ -17005,7 +17457,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR25；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR25；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV33；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -17048,6 +17500,16 @@
         "editorial_flow_revised": false,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV33"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -17070,7 +17532,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV21；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV21；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。",
       "embed_playback_verified": false,
@@ -17122,7 +17584,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV20；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -17194,11 +17656,12 @@
         "Y09",
         "E08",
         "BBC-25",
-        "BBC-26"
+        "BBC-26",
+        "EE-iDR2kFncuYU"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR08；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV50；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -17226,6 +17689,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV50"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts."
       }
     },
     {
@@ -17279,13 +17752,13 @@
     {
       "scene_id": "S238",
       "scene_title": "房间噪声影响休息",
-      "setting": "酒店房间持续有噪声，影响第二天的客户工作",
+      "setting": "酒店房间持续噪声，影响次日客户现场工作",
       "interaction_path": [
-        "说明问题、时段与影响",
-        "请求处理或换房",
-        "确认解决办法和执行时间"
+        "说明噪声出现时段、位置及实际影响，不推断来源责任",
+        "与前台核可处理措施或换安静房间及执行时间",
+        "确认谁处理和何时反馈，未改善则按约定继续联系"
       ],
-      "outcome": "描述具体问题，请求处理或更换安静房间",
+      "outcome": "得到具体处理安排并待实际观察，不把道歉或承诺当噪声已消失",
       "frequency": "条件",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -17298,7 +17771,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV32、EV40；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV32；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。",
       "embed_playback_verified": false,
@@ -17321,11 +17794,14 @@
       "source_event_review": {
         "checked_on": "2026-10-18",
         "event_ids": [
-          "EV32"
+          "EV32",
+          "EV40"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       }
     },
     {
@@ -17347,7 +17823,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV20；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV20；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。 场景已按连续任务修订，原片人物及业务结论不直接移植。",
       "embed_playback_verified": false,
@@ -17446,13 +17922,13 @@
     {
       "scene_id": "S241",
       "scene_title": "向司机说明客户地点和下车位置",
-      "setting": "司机导航到园区外，你仍找不到客户接待口",
+      "setting": "司机对同名地点或园区入口有疑问，你需到客户接待口",
       "interaction_path": [
-        "出示 S240 确认的客户地址和入口",
-        "向司机说明可辨认地标并核对下车点",
-        "到达时核对位置，有偏差则请求调整"
+        "出示S240确认的客户名称、完整地址和入口",
+        "发现同名地点时先核街道门牌，再以地标确认下车点",
+        "抵达后对照约定入口，有偏差请求调整并联系接待人"
       ],
-      "outcome": "到达与客户约定的下车位置并能继续联系接待人",
+      "outcome": "到达同一客户约定下车位置，不因名称相同默认地址正确",
       "frequency": "节点",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -17462,11 +17938,12 @@
         "Y24",
         "VOA1-06",
         "VOA1-10",
-        "VOA1-11"
+        "VOA1-11",
+        "EE-kUZiIwcvy58"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR46；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR46；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV38；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -17495,6 +17972,17 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV38"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       }
     },
     {
@@ -17769,9 +18257,9 @@
       "scene_title": "解决现场演示的画面共享问题",
       "setting": "演示将开始，投影或共享屏幕没有显示正确画面",
       "interaction_path": [
-        "向现场人员描述问题",
-        "配合切换与试播",
-        "向观众确认已能看到内容"
+        "区分本机显示与观众端画面，描述实际现象",
+        "请现场人员协助检查或切换并试播",
+        "请观众确认看到同一正确内容，仍失败则约备用展示"
       ],
       "outcome": "请现场人员协助，确认观众看到正确内容",
       "frequency": "节点",
@@ -17779,7 +18267,8 @@
       "suggested_primary_video_id": null,
       "reference_ids": [
         "Y06",
-        "Y20"
+        "Y20",
+        "EE-2LbFlys_s0s"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
@@ -17800,6 +18289,17 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“向观众确认已能看到内容”并得到本场结果的主片；现有Y06、Y20只作表达或背景参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV62"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole_auto_caption_export_read_not_audio_verified",
+        "primary_decision_changed": false,
+        "editorial_flow_revised": true,
+        "editorial_change": "本机恢复与观众可见分开核；原片只证实本机，Relay保留观众确认及失败时备用下一步。"
       }
     },
     {
@@ -18182,7 +18682,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR22、SR49；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR22、SR49；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV25；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -18331,11 +18831,12 @@
       "reference_ids": [
         "E22",
         "Y24",
-        "B05"
+        "B05",
+        "EE-qTiUUgCmQ_8"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV49；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "E22破冰章节未证明涉及当地生活话题及客户追问；Y24的自然延展只作参考",
       "embed_playback_verified": false,
@@ -18353,6 +18854,16 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "E22破冰章节未证明涉及当地生活话题及客户追问；Y24的自然延展只作参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV49"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -18374,11 +18885,12 @@
         "Y32",
         "BBC-16",
         "FCC-A2-657ef4e5a4a1e1e126eba6dd",
-        "VOA2-27"
+        "VOA2-27",
+        "E22"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR39、SR57；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR39、SR57；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV31；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -18429,18 +18941,28 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV31"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
       "scene_id": "S261",
       "scene_title": "临时购买充电或日用品",
-      "setting": "出差中临时缺少可用的充电或日用品，需要现场解决",
+      "setting": "出差临时缺充电或日用品，需要现场取得可用物品",
       "interaction_path": [
-        "说明需要的用途及适配条件",
-        "核对可选商品和价格",
-        "决定购买并检查能否满足当前需要"
+        "说明用途适配条件，再问现货与可选规格",
+        "核价签和结算价格，有差异先请工作人员确认",
+        "决定购买后检查当前用途并保留票据；异常再另约处理"
       ],
-      "outcome": "取得可用物品；买后异常的退换货只作条件变式，不把耳机换货片当充电采购全流程",
+      "outcome": "取得适配物品及清楚价格记录；促销或退换办法按本次商家确认，不照搬片中政策",
       "frequency": "条件",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -18453,7 +18975,7 @@
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV26、EV27、EV39；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "新增自动字幕正文参考及差异见 EV26、EV27；原事件与本站全部步骤仍须分别核对，当前主片保持待选；未作音画及播放器验证。 场景已按连续任务修订，原片人物及业务结论不直接移植。",
       "embed_playback_verified": false,
@@ -18477,23 +18999,26 @@
         "checked_on": "2026-10-18",
         "event_ids": [
           "EV26",
-          "EV27"
+          "EV27",
+          "EV39"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       }
     },
     {
       "scene_id": "S262",
       "scene_title": "询问公共交通路线和票务",
-      "setting": "去现场以外地点时，不清楚线路方向、站台或票务",
+      "setting": "去现场以外地点时，对方向站台或票务中的一项不清楚",
       "interaction_path": [
-        "说明目的地和已有票务信息",
-        "核对本次实际遇到的方向或购票困难",
-        "复述并确认下一步乘车位置"
+        "说明具体目的地、车次和已有票务信息",
+        "针对本次困难查当日显示牌或请工作人员指出票机步骤",
+        "复述下一乘车位置与需注意的时间，尚未上车不记已赶上"
       ],
-      "outcome": "得到可执行的本次交通安排；错向公交与找地铁站台选一种困难，不机械叠加两段视频",
+      "outcome": "本次交通安排可执行；只选择一个主要困难，其他材料留专题变式",
       "frequency": "节点",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -18503,11 +19028,12 @@
         "E15",
         "VOA1-06",
         "VOA1-10",
-        "VOA1-11"
+        "VOA1-11",
+        "EE-qTiUUgCmQ_8"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR46；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR46；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV22、EV23、EV46、EV49；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -18530,11 +19056,15 @@
         "checked_on": "2026-10-18",
         "event_ids": [
           "EV22",
-          "EV23"
+          "EV23",
+          "EV46",
+          "EV49"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       },
       "series_source_review": {
         "checked_on": "2026-10-18",
@@ -20074,11 +20604,12 @@
       "reference_ids": [
         "D01",
         "D03",
-        "Y15"
+        "Y15",
+        "E18"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV34；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "本轮未核到可完成“承诺可履行的下次同步点”并得到本场结果的主片；现有D01、D03、Y15只作表达或背景参考",
       "embed_playback_verified": false,
@@ -20096,18 +20627,28 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "本轮未核到可完成“承诺可履行的下次同步点”并得到本场结果的主片；现有D01、D03、Y15只作表达或背景参考"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV34"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
       "scene_id": "S299",
       "scene_title": "告知修复结果并请求验证",
-      "setting": "修复完成，需要用户确认自己的操作已经可用",
+      "setting": "修复动作已实施，需要核原问题是否在用户操作中恢复",
       "interaction_path": [
-        "按同一故障记录说明发现、无效尝试和新证据",
-        "区分确认的原因、仍待验证的推测及实际采取动作",
-        "向参与人复述结果与剩余风险并核对下一检查"
+        "沿用同一故障记录说明采取动作、已验结果及仍待核处",
+        "请用户按原触发条件重走一次，核对预期与实际并留下证据",
+        "恢复则记录本次验证和剩余风险；仍异常则保留问题并约下一检查"
       ],
-      "outcome": "形成证据可追溯的事件更新，不从教材套用技术原因",
+      "outcome": "修复动作与用户验证分别有状态，一次恢复不等于全部流程通过或问题永不再现",
       "frequency": "条件",
       "primary_video_id": null,
       "suggested_primary_video_id": null,
@@ -20122,11 +20663,13 @@
         "FCC-B1-67e0f2aee45dc6994a0c2f06",
         "FCC-B1-682f53b846cb3b122ad85e34",
         "FCC-B1-68378148e793724538853f02",
-        "FCC-B1-6821ee36e2f3b566c32cb11a"
+        "FCC-B1-6821ee36e2f3b566c32cb11a",
+        "E44",
+        "EE-IVhXP9ZG1N8"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR30、SR34、SR77；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR30、SR34、SR77；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV28、EV54；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -20156,6 +20699,18 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV28",
+          "EV54"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts.",
+        "editorial_flow_revised": true
       }
     },
     {
@@ -20637,11 +21192,12 @@
         "FCC-B1-6660a229268f4469af6af407",
         "FCC-A2-6579df5f24a43034dbe456f1",
         "FCC-B1-680556e0905de6460d3251ae",
-        "FCC-B1-6660a2dc899b426da432d83b"
+        "FCC-B1-6660a2dc899b426da432d83b",
+        "E32"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "建议、理由和对方回应的语言有完整示范 系列任务参考 SR71、SR72；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "建议、理由和对方回应的语言有完整示范 系列任务参考 SR71、SR72；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV15；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 259,
         "end_seconds": 466,
@@ -20681,6 +21237,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV15"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -20707,11 +21273,12 @@
         "FCC-B1-6660a2dc899b426da432d83b",
         "FCC-B1-682f53b846cb3b122ad85e34",
         "FCC-B1-68378148e793724538853f02",
-        "FCC-B1-6821ee36e2f3b566c32cb11a"
+        "FCC-B1-6821ee36e2f3b566c32cb11a",
+        "E32"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR24、SR71、SR72、SR77；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR24、SR71、SR72、SR77；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV15；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -20743,6 +21310,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV15"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -21189,11 +21766,12 @@
         "FCC-A2-6626261426a32b191320ecbe",
         "FCC-A2-662637442baaf548015d56d9",
         "FCC-B1-66bbacad1dfc231609e3a512",
-        "FCC-B1-67ed2d60c7961de23af84a4f"
+        "FCC-B1-67ed2d60c7961de23af84a4f",
+        "EE-x4HQj28ADhE"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR14、SR61；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR14、SR61；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV45；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -21223,6 +21801,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV45"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -21244,11 +21832,12 @@
         "BBC-14",
         "BBC-15",
         "FCC-B1-6810d008957707fd9cf42612",
-        "VOA1-40"
+        "VOA1-40",
+        "EE-cCh0EDHKTcc"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "具体问题、改法和完成时间均有来回 系列任务参考 SR38、SR75；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "具体问题、改法和完成时间均有来回 系列任务参考 SR38、SR75；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV11、EV53；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 195,
         "end_seconds": 389,
@@ -21280,11 +21869,13 @@
       "source_event_review": {
         "checked_on": "2026-10-18",
         "event_ids": [
-          "EV11"
+          "EV11",
+          "EV53"
         ],
         "source_catalog": "reference-library/EasyEnglish课程目录.json",
         "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
-        "primary_decision_changed": false
+        "primary_decision_changed": false,
+        "editorial_change": "Selected source-event structure for original adaptation; source characters, technical or medical claims and final outcomes are not transferred as Relay facts."
       },
       "series_source_review": {
         "checked_on": "2026-10-18",
@@ -21321,11 +21912,12 @@
         "VOA1-40",
         "VOA1-28",
         "VOA1-48",
-        "VOA1-52"
+        "VOA1-52",
+        "E13"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "征询、澄清与形成具体修改动作有对话 系列任务参考 SR10、SR38、SR75、SR79；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "征询、澄清与形成具体修改动作有对话 系列任务参考 SR10、SR38、SR75、SR79；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV11；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 562,
         "end_seconds": null,
@@ -21367,6 +21959,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV11"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -21396,11 +21998,12 @@
         "FCC-B1-67c61977259aea71cbd6c010",
         "FCC-B1-681478e4b54ac6044a51e385",
         "FCC-B1-6811efd946370517556f4a02",
-        "BBC-11"
+        "BBC-11",
+        "EE-PT85QlyEjQI"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": " 系列任务参考 SR15、SR34、SR68、SR70；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "系列任务参考 SR15、SR34、SR68、SR70；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV48；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "已补系列正文任务参考；本站完整任务与音画片段仍待核，主视频留空。",
       "embed_playback_verified": false,
@@ -21446,6 +22049,16 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV48"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -21914,11 +22527,13 @@
       "suggested_primary_video_id": null,
       "reference_ids": [
         "Y15",
-        "Y06"
+        "Y06",
+        "E07",
+        "E31"
       ],
       "selection_status": "unmatched_after_content_review",
       "coverage_status": "reference_only",
-      "chapter_evidence_note": null,
+      "chapter_evidence_note": "字幕事件参考 EV06、EV08；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": null,
       "unmatched_reason": "Y15没有休假代理、未完成项、升级入口和交接确认，分配印刷任务不能替代",
       "embed_playback_verified": false,
@@ -21935,6 +22550,17 @@
         "content_text_verified": false,
         "audio_segment_verified": false,
         "reason": "Y15没有休假代理、未完成项、升级入口和交接确认，分配印刷任务不能替代"
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV06",
+          "EV08"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Caption source provides an input variant or counterexample; not proof of complete site-scene coverage."
       }
     },
     {
@@ -22857,13 +23483,13 @@
     {
       "scene_id": "S351",
       "scene_title": "向协作者讲清整部视频怎样展开",
-      "setting": "协作者要按提纲配画面，但主题顺序不明确",
+      "setting": "协作者要配画面，你一时说不清提纲并堆了多个主意",
       "interaction_path": [
-        "先用一句话核本视频要回答的问题",
-        "按已有事实排观点例子结尾并回应顺序时长追问",
-        "标已备好、待补和待试讲，确认同一彩排提纲"
+        "先争取片刻并用一句话说本视频要回答的问题",
+        "请对方回述，比较一个核心观点与多个分散主意的安排",
+        "按已有事实定例子和结尾，标待补与待试讲并确认同一提纲"
       ],
-      "outcome": "协作者清楚讲什么及怎样展开，不因听错主题或一句同意而备错材料",
+      "outcome": "协作者能回述主题和顺序，达成简化意向仍要经过试讲核理解",
       "frequency": "节点",
       "primary_video_id": null,
       "suggested_primary_video_id": "Y07",
@@ -22875,11 +23501,12 @@
         "BBC-13",
         "VOA1-50",
         "BBC-62",
-        "BBC-63"
+        "BBC-63",
+        "E20"
       ],
       "selection_status": "candidate_text_checked_audio_pending",
       "coverage_status": "has_primary_candidate",
-      "chapter_evidence_note": "内容组织与衔接有明确示范 系列任务参考 SR48、SR63、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。",
+      "chapter_evidence_note": "内容组织与衔接有明确示范 系列任务参考 SR48、SR63、SR78；为原创迁移依据，不表示原片覆盖本站全部步骤或已选主片。 字幕事件参考 EV43；仅作原创迁移依据，不表示主片已选或音画已核。",
       "suggested_segment": {
         "start_seconds": 453,
         "end_seconds": 724,
@@ -22920,6 +23547,17 @@
         "editorial_flow_revised": true,
         "primary_decision_changed": false,
         "audio_alignment_verified": false
+      },
+      "source_event_review": {
+        "checked_on": "2026-10-18",
+        "event_ids": [
+          "EV43"
+        ],
+        "source_catalog": "reference-library/EasyEnglish课程目录.json",
+        "evidence": "whole automatic caption exports read for these references; exact site scene coverage and audio cuts not accepted",
+        "primary_decision_changed": false,
+        "editorial_change": "Updated complete task flow from read caption input; source roles and outcomes remain distinct from the original Relay adaptation.",
+        "editorial_flow_revised": true
       }
     },
     {
@@ -25385,6 +26023,186 @@
       "source_catalog": "reference-library/系列课程目录.json",
       "content_evidence": "selected_event_passage_read_not_full_lesson_audit",
       "playback_verified": false
+    },
+    {
+      "id": "EE-zo5QpvcY63g",
+      "url": "https://www.youtube.com/watch?v=zo5QpvcY63g",
+      "title": "Everyday Situations, Everyday English",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-kUZiIwcvy58",
+      "url": "https://www.youtube.com/watch?v=kUZiIwcvy58",
+      "title": "A One-Way Ticket, Please",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-x4HQj28ADhE",
+      "url": "https://www.youtube.com/watch?v=x4HQj28ADhE",
+      "title": "Real English Conversations for Daily Situations",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-PT85QlyEjQI",
+      "url": "https://www.youtube.com/watch?v=PT85QlyEjQI",
+      "title": "Don't Forget to Live Your Life- Gerunds and Infinitives with Verbs",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-qTiUUgCmQ_8",
+      "url": "https://www.youtube.com/watch?v=qTiUUgCmQ_8",
+      "title": "What Brings You Here? - Small Talk in English",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-iDR2kFncuYU",
+      "title": "May I See Your Passport, Please? - English Conversation for Travel and Tourism",
+      "url": "https://www.youtube.com/watch?v=iDR2kFncuYU",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-NFhfE_HfOwY",
+      "title": "Can I Help You? - English Conversation",
+      "url": "https://www.youtube.com/watch?v=NFhfE_HfOwY",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-cCh0EDHKTcc",
+      "title": "Verbs with Prepositions",
+      "url": "https://www.youtube.com/watch?v=cCh0EDHKTcc",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-IVhXP9ZG1N8",
+      "title": "Everyday Life English Conversations",
+      "url": "https://www.youtube.com/watch?v=IVhXP9ZG1N8",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-JNp1v-_aCkI",
+      "title": "English Small Talk",
+      "url": "https://www.youtube.com/watch?v=JNp1v-_aCkI",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-Xdw8AFxyC0k",
+      "title": "How Many Loaves of Bread Do We Need? - Quantifiers and Partitives",
+      "url": "https://www.youtube.com/watch?v=Xdw8AFxyC0k",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-nlgn2P1EfVs",
+      "title": "A Trip to London",
+      "url": "https://www.youtube.com/watch?v=nlgn2P1EfVs",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE--TrE6VdtgLE",
+      "title": "Past Perfect Tense",
+      "url": "https://www.youtube.com/watch?v=-TrE6VdtgLE",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-kj5MBxBO14U",
+      "title": "On the Street - English Conversation",
+      "url": "https://www.youtube.com/watch?v=kj5MBxBO14U",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-MgDchfC29vc",
+      "title": "Easy English Conversation",
+      "url": "https://www.youtube.com/watch?v=MgDchfC29vc",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-2LbFlys_s0s",
+      "title": "Everyday English for Speaking",
+      "url": "https://www.youtube.com/watch?v=2LbFlys_s0s",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-0BwAsjX4poo",
+      "title": "English conversation in real life",
+      "url": "https://www.youtube.com/watch?v=0BwAsjX4poo",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-SoZcvhz0rPQ",
+      "title": "Simple dialogues in English",
+      "url": "https://www.youtube.com/watch?v=SoZcvhz0rPQ",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-er9KJuKmfas",
+      "title": "English Conversation for Everyday Situations",
+      "url": "https://www.youtube.com/watch?v=er9KJuKmfas",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
+    },
+    {
+      "id": "EE-Qz3nYAlLORw",
+      "title": "Simple English Conversations",
+      "url": "https://www.youtube.com/watch?v=Qz3nYAlLORw",
+      "type": "caption_reviewed_topic_reference_not_primary_player",
+      "content_evidence": "whole_auto_caption_export_read_not_audio_verified",
+      "source_catalog": "reference-library/EasyEnglish课程目录.json",
+      "playback_verified": false
     }
   ],
   "coverage_summary": {
@@ -25425,9 +26243,16 @@
     "source_catalog_caption_sweep": {
       "official_video_ids": 251,
       "auto_caption_exports_obtained": 248,
-      "whole_exports_editorially_read": 19,
-      "complete_source_events_extracted": 35,
-      "primary_candidates_added": 0
+      "whole_exports_editorially_read": 248,
+      "complete_source_events_extracted": 66,
+      "primary_candidates_added": 0,
+      "obtained_not_editorially_read": 0,
+      "editorially_unusable_caption_bodies": 4,
+      "scene_reference_scenes": 68,
+      "review_scope_note": "248 whole exported texts editorially read; 0 obtained pending and 3 unavailable. 4 observed non-English/noise bodies, 2 severe repair-only bodies and 2 unfinished tails. Text review does not add a primary selection or verify audio cuts.",
+      "manual_repair_caption_bodies": 2,
+      "observed_incomplete_tail_bodies": 2,
+      "reference_only_source_events": 12
     },
     "series_source_supplement": {
       "catalog_entries": 328,
@@ -25438,7 +26263,7 @@
       "playback_verified_added": 0
     }
   },
-  "research_evidence_boundary": "The selected source pool now contains 93 entries, including E44 as a reference only. All 251 Easy English official public caption entries checked by 2026-10-18: 248 automatic English exports acquired; 3 not acquired after recheck. Nineteen whole exports editorially read (including 3 earlier ones), and 35 source events paraphrased; 229 acquired files still await editorial reading. Automatic captions are distinct from publisher scripts. Existing 58 primary candidates and 307 unfilled main slots are unchanged; no formal adoption, audio-cut alignment or site playback acceptance. Nine British Council complete PDFs previously read, three PayFlow scripts and the BBC worksheet retained as before. No audio/video media downloaded.",
+  "research_evidence_boundary": "The selected source pool now contains 93 entries, including E44 as a reference only. All 251 Easy English official public caption entries checked by 2026-10-18: 248 automatic English exports acquired; 3 not acquired after recheck. All 248 acquired exported texts editorially read; 66 source events paraphrased, including 12 kept as independent reference topics. No acquired exports remain unread; 3 source videos remain without acquired captions. Four observed bodies contain mostly non-English noise, 2 need substantial manual repair and 2 exports visibly end mid-sentence. Full-export reading does not establish full-video caption completeness or accuracy. Automatic captions are distinct from publisher scripts. Existing 58 primary candidates and 307 unfilled main slots are unchanged; no formal adoption, audio-cut alignment or site playback acceptance. Nine British Council complete PDFs previously read, three PayFlow scripts and the BBC worksheet retained as before. No audio/video media downloaded.",
   "source_inventory_reference": "reference-library/EasyEnglish课程目录.json",
   "source_inventory_reference_series": "reference-library/系列课程目录.json"
 }
