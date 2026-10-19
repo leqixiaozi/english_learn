@@ -11049,7 +11049,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "a766635ae01d2765c3113444d1883a811df87694c32ac5eda9a55553f3f33ba7",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11077,8 +11077,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "节目介绍与数段预告，不是新交流场景；说明日常话题、读稿入口和节目安排。官方声明文本并非逐字稿，不能据此标音画逐字对齐或保证基础学习者整片听懂。",
+      "editorial_learning_order": {
+        "reference_series_id": null,
+        "text_task_band": null,
+        "use": "reference",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "93334c640a2491919110ec589c190b37ceb5e9c3b3fae54a448f4d6d4747ff7f",
+        "source_pdf_sha256": "e6fcaf6029d2e98c3df5b143db17afe7b2f881d773221ac239be3253101b284a",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240503",
@@ -11114,7 +11131,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ce894a6e42c4290910b77a44e074c8cb131a55ae872cadcd17f8c831c6d041ad",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11142,8 +11159,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问家庭规模、相处与年龄，比较大小和长幼并追问关系；没有办事结果。家庭信息自愿选说，不套主持人年龄与子女；比较词可回当前对象，不新增家庭主课。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "f33a62970c408f989ce24e71597d6f16544cba4e10a35bcc597e04f262f1fbd3",
+        "source_pdf_sha256": "485309ff49d4561f9179c98bccaa3993908e9023c93ce8f0d3b9281d9c5cbf28",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240510",
@@ -11179,7 +11213,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "078ba532734c91da4f7ac0c4445bc6d4d60f1ef4334be521b4c7ce548d3f2ab2",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11207,8 +11241,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问喜欢和不喜欢的食物，再问频率与平时做饭原因，双方给出个人习惯。适合午餐闲聊，不是点单；often/sometimes的次数只是例子，不设固定数值区间。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 1,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "d7b3c03a36f82cf1d45893299b56c6f3b7549a93fb48d1b796baa10a132b235e",
+        "source_pdf_sha256": "362ddaafe535a4239f8a2df1ff099da23640126df8eb97c887862e7f867d1f27",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240517",
@@ -11244,7 +11295,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "dc3145a4c13e321fd3782cf98cd088aa98a9838f2f5bf42fdd84c4c50bfdc900",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11272,8 +11323,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从朋友数量到异地联系、一起做什么及为何重要，形成相互了解；没有约定具体见面。可取同事闲聊的一项真实经历加追问，不把a few严格限定大于二或强学俚语。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "8c8d45ad7f8efa195de030690dd960f23ab62a8eb819025845f7ac987d6b940f",
+        "source_pdf_sha256": "20c85b97846e3f391f584ee85bb55eeb535e5f554b5a16e1a9e9931c14f90463",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240524",
@@ -11309,7 +11377,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "0d8f2427ced0f59ce16d5c4c155b71cad879ccef8e8a088d6a0e82bb442196d1",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11337,8 +11405,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问理想旅行地、已去过的地方和可做什么，区分建议与可选活动并谈近家休假；没有订票或行程确认。可借出差空档征询建议，不沿用城市评价或节庆安排为现行信息。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "07da9b2b9e8ee1c9ad6af281811dd5804c92f44daa0504c79e23a9370af8b429",
+        "source_pdf_sha256": "3ec22d139d7fe00e3341eb9263de35a48bcd56e8868adfcdaac009ef8fa8c141",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240531",
@@ -11593,7 +11678,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "aa8081c07053b97f7021748c1754e54b53c85812e575f5373a2b9eb19fe591b3",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11621,8 +11706,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问运动、时间、上次经历和下次计划，再谈想开始的爱好。适合工作间隙闲聊；last/next可区分已发生与计划，不把跑步不算运动或个人放松体验当通则。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "9e18d4854bd3d08d729dd89507afc8882e1c5e99fc97bf913a06039d8c945aca",
+        "source_pdf_sha256": "766e33d33b5bd21b02a01a09b71ab4fcae513ff4f2fc5ae5e80f1e0f9be3a9a5",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240621",
@@ -11658,7 +11760,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "fb7cf9b54a92801389665d262e7d66959554dbb7239a7918ab3c872ad8490f11",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11686,8 +11788,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "谈使用社交媒体的原因、便利与耗时，再问是否准备减少；回应仍可能照旧，限时只是设想。可练用途→收益→代价→不确定下一步，不当技术实现课或成瘾诊断。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF06",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "7d2cb814ff50cce964f60fc24f97175c9e7ab4e28b245236e1d8fef9392eb9ad",
+        "source_pdf_sha256": "2a6c36f67ec8092a683b6c9deecede495cad03f440f92b6302ad6381a5abfd53",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240705",
@@ -11723,7 +11842,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e5370444a534ced1c8ec8be8b30e872608d071093181e0f1ed8101d377c2411a",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11751,8 +11870,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较新闻通知频率、信息过多与知道不够、入职前后的习惯变化。可借too/enough说信息负荷及本人理由；没有完成关闭通知或证实健康影响，不挪用记者履历。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF06",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "8455971f69674270c4b3cf3cffd209e26e5c37c95ca4082dcf8f591d2f67c695",
+        "source_pdf_sha256": "7057c9d9aa3b75570bb49d8b659709feca49dc5d20ae4538438fa21b7d00b94b",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240719",
@@ -11788,7 +11924,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "5280b9c273572618789574d8ea4886b25c3862cfee7edd89b7cc2e61bcb63eb9",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11816,8 +11952,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "先问睡眠时长与疲劳，再讲两段梦境，用背景动作接发生事件；可借过去叙述结构，梦境不纳职场事故或健康诊断，个人所需时长不是标准。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "ff269dab624045f550d65d98f99d7154711b990a717edd2ef646aec777bf3c8e",
+        "source_pdf_sha256": "3ed29876763bfeab81cf820c4d2755b2e8cf9cccdcb275956bc280e7b1af0d3d",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240726",
@@ -11853,7 +12006,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "19e92225b47e9235aa45fefafad024ad81528dd18b7239b4924d56d5ab152399",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11881,8 +12034,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问电影类型、简介与喜欢原因，接观看方式和难以选择；可用一段本人作品介绍接追问。剧情概述用现在式是一种语境用法，不把过去经历都改现在式，也不当流媒体教程。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "1f2bc8cb26893725fd8c3d1bad1f5062599d50605a04a4928cef19d1369321e2",
+        "source_pdf_sha256": "0bd003abde6daeba5bb3210f9b1adbfc123d596203409672c037c446dbb52a74",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240802",
@@ -11918,7 +12088,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "1aa53213a7ca1041cad5743a4d450fcffd5c73ea02b70b41135ca4b69ba3627c",
             "text_hash_basis": "local_file_bytes"
           }
@@ -11946,8 +12116,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从有没有宠物到过去养过什么、是否愿意养及理由，双方接受不同偏好；可练ever/never的问答。动物与家庭支线选看，不强塞主线或把宠物安抚和危险印象当知识结论。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "896920d18954139c15bffee46660a39277c5db5722c61a3016386d7ee489e3f5",
+        "source_pdf_sha256": "9f4575087070e8461c99c38f777864f3769f8fa7d1ce9f40fa8d710f14489e6d",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240809",
@@ -11983,7 +12170,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ecfbd2f9bfa1e862d1d51ed448c1fa22d7c292250581e917b4b1fa1ca2d54725",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12011,8 +12198,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问学历考试、喜欢科目和原因，回忆做帽子与展示评分；只借真实学习经历的短答。英国考试、主持人学位及nerd标签不套本人，quite的程度随语境不等于固定一点点。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF04",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "5f0c2915eb93f124f02237bceacb47d8a7933de9ae24df87d990f86e09a83fb3",
+        "source_pdf_sha256": "fd39a96a28f217149c22c291ca8ba864c85c54185aef2131ff4f0a8f3d45c5b7",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240816",
@@ -12048,7 +12252,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "402b366ff37d9a002efa716fb4e40eaa368822c49c98e192322158436d710567",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12076,8 +12280,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问周末明确安排、可能活动与期待，区分已计划和未确定；没有共同敲定邀约。可回日程说确定程度，going to并非绝对保证，gonna只作听辨不强制书面模仿。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "b93a7a0330cd4742ed480dda7759e8abbb1cdf750022d4b750a5fc53e570fa3e",
+        "source_pdf_sha256": "5e40f8565547a3999c283b1cf4c723378501ce005295ca3eb206f4c95dcb57d9",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240823",
@@ -12113,7 +12334,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "eb72f6bae2cb252fd07f4ca0bdc6dd0613d25abfdb0bac3931a603a05f457f2f",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12141,8 +12362,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "谈环境担忧、交通与消费选择及拟装太阳能，再互问回收做法；计划未展示安装效果。可借一项行动加理由与限制，不把节能金额、健康或环保概括当已核科学和技术方案。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF06",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "e0d7752bc173a8371220c14f45f379eecc2fedddc2572b7a11f1ca36fee3d731",
+        "source_pdf_sha256": "ac156046603f76c0c3d532e616743233eab57c28f5c8c5dd4ae980f1d3f09d11",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240830",
@@ -12251,7 +12489,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "c64b4b729dabafa72365216f1d7dd22acf7854e77d7e679cad7d2c9be1618124",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12279,8 +12517,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "说当前天气和偏好，回顾露营昼夜变化，再用晴雨条件说明周末备选；未来安排未执行。适合出差闲聊或活动条件说明，不是预报；boiling/freezing为夸张语境不当实测温度。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "205e97bbf5f72985d199fdcd8a4e970289566dec98a070be8ec831ec4d8b3f09",
+        "source_pdf_sha256": "2359a8fa497b98ed6e9fdf84ede90846f819fdbfa71b215642debdacb2eeedf1",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240913",
@@ -12316,7 +12571,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "049ab70e6f43e4129d17cc8664f274f620f24d8dd8e333fa68dee295537ea278",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12344,8 +12599,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从喜好到互相讲一道菜的材料、步骤和味道，得到对方理解与评价；可借顺序说明再让听者复述。不是完整食安食谱，烹调时长与口味不作标准，也不直接改名技术操作。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "60ce4499b5ac3ddaeb7a620477a6d16eb235b79bbbd0843eb70802f2fbd9d7e2",
+        "source_pdf_sha256": "5085a4997d13ee0554f5012da2bbcda4d1f7e561b7b9c8008cd84524c333849a",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-240920",
@@ -12381,7 +12653,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ee218728421e2fc27ab73480f99c59a4a5aa2a311bfbcee3ae3bc2631a650b6f",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12409,8 +12681,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "询问亲友现职和过去职业，再追问陌生职业的实际工作与所需特点，接理想工作。可迁移本人岗位说明与职责澄清；不背职业表、不套亲属背景，退休不等于太老不能工作。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF04",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "828685bfe75951910fe7bf089defe420feb4c245c3bd748802f6be604e05237c",
+        "source_pdf_sha256": "39ef316a56fd612922332aca325d07862a238c014ed004425f59340ef760a788",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241011",
@@ -12446,7 +12735,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ad6a14460af9c89f4381bad30623d34ae15ec2c8c591fe3d0501cbbf962340aa",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12474,8 +12763,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "用最近买的夹克与眼镜说明原因、价格、折扣及线上线下选择，双方追问并比较；没有现场交易。适合真实购买回顾，不当退换货流程，价格与优惠为过去个人例子。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "85fb498c24a2c132d1a5b29c3e2dc16be1f9f3939e1d8312d7331de171284b38",
+        "source_pdf_sha256": "552876bd74b0584ae6f8b41d289c77e9124ab96769b375aa116352e6e94c5aa9",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241018",
@@ -12584,7 +12890,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "c4dc00186c472f7b4a4e00dee7beefab58cec9f8c66a2ce8cdea56e3fe7beb15",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12612,8 +12918,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较舒适与正式穿着、场合和二手购买，接想找的帽子；尚未购买。按需供出差穿着偏好讨论，年龄玩笑与英国时尚趋势不作本人着装规范。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "316a556558c41c35bc1f7d44b3e250ca4576d87b1e9d7e28d05857d6c6b3171b",
+        "source_pdf_sha256": "b354b619c1978dceb7e08ecb9b432d0332d3690bf485e4eb98defa79aa4d3bd4",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241101",
@@ -12649,7 +12972,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ecb3405837ac2b1046c0ff78def805262af10131b5de8fb45c1c8a1cfa21a39a",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12677,8 +13000,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问音乐偏好、获得推荐的渠道、流媒体方便处及现场演出习惯。可借一个工具为何方便的短理由，不当推荐算法说明或购票场景，旧喜好不推断当前巡演。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3de985a2e00c7cb2da465c07c555d929c13508245444c357d40c4cb72c5f8f61",
+        "source_pdf_sha256": "bd9a26955e10fcf405439bac939906a16589df414ac7d029f2e75a6910b50440",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241108",
@@ -12714,7 +13054,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "a17df5042d124f8dd77197b356ba2b4477651a7f70b7375069f134353b2fb1a4",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12742,8 +13082,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "问来自哪里与主要在哪里长大，比较村镇和城市生活，再问是否怀念或愿回去；没有搬迁决定。可帮本人自介区分出生、成长和现居，不套加拿大经历。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "7bba8dc564f92c4fe3a08de89b43a91f1084cd05e91cb7dec1868ab82dd9ef4c",
+        "source_pdf_sha256": "c098339d345ab3eaed1f88ba8c01b7209c888aa023ca0cc11a4fd6480068b5a1",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241115",
@@ -12852,7 +13209,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ce9ee93773ec646a537c3d07fdd162905f1fb3b1f070acf37f1718a180e0cb58",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12880,8 +13237,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问爱好、练习频率、当前准备和未来想学什么，接难以坚持的原因；下周伴奏是玩笑性提议未落实。用本人真实爱好短答即可，发酵健康说法不当结论。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "d481d50af98ced9ba505c38d8f112f515943c67c2ecd7d0afdaec40f1b76e790",
+        "source_pdf_sha256": "93d06c922b3c7c6d294771e6f114bbd94f5c93e3e67e98ce14deffe79de0b141",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241129",
@@ -12917,7 +13291,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "3f31752b6a191fc4ede82f15f6ea0af755ec80f17b4c1386b4002cd0e5d3b653",
             "text_hash_basis": "local_file_bytes"
           }
@@ -12945,8 +13319,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较想做与实际习惯、难处及何时改变，最后承认不易坚持；没展示改变成效。可借计划和持续状态区别，不沿用开心就健康、饮食或睡眠建议作医疗指导。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "4c1c0dca9ab0bfed8bf3af86dc0eb3716ad8b2fb24aa0ac3e44a804bc459b565",
+        "source_pdf_sha256": "90f73a90f50e17879378314f378ef60e239006ca99a8e5562db5db55aeb4d9dd",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241206",
@@ -13055,7 +13446,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "b378e86a8e787f6e885b17a840ad4439de838c96f43c0ff4f381000c66a44442",
             "text_hash_basis": "local_file_bytes"
           },
@@ -13104,8 +13495,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "谈观看习惯、喜欢节目类型和原因，并追问最近看过什么；可用于午间闲聊或作品短评。字幕观看不等于会说该语言，原片自己否认学会瑞典语，不作被动输入效果证明。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "9c2c393ae6c2b1a368cc8780f0f94a048d23dbfdfa3201da82abd048fd48997e",
+        "source_pdf_sha256": "0edccf896a6ef8ceef760e39ebd1ee482c77a6cdfbb009b8dcb3379d2aef7cba",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-241220",
@@ -13141,7 +13549,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e7364958145c11d3879eecc7e9a1d4ec5d5e3b6c62f9b404dbfc9b38387a1e42",
             "text_hash_basis": "local_file_bytes"
           }
@@ -13169,8 +13577,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较各自节日送礼、用餐和新年习惯，承认许愿难坚持；没有共同活动确认。可选一项本人文化习惯加追问，不把英国或主持人家庭习俗设必修事实。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "897d928372b9511a28800d807cd97ef4514ffb7be01f3436bf794508f2e80fb7",
+        "source_pdf_sha256": "3f08b5749620141f9ecc4f9958ae99d0738eb9215f911f6a7584576fbaa951a6",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250110",
@@ -13302,7 +13727,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e92f537678233c36e2804c5345e595f12db397970b6bfbc864ec3e330110a337",
             "text_hash_basis": "local_file_bytes"
           },
@@ -13353,8 +13778,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "描述住宅类型、房间、喜欢之处和空间噪音不足，再比较理想与现实及过去住房；没有租买协商。可借描述位置和需求，不强加英国房型词表或移居支线。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "f57f5ace5bdf338e6c750f9be90e0f25ab0e374efbe98b490991acf92f98a56d",
+        "source_pdf_sha256": "6e5fb35199311228ff5b4d4aa71a656b6d12fc39e2941cfce1583f4ce26d25e6",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250124",
@@ -13486,7 +13928,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e8c732e17f385ef16006026700c149729b5d983ed77edf792409ec574225d9be",
             "text_hash_basis": "local_file_bytes"
           },
@@ -13558,8 +14000,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从未来愿望到中奖假设和当下缺少的时间空间，双方给理由但没有实施计划。wish与假设条件按当前需要查，基础版先用I’d like，不为彩票或太空旅游扩主线。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF08",
+        "text_task_band": 4,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3702f6920a498b8066bf3c38db0111164351a2e14b74d21580cccbe0751a7af6",
+        "source_pdf_sha256": "2dae42ce3fe0176457fb0b1173b2911f4114e09e145e57cf5d9de90a0a7f831e",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250207",
@@ -13595,7 +14054,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "f08416e92932ac9e584fc70357db472ca86c679652d49d55262c2d14909cbacf",
             "text_hash_basis": "local_file_bytes"
           },
@@ -13667,8 +14126,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "午休散步引出城乡偏好、自然环境和亲历活动，再说明喜欢及限制；未组织出游。可作工作间隙闲聊，不将寒水游泳体验或地理简化作为安全指引。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "eb638da7d69d1538284057b559c28fa84aed2863bc4a4fc029f9b11549e7f961",
+        "source_pdf_sha256": "f59cbea373d7c7bf20ada85b708945e789dafb4ab64f3f3ade5d1ebf10bc3624",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250214",
@@ -13725,7 +14201,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "4b76437a5a04d3c9a2b258dfaf8026291dc6f76b7c54fb4ef6c52a152e5567ac",
             "text_hash_basis": "local_file_bytes"
           },
@@ -13776,8 +14252,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问伴侣状态、认识经过、约会活动和求婚回忆，主要为恋爱文化与个人经历。保留自愿选看，不当同事初识必问、本人婚姻背景或成人职场主课。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "24cea8287c412bee1484fa1c33fa069a8b8241aecfab38a9ebee397c288906c8",
+        "source_pdf_sha256": "3011fd0a5cf95d1dd8bd840e9a16190ba4b9707394435598d779d7f9b3efe46f",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250221",
@@ -13813,7 +14306,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e659ac61c44cf89348723882d922197f53faf5b6ddcafe9a00d9ee77760665c9",
             "text_hash_basis": "local_file_bytes"
           },
@@ -13885,8 +14378,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从储蓄用途到旅行预算、无法负担的消费和朋友聚会花费担忧，仍未达成费用安排。可练说明预算限制并待回应；大方与吝啬的评价不作消费要求或财务建议。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "d645c8b90e25d66bd601589e968c8a5c91778a64f35ccaa8c6e80c97fcb8a90b",
+        "source_pdf_sha256": "6de5a0ea2ae1838a47de33744aa9ce7b5b98ad997f39af54a97edca770ab0952",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250228",
@@ -13922,7 +14432,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "1b84ea299f03b2456e16eede7259f5a82556a7827d61120e869dc9a4e5a7ed7f",
             "text_hash_basis": "local_file_bytes"
           },
@@ -13961,8 +14471,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较居家与到岗前的起床、早餐和准备习惯，再说睡过头或误机经历；没有发生本次迟到。可借真实工作日、必要条件与例外，不背晨起短语清单；整课MP3原有缺链仍保留。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "21589c97983816b750d7a419ba895a905c9aeb831475ba2a3fc7182863837369",
+        "source_pdf_sha256": "10ee41b4b252b0d4eaea99285934101f5e9c92ec1f764548c5f51dab48ca29ac",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250307",
@@ -13998,7 +14525,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "6444c04e99a44acfeb720f5094ded2ff0aa708aff493b1371d77e625b1044b5d",
             "text_hash_basis": "local_file_bytes"
           },
@@ -14049,8 +14576,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "谈下班后安排、放松方法和就寝与入睡的差别，比较平日周末。可练真实晚间空档与偏好，不把个人脑部解释或晚睡倾向当科学结论。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "10bf328da0a9be8f759f7bcd8c42f534dc8e03df0d4acee55e5bb4947f22f02c",
+        "source_pdf_sha256": "86d456676c81d70183ef54b0dfa6845a46c0d93d6686b2da85fc94aed5d9f4f4",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250314",
@@ -14086,7 +14630,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "88599adca8b0eb7a6fac9c76cb1844ead1076d652227ce08a1aea7924243faf5",
             "text_hash_basis": "local_file_bytes"
           },
@@ -14137,8 +14681,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问味道与口感偏好、没试过的食物及偏好变化，并用经历解释；没有点餐或食安判断。可帮助餐前说明口味，不把spicy等同温度高、savoury简单等同加盐。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "2ce457b2530085aa5950ce706310f91ddd5e75bed57be23c5799cc1aba74cbb4",
+        "source_pdf_sha256": "07b4850ee13d1a52496d454e4620861bba6ec6edcfac3562276fa14487a4658a",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250328",
@@ -14174,7 +14735,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "4a33f009ce8bf49d57e3d48422440a78e21e56e36822112c39a70a41ca5ab006",
             "text_hash_basis": "local_file_bytes"
           },
@@ -14225,8 +14786,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "回忆老师怎样吸引自己、追问还记得什么，再比较好老师的特点；适合个人学习观点选看。没有教学效果测量，尊敬或有趣不等于长期记住，不强加校园叙事。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3b8a21d8ccf306bc3a087f82badfa4bb3f7d6718504f59f2663adcb9832b8d9a",
+        "source_pdf_sha256": "f7cc8d18cb6dd65c77a69d2cd59521ae48279b4cde4b12f11ba64353b748b4ce",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250404",
@@ -14362,7 +14940,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "f95f767b6f6f12de1fc154f49b9c0a98c79081ada8f50c158edfe975595ca279",
             "text_hash_basis": "local_file_bytes"
           },
@@ -14413,8 +14991,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较桌游、运动游戏与问答偏好，解释团队活动、作弊和输赢经历；没有实际讲全一局规则。可作团建选择参考，不强迫玩游戏、发言或用标签评价同事。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "06f5e220de407797682a1e7a994fe5e6cf7074eb67782da15f81356721823751",
+        "source_pdf_sha256": "99ce288795c92f476cbebd94d253c4f1ab56693105068c1448021dcb04c87821",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250418",
@@ -14471,7 +15066,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "6f3ab662b2d95f4f9a1d7f923ee32b51490b6e30321907010c3c89a1bf6d248f",
             "text_hash_basis": "local_file_bytes"
           },
@@ -14522,8 +15117,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "先澄清是在本国还是国外，再比较城乡选择、活动与交通语言限制，回应各自取舍；没有实际订车。适合出差空档说明偏好和条件，不按概括认定乡村必须租车。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "9d480f0b49ac75ac36b4ed4dbdc6ccd67e31033f9e3643360b63c5bf8e7f32eb",
+        "source_pdf_sha256": "1192d81cca471c771fd07d7808228ad1a0a1df8248117c98fa00adbf4542d5b6",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250425",
@@ -14559,7 +15171,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "6c80b0498cfc568caf1fd7c041ce2a790a712589e0e0e8a41928ef379b444ec6",
             "text_hash_basis": "local_file_bytes"
           },
@@ -14610,8 +15222,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "讨论怎样选礼物、收到不合身衣服后的退换经历与礼卡限制，比较感谢与实用性；没有现场退换。可借解释不适合的具体原因，不当商店政策或职场送礼义务。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "409c7c44cafa65b2b153863430e580c97e0a03b829607378467c8fca9dd42111",
+        "source_pdf_sha256": "a7fffd8d671b29db8934d8df3a940113ce6c506546a2101733c05e2c25c2d6b8",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250502",
@@ -14868,7 +15497,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "b3dec005711ada400f3552485e7780767acdf6d7858c1f4c0044e77a64f6858a",
             "text_hash_basis": "local_file_bytes"
           },
@@ -14919,8 +15548,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较英国季节、光照和个人喜好，承认喜欢变化且并非都喜欢冬季；可为天气闲聊提供一个理由。月份是当地大致季节，不强加深圳或全球气候。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "20b7a7ac9b572216f99a9fd06e55ba687bfc3ed945d7ef264e2faf7ec24beb16",
+        "source_pdf_sha256": "6c208c870b551b7683f4189124b45af0da838badbcdbcdb2b5e0c5d8f25cd069",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250523",
@@ -14956,7 +15602,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "b6c34f098d298021096637cd4fd5ea6b6fa50c491cd9edcd8420a40f94093d8f",
             "text_hash_basis": "local_file_bytes"
           },
@@ -15007,8 +15653,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "回忆成长地、反复做的活动及录歌经历，比较网络手机前后的沟通变化。可借过去习惯与一次事件分开，used to/would不无条件互换，不把童年回忆改写用户技术履历。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "049fc5490b1e128c9798d6e7946ae56905e952aed7bfbbf3581aeff0be207d57",
+        "source_pdf_sha256": "6d6866bec4b70989197ed6482aff1ccdfccc5a00d280d7740832b398805ec36b",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250530",
@@ -15065,7 +15728,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "6a1b594b56c72ef37cd16df024246bbdc8b45400c1883482cbbead34ce9effb7",
             "text_hash_basis": "local_file_bytes"
           }
@@ -15095,8 +15758,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "回顾一天出游的好坏、活动偏好与还想去的地点，追问交通时间并提出带看；没有敲定日期。可练一项推荐加限制，不当巴黎日游现行时刻表或已接受邀约。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "8f1dbb219f1f4a7804080ab2b39d77f0fb495130ef9359cc0d7c9c1dee34c7e7",
+        "source_pdf_sha256": "efcee8df5f1902767320d0d545c7b004e8b530c672724680ab1547b0c95303f0",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250606",
@@ -15228,7 +15908,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "a73a86277c0f319741a3e5b8dabff7078483f75b28f48773824198e89056f49a",
             "text_hash_basis": "local_file_bytes"
           },
@@ -15279,8 +15959,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较手足性格、联系频率和一次旅行怎样让关系更近，接想有其他兄弟姐妹的愿望。家庭自愿选看，不按排行推断同事责任心或把亲密等同必须常联络。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "0ce275f7d55da67c0ab8806bd247e2ef7e06226d64c7eff34f09ec88438227a5",
+        "source_pdf_sha256": "99797c87a3ce7191bcd0e08c2e57502c7b9f23ac09dc6480033c2ff8b877f1db",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250620",
@@ -15316,7 +16013,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "9ab55b072f0fad78e920c18cea64e717455d1c98013b67f0f357587fecc429b5",
             "text_hash_basis": "local_file_bytes"
           },
@@ -15367,8 +16064,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "获准后讲具体担心，追问当前情况、平时应对与怎样支持朋友；儿子只是看起来还好，没做诊断。可借说明担忧与请求支持的语气，不将分心或理性化作为治疗建议。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "c465d5f3e76e8b245de7a622fe760f9907fb962875d7690bf244fe3550778c67",
+        "source_pdf_sha256": "94e6b19f2e0c31cfd67186dd9a75ffbe092cb4e6e4f515fc21ac580945867705",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250627",
@@ -15404,7 +16118,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ccf88247543105eeb525eee18615d2ff711917b179169c5dbd3a65c8e21fbe33",
             "text_hash_basis": "local_file_bytes"
           },
@@ -15455,8 +16169,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从记不住的实例到需要时间形成观点，再说何时适合处理重要任务和影响因素。适合说明自己需要思考或选择协作时段；短长时记忆的简化、脑子慢和个人学习益处不作科学测评。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "7d8fba5bb1cb456c8225c88c8b7670e7708c8ac5cbd8983b732595ad49f46e06",
+        "source_pdf_sha256": "7624d07d53abb6faeb673a1429b0dd84eac4b0455a57ea5880eb11bf77637e1c",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250704",
@@ -15492,7 +16223,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "d12d740aa124b3ffed021b8ead6be303ad0164fdd96222f18725b7ed269a3feb",
             "text_hash_basis": "local_file_bytes"
           },
@@ -15564,8 +16295,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较过去与现在处理垃圾的做法，提出减少塑料或洗澡的想法并承认方便性限制；未验证减量。可练行动、依赖与权衡，不当所在地分类制度或节水效果结论。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF06",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "b2f0122509db89a47462db18124b266bfb22022d3a857bd3c6b1b3faef866b96",
+        "source_pdf_sha256": "c62b2d7f154a596469927229308e2ed1248cc2905dbddb8c7cda1d579c1b4b92",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250711",
@@ -15697,7 +16445,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "18fba03c647589297228fabb509e7edd4ebf34f6d9dd88a4379e5216adf7d414",
             "text_hash_basis": "local_file_bytes"
           },
@@ -15748,8 +16496,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "交换暑期出游和家务目标，追问要做什么及季节性活动；露台清理采购仍计划中。可借目标→待做事项→动机，不强塞婚礼传统或DIY操作，不称工程已完成。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "02e836506f73d845ef969d236a82e229dabe8db828faa9df1010c4bd6a6bda6a",
+        "source_pdf_sha256": "6c2f3ef6a785f55138e2109b8f7a456fac298c88cc00f318976c6df1e1d214e6",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250725",
@@ -15785,7 +16550,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "7b2e0704fadf0c5df1eed7c55bd0303f98fae96723048bb0897678f5c9dd1588",
             "text_hash_basis": "local_file_bytes"
           },
@@ -15836,8 +16601,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从童年职业梦想追问实际入行原因，再谈现在重视的团队与贡献，最后是假设理想工作。适合面试动机与工作选择，不套英语教师旅居履历，假设不当实际转职计划。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF04",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "9aaa24dbc5438332e34445ded6d5c1702db099b5c90b63358cfb5af8f45b7b5b",
+        "source_pdf_sha256": "f86c4348265ee880d734461d288debb579572a67ae359b4e58b353609d0353a1",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250801",
@@ -15969,7 +16751,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "2056b77bd0461ca80394a3ed9c7728f901eb22a68eb28abfedab70062db531ca",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16020,8 +16802,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "用想系列、写脚本、剪视频与做拼布的例子解释创造性，再谈想尝试什么和仍没主意。可服务本人视频创作过程说明；没有已完成作品或陶艺报名，不把创造力限于手工艺术。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF06",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "1f1d3d6ed3fc71cd18490e46b8212244c7d757c8c242371345050fb2b97ff5bd",
+        "source_pdf_sha256": "f98b9a220c9c1d5affca3a1ccc085be67f25ed02f346ecd8d66c551123ce86a4",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250815",
@@ -16057,7 +16856,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "aa6ce515fef45b8cc4004763746e719f1c6dc39108d0723745d182c966300af7",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16108,8 +16907,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "讲惊喜旅行、求婚保密成功和误透露怀孕的反例，追问何种秘密可接受。只留故事和信息边界参考，不据私交坦率评价诚信，也不当职场保密、隐私或泄露处理流程。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "ca08c796f1e2176fd416804b8b3d2e4f8c63e083d6795388dc8bc4f460a38af2",
+        "source_pdf_sha256": "53a9c69f175cd12bb9279a76408217c1dc445a51339f58537b0bc74e5fdc2da5",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250822",
@@ -16145,7 +16961,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "058e7bd3ffd0c937de77abc338587d52c90adace7eab7fdc47d35f939cc959e6",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16204,8 +17020,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "说明当前厨房杂乱、清理习惯和家务偏好，再列待办与不确定执行日；没有本次完成。可迁移共享空间请求前的具体描述，不把杂乱等同不卫生或人格判断。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "9825b14a6def63304ba0781309a212b5cb4ec355a277c8568c410daf70a62b43",
+        "source_pdf_sha256": "2043fd1b1b8c8918e6290d04c2bd7ede320bc7663efa249705c317bce8abdacf",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250829",
@@ -16340,7 +17173,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "13af7412939202effead05b093faea3b559683159ab3e9502db2a8dfc3e517d3",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16399,8 +17232,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较过去合住的好坏，解释噪音清洁与相处偏好及房东角色；没有投诉协商或租约操作。作为生活选看，不给本人新增合租剧情，不照搬英国租住安排或把沉默当同意。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "256690510056804bb6deb86c480d7642c0e4a1fab347d4aba506038622f42f1a",
+        "source_pdf_sha256": "957d7ab68fc511668521c7086161ee444eca004b84f98df63a686bd97ffb9189",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250912",
@@ -16436,7 +17286,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "f9f76f87041de96a5cf2a92c42858679fa29b362ff93fa312d35465d2dfa6fd0",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16487,8 +17337,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "问什么带来开心、情绪低落时做什么，并讨论不必时时开心；主要为感受交流。可借状态和原因短表达，不当心理治疗、积极人格评分或必须开心的要求。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "1956b5587304b59343d7c367a1eb973278eb4ba92795214172ffb068c40e55fa",
+        "source_pdf_sha256": "d4a96be0ab0ec70bad490fa33b41be87cd4eedd7e4b6f28f3c8d229fd1a6bc7f",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250919",
@@ -16524,7 +17391,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "36d56b4459a1d75294f70808adae0def4c3217c6614253fe5a2d66b3769486dc",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16575,8 +17442,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "说明储蓄目标和预算，比较价格与优惠，最后发现促销可能增加总花费；没有实际报价比较或完成购买。可迁移采购取舍的表达结构，不把最低价等同最好或金融建议。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "f286bc779cc1a6d5945779e3ffcd427e076d7d51e8275289738e40fe20d35e0b",
+        "source_pdf_sha256": "04f690292765102e9100a21ef8efb0d8da34ecaa88bd224e1b2e3b5ee18eb7f8",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-250926",
@@ -16612,7 +17496,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "eb3caae626783efc8b43121ee06d1987837f3bcdd1d9e41b757e0394b881eed9",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16671,8 +17555,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问害怕什么、遇到时反应及过去到现在的变化，讲学游泳经历；没有治疗。恐惧症定义属简化，不用哭喊等表现诊断或强制学员披露个人恐惧。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "6550781bd13f8a1e2c40053ac70501e189613cbae1cd8b0679571f91b124570e",
+        "source_pdf_sha256": "d0a22fae7be86707e6153967e17bfe83852974b91dfc5a5a9b8453c616278b5e",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251003",
@@ -16708,7 +17609,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e867423eeaa157de2a4cec8c46b32a919dc44c404133f8fc474e474f7ec592d2",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16759,8 +17660,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从工作带什么零食到在家吃法、偏好变化和个人看法；只作茶歇交流。胃必须休息、零食好坏与健康判断未核，不变成饮食教材；不为食物轮换新增课。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "b5e97a1ae33df519a2acaf34c3e6bc5cef1d816845e51c48dc984398e5757b0d",
+        "source_pdf_sha256": "be9eed22baa6792b010f31a93d5fad793a26c973ebb6e61c331bcbd4ff03903b",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251010",
@@ -16796,7 +17714,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "2068bbaad095a18366eab5ac8845897bf6630bb6d111d61e338d90389b946bbe",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16847,8 +17765,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "迟到引出通勤选择、交通与停车困难，再回顾学车和考过后的继续学习；未实际通知延误或改行程。可说通勤原因和限制，不作驾驶操作、交通法规或培训建议。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3e56f7cda5b63b245fa6a86c96106f85474b4aa8bb005ed518f22ae2a72c54dd",
+        "source_pdf_sha256": "f22a511b4d8bc7b7d219bcd6902f8c923b072d843f26affbe53ca706a028c8cb",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251017",
@@ -16884,7 +17819,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "8fd7a3d335fde3d574ef975389394696c5515293489d3949390c9f07bc3b3a37",
             "text_hash_basis": "local_file_bytes"
           },
@@ -16935,8 +17870,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较下班后做什么能放松、休息为何困难及个人方法，双方接受不同需求。可练提出休息或解释偏好；relax不必都减少活动，原文也含跑步，不能机械生成唯一答案。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "32e6207bb03f348cd18cbb66f016d78c5e8a0f76026b314012d8a9bf8b52d57d",
+        "source_pdf_sha256": "1f946de08146acdadb30c1cd7866ccd840f8c5487cb9c4a6344e81a3b7b661ab",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251024",
@@ -16972,7 +17924,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "9dd2206a409f1ca503fff45d377f7b56aeefd50939f3e51265d01d038c3f17d1",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17023,8 +17975,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从饿时购物、自助餐与零食聊数量是否超过需要，接童年消费例子。可按需看too much/many/enough，不用贪婪或饮食标签评价本人，不另扩说教主课。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "9d26eba04ff18eb2cb8722a435d0b51cded3c3bf220aae87b0d286f17738a693",
+        "source_pdf_sha256": "e220993c88ccff28a014db78255608fd799a276a2c07e1f11b0970b8fe59c05a",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251031",
@@ -17060,7 +18029,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "c8d462759927cf97471d560b2f20db6509d345c3296b1b6fec4d07e95a2167d8",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17119,8 +18088,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "讲万圣节服装、过去与现在庆祝方式，再比较惊悚故事和电影偏好。文化与兴趣选看，不要求本人庆祝、扮装或与同事分享恐惧，节目日期不等同当前活动安排。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "538e010484563ff6e22d59a1e60509ada6562127066d2eaf1aa1489290d25201",
+        "source_pdf_sha256": "e4ddb5f5af1a8069cb5fb9f188d40fb8d8490a380071c2cd6612459749f6997e",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251107",
@@ -17156,7 +18142,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "6cea5abc747d46e99efc1a8ddb7c127063be6baffacabdfdc302c3f1378e8236",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17207,8 +18193,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较上班前与周末早餐、路上买餐的成本，以及甜咸偏好和饱腹感；没有实际点单。可借工作日说明和成本变化，不把在办公室吃早餐说成普遍不对或食谱标准。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "283ac59f1a124185476014249509c82428975eb70e562a24878af8cd722220a2",
+        "source_pdf_sha256": "10d24d49edeca69b9226e3f8b623c7b075870019c70fbef2ea4ec850b2a85414",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251114",
@@ -17244,7 +18247,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "01a865cfee95f4ee715f88b4f90ecdb49a01ffbcca8716f27142c8d5f0da789c",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17295,8 +18298,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "说当前疲劳、是否午睡及为什么，再比较早晚工作与精力变化；未约定调整排班。可借说明状态和协作时段，不把午睡好坏、咖啡或运动功效当医学结论，也不推定疲劳等于懒。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "ebac8fa1ef88cb539f9010c39d2679d4500a45b31af2d987e115d8c5a3cf4a77",
+        "source_pdf_sha256": "f1c1adf06cb71a31937627b543b1fd6e52b55a6af2c3af6c937f462e9f07370d",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251121",
@@ -17332,7 +18352,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "8eb6bb12cccab4f83d33c43af28b037bf6a9a77b87c7b3583772d7e7d03a7d81",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17383,8 +18403,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "讲午休刷手机和重复讲故事的习惯，追问改法；愿景板未奏效，少说话仍未来玩笑。可练原来做法→无效尝试→下一次想试，不把停止聊天当协作方案或宣传习惯工具有效。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF06",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "61b87f50025d87b9b1476b0507be1ffc4086517fdbf427f258d2249377f7dbcb",
+        "source_pdf_sha256": "fe736fea41c1cf55ef722c2d93566c0c109f9f45401f4f361d03e487c91be21c",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251128",
@@ -17420,7 +18457,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "24d612b53ee7d50eecc4c9f0c2bba092fd7b12ee7f48ef0d069376257522a34d",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17492,8 +18529,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较现场与电视看比赛的清晰度和氛围，用一次没看清进球后查网页及胜负回忆支撑偏好。适合观点一例加条件，不变成体育必修、购票任务或当前比赛资讯。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "5eb0766882cba0c8aa1c5a3dafd1c9a9563e45a461e1d0433b875f4a6f7aeea7",
+        "source_pdf_sha256": "de492320bafa152a8214af11f370e3d05002cb02d5883dde52ee05c338e26ed6",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251205",
@@ -17529,7 +18583,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "609f01b9934911cc0dc0969ae8defe0e5fb0e51747b3e072c80855d5e35dc5d4",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17580,8 +18634,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "谈冬季不喜欢与喜欢之处，说明天气条件下的活动与期待；没有活动安排落地。可练looking forward to加名词或动名词，不要求喜欢冬季、圣诞或按寒冷增加食量。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "916a3f59a7840cd556ff1a99da9d9cd936605eb101d86b8e4218087d62344566",
+        "source_pdf_sha256": "a1369d45b54ec39ab8902e39041633d8e058527c8c1262cea9328ee5851f68cb",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251212",
@@ -17617,7 +18688,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "4db44e4ee2dc4390074b6829433053fc8eaeff385c3de0e409494aa07a4dc241",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17668,8 +18739,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从午餐剩菜问到今晚吃什么，澄清we指谁，再按到岗和课后安排说明谁可能做饭。可借代词对象与条件分工；未实际协商完成，mostly不等于总是、tea也不在所有语境等于晚饭。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "55bc0dacea3bfc777f90cd23b9e52089e7dd6171eda736472bb2781470f8a802",
+        "source_pdf_sha256": "11525dff39d18cbea9f2817c4c9b1ca1ede7c8c2eac3c76c72a6da4ede2e5524",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251219",
@@ -17705,7 +18793,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "586e8411af62c849ed11c6cd288e8845794adc39f5ea142d902597bcaa3af1af",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17764,8 +18852,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问什么让自己笑、喜剧类型和是否擅长逗人，接分享视频的做法。幽默文化选看，不强迫搞笑或照搬同事玩笑，激素与健康机制未核不作教学科学结论。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "1330dca5eea21aca4593053e02114d2618e8b5a10ec9f8dcef68472d89bf55e6",
+        "source_pdf_sha256": "dad24f589cfae5385e6fee58cfdb2a15e828d722ac443a89b3f8e732e2bd39bc",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-251226",
@@ -17801,7 +18906,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "95a399013aa8e39e550f8464c34aad7b78f58b37135c54c18fb524b90fa96224",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17852,8 +18957,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "回顾年度亮点和各自贡献，追问感受，再承认未完成目标及原因；既有活动与未做事项分开。可用于项目复盘和观点视频素材，不借主持人三十岁生日或合唱成就当本人事实。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "660accbb5f8baa93416c7c780de852bc52e2e9f894aa585aa4b66b1534238689",
+        "source_pdf_sha256": "c12cfef0d8dac05c944bf0331348ff87058d997296cc71c054d5cd97752a94b1",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260102",
@@ -17889,7 +19011,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "34795cb0db3cec7d497d453f22b8e36977f70007cea6b6ccd229d10c1425b39e",
             "text_hash_basis": "local_file_bytes"
           },
@@ -17948,8 +19070,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较明确旅行安排与未定计划，再从许愿过多转为少量目标，建议可交付作品；未展示报名、训练或出歌。可借目标具体化与减少范围，不把外部愿望自动设本人学习指标。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "026b8b82a66af89a7818cbe33f49cee3ebb0239c48901db76216ce822707f8ba",
+        "source_pdf_sha256": "443b1efc481326fd31f34f3fc12c00a29e32bcdcb9b25b6ff05071d41a9bc9cb",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260109",
@@ -17985,7 +19124,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "f3d430f3d1e643da7b8bf9d009f7b271a7d37cd06bda8ef203ce5c745a3437a6",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18036,8 +19175,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "由衣服颜色互问偏好、深浅与搭配，再谈旧墙面和想改的空间。可借用具体对象描述偏好，颜色是否相配属个人判断，不当设计可访问性或UI规范课。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "70ec40b027447c034dc794a303d0b38028755bf35fdd6b9305d8d73761ab43e6",
+        "source_pdf_sha256": "8c04f5823cdebe86ee5e44a8e344f7ed3d7a9f5aa5ec3590b96278d2b98b209b",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260116",
@@ -18073,7 +19229,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "fa6d36166e16bea4b3413a8ee444fff71cfdf94a1e67119f6f1a1c73bdedf551",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18132,8 +19288,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问饮品频率和偏好，比较热饮、汽水与无气或有气水并解释原因；没有订单。可支持差旅饮品选择，人物对气泡水前后偏好有变化，不抽成唯一听力答案或健康结论。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "71fbd9d87803350128457b60f6411390e70a109fba29b6ab360b305d85a6d60a",
+        "source_pdf_sha256": "2fcdd0873459d565e7107409eebced0598afb37da2ebd3929571a277f63b4771",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260123",
@@ -18169,7 +19342,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "269a3abf671bf5448ef59fa79e220a2cf7c83eaa3a33ed6f7868e9b808b48e45",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18220,8 +19393,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "用野生动物遭遇讲背景→发现→反应，再澄清不认识的动物与是否野生，讨论想看的动物。叙事选看，不新增动物词表或观兽安全指导；角色也保留不确定。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "2d742c8bde5986e609570191f01c041da641326eb3a316ab026e537a4200f9db",
+        "source_pdf_sha256": "9fa3b608ef7e9837b390bc642c58cd1bd17e2778d468a5679d3af9d8d036bd8a",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260130",
@@ -18353,7 +19543,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "08c9d94e48c24a8cb1a8a04436980de0b941f0ac58001c86116136af9abe9747",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18425,8 +19615,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "讲跳伞多次取消和滑雪场关闭，说明曾想尝试但实际没做，再互问可接受风险。可借尝试不等于完成的叙述，极限活动、最高雪道与安全评价留参考，不作实用操作。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "4954ad2683cc8f2bd9151b05f233459180ffc0d0aa43436a794e7704b2bab7fb",
+        "source_pdf_sha256": "ad8c0907855f2e62e789a5546eb49eef384c0ad189f734b09345ee68964a7769",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260213",
@@ -18462,7 +19669,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "178a38b0049d61071b314d4c4b225d15eb31a90ea9bffcc585ad6a39a5ab6930",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18513,8 +19720,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "新手向父母询问养育的收获、困难与建议，得到经验回应；没有效果验证。育儿自愿选看，不设本人子女信息或把屏幕禁令、年龄阶段概括当科学指导。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "04c4fa382567854d4c70e0917631b8f0afaf4a52790f2ea601cff0db58db67c4",
+        "source_pdf_sha256": "60cc587416c5214233270e78fe7c3a425065be34451bf065f6d32dba017d0ba5",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260220",
@@ -18550,7 +19774,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "5b8e5cfbe278ea6ac1e10ca61d53d18684f57bb70adca05f4cf005bfd2a43314",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18601,8 +19825,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问生日月份与庆祝方式，比较重要生日的感受，再讲生日结婚的特殊经历。可供自愿生活交流，不要求公开年龄婚期、举行聚会或相信许愿说法。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "f76d7b998bd53cdb7430eb0f30306eb0931810f1aeae639f1bc0b5e886c3f083",
+        "source_pdf_sha256": "977260daf5c15a71121b6dc389a0172918a323a16716f707a5cadc2248bc13b6",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260227",
@@ -18638,7 +19879,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "3873f51104fdfb395aad1d77b6782d8aec102a87abb9705b534eb3ea1f2edd3d",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18689,8 +19930,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较团队与个人运动的压力、乐趣，回顾校内最快却比赛失利的例子，再谈初学建议。可借合作偏好和不同证据尺度，不把运动体验直接证明工作团队能力。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "a04cfc0cffae5cd3a93e0a9f6e0d694a075f4a81e18357a38687e0583debddd8",
+        "source_pdf_sha256": "042c86d09a84de1eec7957546303513e94b0d7d626c78f4ff87336a04dac68a4",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260306",
@@ -18747,7 +20005,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "2f64561f46e99f257d15d790c149d8b918502ee4cf5e48f33c01c5d390ac7b61",
             "text_hash_basis": "local_file_bytes"
           }
@@ -18777,8 +20035,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "由返程后的雨天互问雨量、偏好、外出与可预期天气的愿望；没有实时预报或备选行程落实。先取heavy/light rain和当前影响，不先背整套雨的习语或套英国气候。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "fcd53c803e9e7d308a475f641350be5a6a24f308e3d28308af279f8e7a5ebc9c",
+        "source_pdf_sha256": "81c7a308bad4aafc1eda39e0ab4b91fee0f43bdde9ad6fbad105354ff411b46b",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260313",
@@ -18814,7 +20089,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "fd057d56b2dc52623bf18a88854b5b79d090b5ae7a91be64363357bd43752989",
             "text_hash_basis": "local_file_bytes"
           },
@@ -18865,8 +20140,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问巧克力喜好、频率及口味，区分完全放弃与减少，并承认现实选择；未展示减量。可查give up/cut down的意思差别，不为重复食物另开主课或作营养结论。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3dc2bf4ae960e004fe9e8dfad3a2321a8e954e5696a7afb2d7dd1c7d912ff527",
+        "source_pdf_sha256": "07cd029dd486a43cfdba457479742751bdcd9ceebbdd26ee959c097b7772e3df",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260320",
@@ -18998,7 +20290,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "d1404ba31b429d0dda3abb9a25cf38ac65eb9f73356d99efba88ccbef8eca72a",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19049,8 +20341,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从饮水偏好与够不够到节水做法、漏水和旱情经历，建议加味仍待尝试。可借资源使用说明，不给固定饮水量、当地限水规定或维修步骤；当前需求才选。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "755ead8178375eb1192fc5db0eafb2d4c70b2373997d2672889149cf54dbee66",
+        "source_pdf_sha256": "44750dde2dade8dbb76bc55e11950b4269e6b578a0614bb09564d0a87dda63e2",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260403",
@@ -19086,7 +20395,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "314fd78f79dfceff287209b4f210f7ea2821d8ebd7840573cbd526bca28ec8f6",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19137,8 +20446,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较何时何地读书、长短与类型偏好，再追问作家和理由。适合推荐资料或兴趣闲聊的短版，不把页数界定小说、非虚构全等于真实故事或诗必短当严格规则。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "da08b5e186272b7024f76a2b998c7bd0fbe6fa4ca1c6e8c638d20e772bb9f1cc",
+        "source_pdf_sha256": "253521627be92c5b2a9da96795c05cce83dfd1a082ff09c0506f574c53a3d665",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260410",
@@ -19174,7 +20500,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "83843d2cc01568c8df03630039ca5bc9dfc7944ec4eb20567eaac795334092fd",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19225,8 +20551,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "讨论晴天活动、阴凉处与防晒习惯，互问个人保护方式；没有共同敲定行程。可选日常天气交流，不采用其中健康、防晒或临崖活动说法作完整安全教程。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "6ba291a6054b5c883626857d015fa0178b24078f286a42d5bb2695e5d9b6a790",
+        "source_pdf_sha256": "186fb002268073f135134f99688035a2ea1a1569012803c59f0b4a45bf3c4e55",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260417",
@@ -19387,7 +20730,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e90826dfaf8c7c0a98a851485c4a568dd4450c0e4a3462e92f78e7a7a5f13307",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19438,8 +20781,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "忘带午餐引出需要写任务清单，再讲共同回忆与纪念物；没有补救任务落实。可借承认遗忘、记录待办与追问，双方记忆一致不自动等于事实证据或检索方案。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "40f9f1488edabdb1931357694f4d1d4a53f97fd854cd30065575bb57a990092d",
+        "source_pdf_sha256": "a41528ecf1ed31a3a3308319b8df2dd5874aa531b47df4f8f5d98eb027cdf30a",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260501",
@@ -19475,7 +20835,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "05df967aa3f48d63f3572cf2ce83bb45e5bec814479c5239158d66b65042d858",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19526,8 +20886,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "询问最近看牙、检查与矫正经历，再讲痛苦回忆；没有预约、症状问诊或治疗决定。可作就医经历语言参考，不沿用无痛就不用检查或蛀牙全因没照顾等医疗概括。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "47c137eb49944b45ce8fc682f68c385fe077b4cc9d12ce6db818b924bd5a284f",
+        "source_pdf_sha256": "69814fda00d381b30f69dee865f2dd64e6936cd7c13a15dc96f0d05c2658a482",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260508",
@@ -19563,7 +20940,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "201a38921a6aaec0d0ab1d55d25d39a2f58cb6fc7b00101324fd3e502be8fb55",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19614,8 +20991,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问水果、口味与成熟度偏好，再做只能选一种的假设选择并说明理由。可查描述食物状态，不把词例扩为水果词课、食安判断或已完成购物。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "6e1202e62d80844e5573f495afbf128cf8a43d3e9ecbe47996dd464eab283923",
+        "source_pdf_sha256": "2fa1b8f32764190d895961df55ac34ccd6ce1247c17c07e71dd244cd5991dea8",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260515",
@@ -19651,7 +21045,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "dd611d3c64979c8527d12ce8c1a2139f37e0ac9c80f4cb875898251a3d1419bd",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19723,8 +21117,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "讲周末试修水箱、能做与不做的事、装配协作及预算未做的项目；修水箱未说成功。很适合表达能力边界、尝试与未完成，生活技术方案不改名成软件排障证据。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "d11bbeba9b3dba7aa516ed20c0fe78d315678959dd854628bf98728f97000989",
+        "source_pdf_sha256": "bfafb1d32020f15a5f1e6f0c9a68b70830fb88478b5bb78b260c844409111fc8",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260522",
@@ -19760,7 +21171,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "f0908798435fe0b72c3f717cdf8efabe2a850dd5111f84e4f982349e77d6201b",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19811,8 +21222,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "互问全名、简称和名字来历，再核昵称是否喜欢、谁能用，接跨语言取名考虑。可借首日称呼确认，名字来历可答不知道，不要求取英文名或同事使用家庭昵称。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 2,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "6aaca087b291c45316525d6a239d3e04bd28e23f9ebaee04011c03abbeead7c7",
+        "source_pdf_sha256": "aea5b6e24b654fd3fa1081df501cd3982b050452e2c461efd0e1e0dab7829559",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260529",
@@ -19848,7 +21276,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "43a8946389bce5501a83b3fed12859039b65fe38222a00b92677275b5d62ff1f",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19899,8 +21327,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较海边放松与活动、沙滩和石滩的取舍，再讲一次日落经历。生活兴趣选看，不强加海边任务或把晒太阳再游泳的个人做法当安全方法。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "b36e58c21a0c2e8a4ddfc84c7d06bc0f441e7585e3a55953ace75f88fc20a979",
+        "source_pdf_sha256": "696e6d1b17bec534c172fc5dd4ada8ed937b929f014981a4286a9f194d1fb8c0",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260605",
@@ -19936,7 +21381,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "07c9dc047aad65f2d873d7f94f6dd078a16c6a564cf8df3020d5849f47fa7ba4",
             "text_hash_basis": "local_file_bytes"
           },
@@ -19995,8 +21440,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从本周聚会计划问到联系频率、久未见原因与关系变化，提及提前约下次；没有本次具体邀约落地。可支持联系旧同事，old指认识很久，不限童年或对方年龄。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "744d38410aa52ca002220421f23680feb840e246bc9373c080a4afdb47d25d80",
+        "source_pdf_sha256": "89ec387f68a73885ea2ff65c7e202ceb3e33cdd7733ef4b9dadd5af5c0922d69",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260612",
@@ -20032,7 +21494,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "745d365ffc4b90159dfe706704645b74243f7490c7465b1f6b1edd5b5e7c3700",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20083,8 +21545,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较热天活动与室内空调、同行者不同选择，承认不同地区条件；没有共同最终选择。适合差旅说明环境偏好和需求，不把英国从不危险高温或个人降温方法当通则。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "47fbd8aa8d7f5eaab14346265aad785420f79e6949be5be54eee0600949780e4",
+        "source_pdf_sha256": "db302f217c0a96c8de1752be5f83723ba3261865971702d3a655b3d1b9b5e77b",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260619",
@@ -20120,7 +21599,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "35e6003db6e9a21e2fe32a22058fe83400cd57f64316235bcf58de9d555fe715",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20179,8 +21658,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "用演出噪音、通行和反复提问说明具体行为及影响，再反思自己也会打扰人。可借行为→影响→本人感受，不把hate语气直接当职场反馈模板；没有提出并确认修改。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "91380018d833df2c3f8f0257c0eee8c7e318fb9bdd7e5629be262b40a15dcd79",
+        "source_pdf_sha256": "7a6cd4a3d16d122cb24808e5444cb159b5dad35251321608187591bc1a71385c",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260626",
@@ -20216,7 +21712,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "bddb86140ca8bfd74243476d019ea175bbe5f2bf3f9cb1034d745cf908a95223",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20267,8 +21763,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "回顾搬家原因、物品多少和搬运方式，再列网络账单等准备事项；目前都不准备搬家。可作流程描述参考，不新增移居主线、租约规则或声称网络已经设置成功。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3b58a7069c040b46a9f174af887accb2cb5f10bbea0a9172ec6b0a2b48bd304c",
+        "source_pdf_sha256": "e9ba4ffdacf022c274b0cc07ba017a79031da49d30687da9a46771a35a4fc5b1",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260703",
@@ -20400,7 +21913,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "95c80d7269fd413ae07d2fad13b9b24b03a99cfb984b93e71d55e79e4babe7de",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20451,8 +21964,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从个人感受引入极端天气，再解释能源与节约用语，主要是知识说明，少完整协商。可借事实与个人观察分开的观点结构，气候数据和技术因果另核，不冒充开发者英语。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF06",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "f1b95b1c536dc9d2fe51351c4b41c2dda370a37e87dec8d77df5bfe9621eb7dd",
+        "source_pdf_sha256": "42f4ba434a577284696212fc3d29413914671f59da6f36a3817feddabb2d117e",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260717",
@@ -20488,7 +22018,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ad7d96b878daf8f2323faab02395448d70e4dc53d844f4739697028a31970059",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20539,8 +22069,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "描述发型、过去尝试和理发经历，比较时长并说想改的样子；没有实际预约或向理发师提要求。外貌与个人偏好选看，不当同事闲聊必问或本人染发目标。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "f52e295ae45bb5e46ea008a809efe50d08c7e0c370b72456edf9c6ae954f8bf7",
+        "source_pdf_sha256": "c2374cf646e1224ac3045f976ab560b7f55a851840beeea77ee860e0f9271dbe",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260724",
@@ -20576,7 +22123,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "d2bffa4192491ad5f3f2e2e96bc6ca1f93a71029081915e3ba2a227d473c1e5f",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20635,8 +22182,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较亲属往来、回忆长辈与研究家谱，承认王室关联故事未证实，提出查记录；没有查证结果。只借传闻与事实分开，不要求家谱数据或新增亲属词表主课。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "f83bb619083fc82e6f5732091c9c8e72da987e24f473d39a385dc41dbaa230a6",
+        "source_pdf_sha256": "95ffdc697c12fe2541726f9e1fa0ba716611da35576d9f47b0bbf31574cbced1",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260731",
@@ -20672,7 +22236,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "cfc63cbcd4eee766f19505f0966e0298050638e3707f235816b1aae1afcd03dc",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20723,8 +22287,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较城市便利与成本、已住城市和想去之地，先列利弊再表意愿；没有搬迁或行程确认。可说本人城市一项便利与限制，不套硕士或海外经历、绝对城市价格判断。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "877354311dbcdd248a0edd7c2b43b45288833785fb93f04ef50bf0b76d055a26",
+        "source_pdf_sha256": "af7fa22c018134e8d63b4558b0f9ecfd859e8bdbed247f2db1435cf279d92da6",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260807",
@@ -20760,7 +22341,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "efd209371fafedef12ba4fb6e2a79783a9d5f8b6fdfe1d4be6b8798fdd17255c",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20811,8 +22392,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从一顿辣餐问喜好变化，再讲过辣的具体经历与尝试缓解，承认不知道是否有效。与口味课作同任务替代，不新增辣椒课、健康结论或把喝水后的恢复归因成功方案。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "34cb8383ddcaba9d1cb55bdf599b9a86e84d3212193e9ec94024fa0c5fe76be6",
+        "source_pdf_sha256": "89368805af0a9f3a1dfbb77939abe8c789e3dea7accf24675ff65b209d1800b4",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260814",
@@ -20848,7 +22446,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "87e5cc0f9457ae6dcfcc838b09d0b40a1b44b473925e438979e3b0435081db1d",
             "text_hash_basis": "local_file_bytes"
           },
@@ -20899,8 +22497,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "先问今天与早晨状态差异，再说饥饿、疲劳与环境影响和个人应对，承认看起来开心未必如此。可借说明当前状态而非给同事贴标签；不要求掩饰情绪或套生理解释。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3933eb30c5b1e6a608912d9656566b90e9bfb77197fc9e95d56d12c4672d7db0",
+        "source_pdf_sha256": "46c2f187bfbdccbc2faaeeb4fa5d32b0ed325a138a0b690b2a934d6eb411f831",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260821",
@@ -21053,7 +22668,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "8a477e38bfecb6eccec8e9d4ef88cfe70d7cad09cee85264a3f69af9da4ac22c",
             "text_hash_basis": "local_file_bytes"
           }
@@ -21083,8 +22698,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "先澄清为谁准备房间，再讲实际家务、轮流规则、推迟原因和家人协助不足；规则存在不等于每人落实。可借任务分工与完成状态，不套清洁词表、家庭角色或暗示已协商成功。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF02",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "0b6a4ad3a6f94dc10f92ebc5c93c1a5626288b793e87b804615cc4010d0b4ad7",
+        "source_pdf_sha256": "8e1ece264dde10606e8d72addbf44ee07dd9ee7c0cc02bf086994f69597c4126",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260904",
@@ -21216,7 +22848,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "a0100b184d02d4a91bba01cf6b739f2d9b1ce5bccb5ee517ad39052430ca7ce3",
             "text_hash_basis": "local_file_bytes"
           },
@@ -21267,8 +22899,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较甜点与前菜选择、吃的频率及一次难忘经历，解释口味与饱腹感。可作餐前偏好变式，不当现场下单、配方或健康规则，不和其他食物课重复算新场景。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 2,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "6f9b7f5e7d03ee02938e9a558673a0ca31d8855df353c9d14ca7e216fc8edf5c",
+        "source_pdf_sha256": "a57446c6dd843747c314389e9ca173c1c04c58a6ed99f4fab17fb657a4227fae",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-260918",
@@ -21400,7 +23049,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ca0b40abdda4697ed645d8f98ce0a33ce1ac2f46cfb8b11f6682a0f6f1cc16de",
             "text_hash_basis": "local_file_bytes"
           },
@@ -21451,8 +23100,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "观察秋季变化、比较往年与今年偏好，再讲万圣节和篝火夜回忆；没有组织活动。文化选看，月份与习俗限当地，篝火烤土豆失败片段不作操作教程。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF07",
+        "text_task_band": 3,
+        "use": "optional",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "3d1d6e4ec829534469efeadbc34ee19712340a18e35fb4ae168e00f8afd1b774",
+        "source_pdf_sha256": "6187903082ac5432a0904a95d683ac35f4eda5796dfc43d8d3d40c0bb85e0e97",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-261002",
@@ -21584,7 +23250,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "ff20255b12d08a13ebffaaaab207cf014ddd0553b9a65fc62766e608b387d74b",
             "text_hash_basis": "local_file_bytes"
           },
@@ -21635,8 +23301,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "比较影院和家里观影的体验、成本与社交目的，对常见理由提出条件反问并部分认可；没有共同购票。可迁移选方案时按目标比较，不把影院偏好或轻声交谈当普遍礼仪。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF01",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "0ed650585215bc933e6a25b045b5807d4d52c0679397c6159dcb55bf1b89d4f1",
+        "source_pdf_sha256": "e44bb6442eb61ca57add23ec48528ea0e467fd481ea9377d7abdcb08dfdd5118",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "BBC-REE-261016",
@@ -21672,7 +23355,7 @@
             "text_extracted": true,
             "role": "transcript",
             "topic_match": true,
-            "review_status": "obtained_structure_checked_not_editorially_read",
+            "review_status": "whole_transcript_text_read_not_audio_aligned",
             "text_normalized_lf_sha256": "e21ca71b6a16fce1acc8b6f1f61b1a3a97d38332b78afa6acabf14e3c00433ca",
             "text_hash_basis": "local_file_bytes"
           },
@@ -21723,8 +23406,25 @@
       "playback_verified": false,
       "site_embed_playback_verified": false,
       "adopted_as_primary": false,
-      "editorial_review": "obtained_script_not_editorially_read",
-      "audio_alignment_verified": false
+      "editorial_review": "whole_publisher_script_read_not_audio_aligned",
+      "audio_alignment_verified": false,
+      "editorial_note": "从最近去的地标追问原因，比较伦敦与其他地区体验，再给出参观建议和导览偏好；没有预订。可借推荐一处、说明理由和限制，不要求英国地标知识或沿用历史说明为已核事实。",
+      "editorial_learning_order": {
+        "reference_series_id": "REF03",
+        "text_task_band": 3,
+        "use": "task_input",
+        "whole_video_required": false,
+        "audio_difficulty_verified": false
+      },
+      "script_review": {
+        "checked_on": "2026-10-19",
+        "whole_obtained_transcript_text_read": true,
+        "source_text_sha256": "1afe50e7936cfd1fce0382ac36019e1aadb1f3fb2ae400736c881814f41b3d6e",
+        "source_pdf_sha256": "3af2b5761083909a199de5c814c703c41ef73b0a58f79e16fb7291338e64eb20",
+        "audio_alignment_verified": false,
+        "publisher_not_word_for_word_boundary": true,
+        "worksheet_review_included": false
+      }
     },
     {
       "id": "C01",
@@ -44588,12 +46288,12 @@
     "pronunciation_lounge_lessons": 16,
     "british_council_a1_lessons": 5,
     "whole_scripts_read": {
-      "real_easy_english": 24,
+      "real_easy_english": 123,
       "pronunciation_lounge": 16,
       "british_council_a1": 5
     },
-    "pending_real_easy_regular_scripts": 99,
-    "real_easy_introduction_read": false,
+    "pending_real_easy_regular_scripts": 0,
+    "real_easy_introduction_read": true,
     "obtained_bbc_pdf_files": 256,
     "obtained_british_council_pdf_files": 5,
     "total_new_local_pdf_files": 261,
@@ -44609,8 +46309,266 @@
     "site_player_acceptance": 0,
     "automatic_answer_adoption": false,
     "difficulty_boundary": "Only editorially read sources receive text/task bands. Publisher Easy/Medium is not official CEFR. Whole source video load differs from selected short event. Pronunciation support is optional alongside current task, not a prerequisite course.",
-    "completeness_boundary": "Snapshot of all entries linked by the checked official indexes, not a finite completed Real Easy English programme or an all-video archive. 124 BBC REE scripts (123 lessons + intro), 16 pronunciation scripts and all 5 A1 support PDFs acquired. All 16 pronunciation worksheets read; 24 selected REE scripts and 5 A1 scripts read. Audio HEAD is not listening. BBC page video PID is not playback verification. Copyright/year and video upload date are distinct. Official broken or wrong-topic links are retained separately and do not count as matching support.",
-    "curated_event_groups_added": 9
+    "completeness_boundary": "Official index snapshot of 123 regular REE lessons plus introduction; 123 regular scripts and introduction_read=True editorially read. All 16 pronunciation scripts and worksheets and five A1 speaking scripts previously read. REE worksheet presence is acquisition evidence; this follow-up reads transcripts only. Whole obtained text is not word-for-word audio alignment, media playback or learner evidence.",
+    "curated_event_groups_added": 9,
+    "script_editorial_checked_on": "2026-10-19",
+    "real_easy_followup_review": {
+      "checked_on": "2026-10-19",
+      "new_regular_lesson_texts_read": 99,
+      "introduction_text_read": true,
+      "new_review_source_ids": [
+        "BBC-REE-240426",
+        "BBC-REE-240503",
+        "BBC-REE-240510",
+        "BBC-REE-240517",
+        "BBC-REE-240524",
+        "BBC-REE-240614",
+        "BBC-REE-240621",
+        "BBC-REE-240705",
+        "BBC-REE-240719",
+        "BBC-REE-240726",
+        "BBC-REE-240802",
+        "BBC-REE-240809",
+        "BBC-REE-240816",
+        "BBC-REE-240823",
+        "BBC-REE-240906",
+        "BBC-REE-240913",
+        "BBC-REE-240920",
+        "BBC-REE-241011",
+        "BBC-REE-241025",
+        "BBC-REE-241101",
+        "BBC-REE-241108",
+        "BBC-REE-241122",
+        "BBC-REE-241129",
+        "BBC-REE-241213",
+        "BBC-REE-241220",
+        "BBC-REE-250117",
+        "BBC-REE-250131",
+        "BBC-REE-250207",
+        "BBC-REE-250214",
+        "BBC-REE-250221",
+        "BBC-REE-250228",
+        "BBC-REE-250307",
+        "BBC-REE-250314",
+        "BBC-REE-250328",
+        "BBC-REE-250411",
+        "BBC-REE-250418",
+        "BBC-REE-250425",
+        "BBC-REE-250516",
+        "BBC-REE-250523",
+        "BBC-REE-250530",
+        "BBC-REE-250613",
+        "BBC-REE-250620",
+        "BBC-REE-250627",
+        "BBC-REE-250704",
+        "BBC-REE-250718",
+        "BBC-REE-250725",
+        "BBC-REE-250808",
+        "BBC-REE-250815",
+        "BBC-REE-250822",
+        "BBC-REE-250905",
+        "BBC-REE-250912",
+        "BBC-REE-250919",
+        "BBC-REE-250926",
+        "BBC-REE-251003",
+        "BBC-REE-251010",
+        "BBC-REE-251017",
+        "BBC-REE-251024",
+        "BBC-REE-251031",
+        "BBC-REE-251107",
+        "BBC-REE-251114",
+        "BBC-REE-251121",
+        "BBC-REE-251128",
+        "BBC-REE-251205",
+        "BBC-REE-251212",
+        "BBC-REE-251219",
+        "BBC-REE-251226",
+        "BBC-REE-260102",
+        "BBC-REE-260109",
+        "BBC-REE-260116",
+        "BBC-REE-260123",
+        "BBC-REE-260206",
+        "BBC-REE-260213",
+        "BBC-REE-260220",
+        "BBC-REE-260227",
+        "BBC-REE-260306",
+        "BBC-REE-260313",
+        "BBC-REE-260327",
+        "BBC-REE-260403",
+        "BBC-REE-260410",
+        "BBC-REE-260424",
+        "BBC-REE-260501",
+        "BBC-REE-260508",
+        "BBC-REE-260515",
+        "BBC-REE-260522",
+        "BBC-REE-260529",
+        "BBC-REE-260605",
+        "BBC-REE-260612",
+        "BBC-REE-260619",
+        "BBC-REE-260626",
+        "BBC-REE-260710",
+        "BBC-REE-260717",
+        "BBC-REE-260724",
+        "BBC-REE-260731",
+        "BBC-REE-260807",
+        "BBC-REE-260814",
+        "BBC-REE-260828",
+        "BBC-REE-260911",
+        "BBC-REE-260925",
+        "BBC-REE-261009",
+        "BBC-REE-261016"
+      ],
+      "scope": "remaining 99 regular scripts plus introduction; first four regular scripts and intro read in previous interrupted turn",
+      "audio_alignment_verified": false,
+      "worksheet_contents_newly_reviewed": false,
+      "new_primary_candidates": 0,
+      "new_story_scenes": 0,
+      "completed": true,
+      "new_regular_scripts_read_this_goal": 95,
+      "regular_scripts_read_previous_interrupted_turn": 4,
+      "introduction_read_previous_interrupted_turn": true,
+      "all_regular_scripts_read": 123,
+      "regular_pending": 0,
+      "introduction_read": true,
+      "editorial_sorted_regular_ids": [
+        "BBC-REE-240510",
+        "BBC-REE-240517",
+        "BBC-REE-240607",
+        "BBC-REE-240614",
+        "BBC-REE-240608",
+        "BBC-REE-240816",
+        "BBC-REE-240913",
+        "BBC-REE-241011",
+        "BBC-REE-241108",
+        "BBC-REE-241115",
+        "BBC-REE-241122",
+        "BBC-REE-250117",
+        "BBC-REE-250307",
+        "BBC-REE-250314",
+        "BBC-REE-250801",
+        "BBC-REE-250822",
+        "BBC-REE-251017",
+        "BBC-REE-260116",
+        "BBC-REE-260320",
+        "BBC-REE-260821",
+        "BBC-REE-250228",
+        "BBC-REE-251107",
+        "BBC-REE-251212",
+        "BBC-REE-260522",
+        "BBC-REE-240524",
+        "BBC-REE-240906",
+        "BBC-REE-241018",
+        "BBC-REE-260306",
+        "BBC-REE-240920",
+        "BBC-REE-240726",
+        "BBC-REE-241101",
+        "BBC-REE-241213",
+        "BBC-REE-250207",
+        "BBC-REE-250516",
+        "BBC-REE-251003",
+        "BBC-REE-251205",
+        "BBC-REE-260109",
+        "BBC-REE-260313",
+        "BBC-REE-260403",
+        "BBC-REE-260508",
+        "BBC-REE-260911",
+        "BBC-REE-260410",
+        "BBC-REE-240809",
+        "BBC-REE-240503",
+        "BBC-REE-240802",
+        "BBC-REE-241025",
+        "BBC-REE-250613",
+        "BBC-REE-260220",
+        "BBC-REE-240830",
+        "BBC-REE-250221",
+        "BBC-REE-250425",
+        "BBC-REE-250606",
+        "BBC-REE-250718",
+        "BBC-REE-250919",
+        "BBC-REE-260605",
+        "BBC-REE-261009",
+        "BBC-REE-250124",
+        "BBC-REE-250404",
+        "BBC-REE-250620",
+        "BBC-REE-250627",
+        "BBC-REE-250829",
+        "BBC-REE-251010",
+        "BBC-REE-251114",
+        "BBC-REE-251226",
+        "BBC-REE-260102",
+        "BBC-REE-260417",
+        "BBC-REE-260424",
+        "BBC-REE-260515",
+        "BBC-REE-260619",
+        "BBC-REE-260814",
+        "BBC-REE-260828",
+        "BBC-REE-250418",
+        "BBC-REE-250509",
+        "BBC-REE-250530",
+        "BBC-REE-260612",
+        "BBC-REE-260731",
+        "BBC-REE-260904",
+        "BBC-REE-261002",
+        "BBC-REE-261016",
+        "BBC-REE-240531",
+        "BBC-REE-250725",
+        "BBC-REE-240621",
+        "BBC-REE-240705",
+        "BBC-REE-241206",
+        "BBC-REE-250808",
+        "BBC-REE-251121",
+        "BBC-REE-260703",
+        "BBC-REE-251128",
+        "BBC-REE-260327",
+        "BBC-REE-260501",
+        "BBC-REE-260807",
+        "BBC-REE-240823",
+        "BBC-REE-250704",
+        "BBC-REE-260710",
+        "BBC-REE-240719",
+        "BBC-REE-241129",
+        "BBC-REE-241220",
+        "BBC-REE-250214",
+        "BBC-REE-250328",
+        "BBC-REE-250411",
+        "BBC-REE-250523",
+        "BBC-REE-250711",
+        "BBC-REE-250815",
+        "BBC-REE-250905",
+        "BBC-REE-250912",
+        "BBC-REE-250926",
+        "BBC-REE-251024",
+        "BBC-REE-251031",
+        "BBC-REE-251219",
+        "BBC-REE-260123",
+        "BBC-REE-260130",
+        "BBC-REE-260206",
+        "BBC-REE-260213",
+        "BBC-REE-260227",
+        "BBC-REE-260529",
+        "BBC-REE-260626",
+        "BBC-REE-260717",
+        "BBC-REE-260724",
+        "BBC-REE-260925",
+        "BBC-REE-250110",
+        "BBC-REE-260918",
+        "BBC-REE-250502",
+        "BBC-REE-250131"
+      ],
+      "sort_basis": "selected text/task band 1 to 4, then task-use before optional reference within band, then existing reference-series order and source code; not whole-video audio or CEFR level",
+      "series_order": [
+        "REF01",
+        "REF02",
+        "REF03",
+        "REF05",
+        "REF04",
+        "REF06"
+      ],
+      "introduced_new_SR_groups": 0,
+      "story_scene_count_unchanged": 365,
+      "new_scene_reference_mappings": 0,
+      "source_transcript_not_word_for_word": true
+    }
   },
   "animation_series_snapshot": {
     "checked_on": "2026-10-18",

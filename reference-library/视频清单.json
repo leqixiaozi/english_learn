@@ -26647,6 +26647,127 @@
       "checked_on": "2026-10-18",
       "playback_verified": false,
       "embed_playback_verified": false
+    },
+    {
+      "id": "BBC-REE-260522",
+      "title": "Talking about names",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/260522",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-240816",
+      "title": "Talking about weekend plans",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/240816",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-250228",
+      "title": "Talking about mornings",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250228",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-250725",
+      "title": "Talking about dream jobs",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250725",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-250627",
+      "title": "Talking about your brain",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250627",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-260515",
+      "title": "Talking about DIY",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/260515",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-251226",
+      "title": "Talking about your year",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/251226",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-250808",
+      "title": "Talking about creativity",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250808",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-250919",
+      "title": "Talking about saving money",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/250919",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-261009",
+      "title": "Talking about the cinema",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/261009",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
+    },
+    {
+      "id": "BBC-REE-260424",
+      "title": "Talking about memory",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/real-easy-english/260424",
+      "type": "official_publisher_text_reference_not_primary",
+      "source_catalog": "reference-library/系列课程目录.json",
+      "content_evidence": "whole_publisher_script_read_not_audio_aligned",
+      "playback_verified": false,
+      "embed_playback_verified": false,
+      "checked_on": "2026-10-19"
     }
   ],
   "coverage_summary": {
@@ -26710,14 +26831,17 @@
       "catalog_entries": 145,
       "regular_lessons": 144,
       "introduction_entries": 1,
-      "whole_scripts_read": 45,
-      "real_easy_regular_pending": 99,
+      "whole_scripts_read": 145,
+      "real_easy_regular_pending": 0,
       "local_pdf_files": 261,
       "curated_event_groups_added": 9,
       "main_candidates_added": 0,
       "source_page_short_previews": 1,
       "source_audio_alignment_verified": 0,
-      "site_embed_verified": 0
+      "site_embed_verified": 0,
+      "regular_whole_scripts_read": 144,
+      "introduction_script_read": true,
+      "real_easy_regular_scripts_read": 123
     },
     "animation_source_supplement": {
       "catalog_entries": 140,
