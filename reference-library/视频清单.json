@@ -26841,7 +26841,15 @@
       "site_embed_verified": 0,
       "regular_whole_scripts_read": 144,
       "introduction_script_read": true,
-      "real_easy_regular_scripts_read": 123
+      "real_easy_regular_scripts_read": 123,
+      "real_easy_matching_worksheet_lessons_read": 93,
+      "real_easy_worksheet_pdf_versions_read": 100,
+      "real_easy_worksheet_pages_text_read": 300,
+      "real_easy_worksheet_visual_page_checks": 35,
+      "real_easy_worksheet_task_input_candidates": 52,
+      "real_easy_worksheet_optional_references": 41,
+      "real_easy_worksheet_critical_correction_lessons": 7,
+      "real_easy_worksheet_automatic_answer_adoption": false
     },
     "animation_source_supplement": {
       "catalog_entries": 140,
@@ -26865,7 +26873,7 @@
       "soundsamerican_articles_pending_read": 0
     }
   },
-  "research_evidence_boundary": "The selected source pool now contains 93 entries, including E44 as a reference only. All 251 Easy English official public caption entries checked by 2026-10-18: 248 automatic English exports acquired; 3 not acquired after recheck. All 248 acquired exported texts editorially read; 66 source events paraphrased, including 12 kept as independent reference topics. No acquired exports remain unread; 3 source videos remain without acquired captions. Four observed bodies contain mostly non-English noise, 2 need substantial manual repair and 2 exports visibly end mid-sentence. Full-export reading does not establish full-video caption completeness or accuracy. Automatic captions are distinct from publisher scripts. Existing 58 primary candidates and 307 unfilled main slots are unchanged; no formal adoption, audio-cut alignment or site playback acceptance. Nine British Council complete PDFs previously read, three PayFlow scripts and the BBC worksheet retained as before. No audio/video media downloaded. Foundation supplement checked on 2026-10-18: all 124 Real Easy English index entries, 16 Pronunciation Lounge lessons and 5 British Council A1 lessons inventoried; 45 scripts editorially read. 261 official PDFs locally acquired; full-video listening and site-player acceptance are not established. One British Council source-page preview advanced for about 19 seconds. Jessica / ELLLO / Sounds American: named-series inventories are distinct from entire channels, automatic or unspecified caption authorship is not a corrected script, pronunciation drill words can be absent from captions, and a muted source-page preview is not listening or site acceptance.",
+  "research_evidence_boundary": "The selected source pool now contains 93 entries, including E44 as a reference only. All 251 Easy English official public caption entries checked by 2026-10-18: 248 automatic English exports acquired; 3 not acquired after recheck. All 248 acquired exported texts editorially read; 66 source events paraphrased, including 12 kept as independent reference topics. No acquired exports remain unread; 3 source videos remain without acquired captions. Four observed bodies contain mostly non-English noise, 2 need substantial manual repair and 2 exports visibly end mid-sentence. Full-export reading does not establish full-video caption completeness or accuracy. Automatic captions are distinct from publisher scripts. Existing 58 primary candidates and 307 unfilled main slots are unchanged; no formal adoption, audio-cut alignment or site playback acceptance. Nine British Council complete PDFs previously read, three PayFlow scripts and the BBC worksheet retained as before. No audio/video media downloaded. Foundation supplement checked on 2026-10-18: all 124 Real Easy English index entries, 16 Pronunciation Lounge lessons and 5 British Council A1 lessons inventoried; All 145 foundation texts editorially read (144 regular lesson scripts plus the REE introduction). REE worksheet review on 2026-10-19: 93 matching lessons, 100 PDF versions / 300 pages read as text; 35 selected pages visually checked. Seven lessons have critical editorial corrections or version issues; keys have not been approved for automatic grading. No new scene mappings or media verification. 261 official PDFs locally acquired; full-video listening and site-player acceptance are not established. One British Council source-page preview advanced for about 19 seconds. Jessica / ELLLO / Sounds American: named-series inventories are distinct from entire channels, automatic or unspecified caption authorship is not a corrected script, pronunciation drill words can be absent from captions, and a muted source-page preview is not listening or site acceptance.",
   "source_inventory_reference": "reference-library/EasyEnglish课程目录.json",
   "source_inventory_reference_series": "reference-library/系列课程目录.json"
 }
